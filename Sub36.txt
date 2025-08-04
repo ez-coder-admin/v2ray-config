@@ -3,6 +3,28 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.420:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.440:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.450:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.470:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.480:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.480:443#@Filter_breaker_104.21.25.480
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.490:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.500:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.510:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.520:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.530:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.540:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.2250:443#@Filter_breaker | Germany
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.2350:443#@Filter_breaker | Germany
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.2650:443#@Filter_breaker | Germany
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.3050:443#@Filter_breaker | Germany
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.3050:443#@Filter_breaker_185.146.173.3050
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.3100:443#@Filter_breaker | Germany
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.3350:443#@Filter_breaker | Germany
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.3450:443#@Filter_breaker | Germany
+ss://chacha20-ietf-poly1305:shadowsocks@203.23.128.420:443#@Filter_breaker | Hong Kong
+ss://chacha20-ietf-poly1305:trv-cnUFki4Y7mo_DxsXRQ@8.8.8.8:8888#@Filter_breaker-USA
 ss://chacha20-ietf-poly1305:trv-cnUFki4Y7mo_DxsXRQ@homa.cybsecguru.com:62005#@Filter_breaker-Iran
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#t.me/entryNET/config=1838046169028155
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#t.me/entryNET/config=1838045607253857
@@ -449,7 +471,6 @@ vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:443?encryption=none&se
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#@icv2ray
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none=&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@icv2ray
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#ᴬᴸᴸ²🇩🇪➣@Rk_Vps
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#telegram 🇳🇱 @V2WRAY
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?BIA_CHANEL@RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#ᴬᴸᴸ³🇩🇪➣@RK_VPS
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?BIA_CHANEL@RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#ᴬᴸᴸ³🇩🇪➣@RK_VPS
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?CHANEL@RK_VPS@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#ᴬᴸᴸ⁷🇩🇪➣@RK_VPS
@@ -482,24 +503,3 @@ vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=&encrypti
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Config🇩🇪@Do_itforyou ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRnd
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹³🇩🇪➣@V2rayNGcloud
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁵🇩🇪➣@V2rayNGcloud
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Selinc
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@warp_city
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2RAYNG_1378
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2ray1_Ng
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#✅@FreakConfig
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@warp_city
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2rayNGcloud
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2&host=zula.ir&headerType=http&type=tcp#Mosiv2
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@bored_vpn
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Selinc
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2RAYNG_1378
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2rayNGcloud
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@warp_city
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@warp_city
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@AZARBAYJAB1
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁹🇩🇪➣@V2rayNGcloud
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@VPN66&headerType=http&type=tcp#@V2ray1_Ng
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@warp_city
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@V2ray1_Ng
