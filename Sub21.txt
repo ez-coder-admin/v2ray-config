@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 💦
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.130.250:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.130.250:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
@@ -20,6 +11,7 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:443/?type=ws&encrypti
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#t.me/entryNET/config=1839694093212796
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.143:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.143:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.143:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
@@ -57,6 +49,7 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.145.239:2096/?type=ws&encrypt
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.145.239:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.145.52:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.145.52:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.145.52:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#t.me/entryNET/config=1839694277710866
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.244.7:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.244.7:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.245.122:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
@@ -95,6 +88,7 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.67.35.88:2096/?type=ws&encryptio
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.67.35.88:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#t.me/entryNET/config=1839693271437615
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
@@ -192,6 +186,7 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:2096/?type=ws&encryp
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#t.me/entryNET/config=1839694152058852
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
@@ -244,6 +239,7 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:2096/?type=ws&encrypti
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#t.me/entryNET/config=1839693649082018
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.230:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#@v2ray_configs_pool
@@ -319,7 +315,6 @@ vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.16.108.84:443?path=/&security=t
 vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.16.108.84:443?path=/&security=tls&encryption=none&host=shutu.pages.dev&fp=chrome&type=ws&sni=shutu.pages.dev#@V2RAY_VMESS_free
 vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.16.108.84:443?path=/&security=tls&encryption=none&host=shutu.pages.dev&fp=chrome&type=ws&sni=shutu.pages.dev#🔥 @AblNet7 🇨🇦
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?path=/Telegram-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=t-netplus-4vx.pages.dev&fp=chrome&type=ws&sni=t-netplus-4vx.pages.dev#@V2rayNG3
-vless://a8b6457c-eee7-4e46-8c71-307782d41cfe@t11.morgoon.com:2087?type=tcp&security=tls&path=/&host=fast.com&fp=chrome&alpn=h2,http/1.1&allowInsecure=1&headerType=http#Server11
 vless://a8e41efd-0fb8-459a-9fab-95e038a003f4@s85cndx2225.mmadvip8563.ir:3799?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?path=/a8e84392&security=tls&encryption=none&host=dewuxian.pai50288.uk&type=ws&sni=dewuxian.pai50288.uk#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
 vless://a8eeae9f-0170-4d73-9c21-4d868469c6e2@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
@@ -386,7 +381,6 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=/Free-
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=/Free-CF-Proxy-AT29&security=tls&encryption=none&host=web.xhamster.biz.id&type=ws&sni=web.xhamster.biz.id#IRAN 351 (@Outline_Vpn) free
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=/Free-CF-Proxy-AT29&security=tls&encryption=none&host=web.xhamster.biz.id&type=ws&sni=web.xhamster.biz.id#IRAN 502 (@Outline_Vpn) free
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=/Free-CF-Proxy-AT29&security=tls&encryption=none&host=web.xhamster.biz.id&type=ws&sni=web.xhamster.biz.id#IRAN 515 (@Outline_Vpn) free
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=/Free-CF-Proxy-AT29&security=tls&encryption=none&host=web.xhamster.biz.id&type=ws&sni=web.xhamster.biz.id#فیلترشکن نامحدود 99ت =» SabznetVPN@
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=/Free-CF-Proxy-AT31&security=tls&encryption=none&host=web.xhamster.biz.id&fp=chrome&type=ws&sni=web.xhamster.biz.id#@Daily_Configs
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=/Free-CF-Proxy-AT31&security=tls&encryption=none&host=web.xhamster.biz.id&fp=chrome&type=ws&sni=web.xhamster.biz.id#@meli_proxyy
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=/Free-CF-Proxy-AT4&security=tls&encryption=none&host=web.xhamster.biz.id&type=ws&sni=web.xhamster.biz.id#IRAN 354 (@Outline_Vpn) free
@@ -458,10 +452,12 @@ vless://ac400e18-fa23-4fa5-b86c-65c6e66e140a @151.101.3.9:80?type=xhttp&path=/Te
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&fp=chrome&sni=miro.com&sid=f74c827840&spx=/#Owner-+-@FF_crony
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&fp=chrome&sni=miro.com&sid=f74c827840&spx=/#Owner-+-@FF_crony   ری اکشن پایین باشه قطع میکنم ✅  @HeragAbad  خرید سرور
 vless://ac74699b-a7bb-47f0-9bf2-9ff6672102b8@www.speedtest.net:8080?path=/V_2raYngVpn?ed=8080&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#@V_2rayngVpn+ایرانسل+و+رایتل
-vless://acacbba-abac-caba-cdab-cbaacbaacbbc@127.0.0.1:2080?security=tls&type=tcp#Telegram:@config_proxy 🔥
 vless://acbb0580-18d1-44e8-8272-4c2caea1f5a5@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#☁️@confing_chanel
+vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@meli_proxyy
 vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@meli_proxyy
 vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@meli_proxyy
 vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://acd867f1-a71b-4a17-a473-2b57930d8678@178.128.231.204:8080?type=tcp&security=reality&fp=chrome&sni=rEfErSion.Com.&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=8e36c7e79b74a6fa&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇨🇦@EVAY_VPN
 vless://acf4558d-eb3d-424b-d6e7-7f4191a2eddb@151.101.67.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#XpnTeam-mljl999dp
@@ -503,3 +499,7 @@ vless://aefb6c46-c692-43d4-e91f-8ad82ff1fde6@www.speedtest.net:2086?path=/@spike
 vless://af00dfbf-5d98-4cd8-80a7-df2b296c5ccf@tci.shadow-net.ir:1370?security=tls&encryption=none&headerType=none&type=tcp#.
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?path=/DSDaswd22!11*fdfm55247.COM.&security=none&encryption=none&host=NOxdB1.BisTaiR.orG&type=ws#@V2rayNG3
 vless://af38c6b0-8a1b-407d-9617-f178ac20752e@188.114.98.68:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
+vless://af483643-0a6d-427e-a9bb-1eb84d27a60d@79.137.195.203:8080?path=/TELEGRAM_CHANEL_JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN-JOKERRVPN?ed=2048&security=&encryption=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ²🇳🇱➣@JOKERRVPN
+vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪 | @External_Net
+vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?path=/vless/&security=none&encryption=none&host=@V2rayBaaz...telegram...channel&type=ws#V2rayBaaz
+vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/vless/&security=none#[🇩🇪]ae_proxy
