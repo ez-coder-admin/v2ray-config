@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://74276b6a-b5bb-47a1-ab5e-c67ae7866bb4@speedtest.net:80?type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=/=BeFreeWithUs?ed=2048&mode=auto&security=none#Channel:@BeFreeWithUs
 vless://7445df1e-b5ec-46c3-ba7e-9f315b274c3e@185.221.64.12:666?security=&encryption=none&headerType=none&type=tcp#@SAVTEAM  | 🇹🇷
 vless://7455e612-b2b3-4092-af2f-679e039c64d8@109.207.171.107:8443?type=tcp&headerType=http&host=zula.ir&path=/#@configMs
 vless://7455e612-b2b3-4092-af2f-679e039c64d8@109.207.171.107:8443?type=tcp&headerType=http&host=zula.ir&path=/#@configMs  ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443?type=tcp#@configMs
@@ -503,3 +502,4 @@ vless://83f79baf-b03f-4fa3-be3e-f32ae64142a0@irani.yousefbn.com:6969?security=no
 vless://83f79baf-b03f-4fa3-be3e-f32ae64142a0@irani.yousefbn.com:8585?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net
 vless://84636647-4b2c-4aaa-8ee2-9e0b1a878384@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#☁️@confing_chanel
 vless://846b82d2-6f31-4458-bf59-5d67f9934e58@104.21.19.124:8880?path=/nazan/pedar/sag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#@V2rayNG3
+vless://846f174c-eb90-4f55-bd4d-be3e5d3b73f8@185.121.235.65:443?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=aqrzlZ7gZ1pb9ryVV-r-FU6RebHct4xd5eqeqze4jX4&sid=ddda60c6754637&spx=/&type=grpc&authority=&serviceName=/@VPNHubMaRKeT&mode=gun#🇳🇱 @VPNHubMaRKeT
