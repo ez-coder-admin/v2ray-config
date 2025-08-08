@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://618a6afb-62ce-42be-ffdf-692b1038467b@91.107.163.96:2096?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
+vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
+vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wonderful-degree.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=/?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wonderful-degree.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@AblNet7🇩🇪 Germany ws (tal)
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wonderful-degree.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@meli_proxyy
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wonderful-degree.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#IRAN 454 (@Outline_Vpn) free
@@ -24,6 +27,7 @@ vless://62889ef3-ff14-4931-b612-726ba602796c@webshecan.webredirect.org:2087?type
 vless://628a9471-8dd9-4b19-ac3d-6470a7bbdbba@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://62a494cb-127f-4d46-9eca-73a104cd1829@balanced-de.irancdngame.com:2012?security=reality&encryption=none&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&fp=chrome&type=tcp&sni=www.pcmag.com#آلمان 🇩🇪 @V2xay
 vless://62a494cb-127f-4d46-9eca-73a104cd1829@cdn.irancdngame.com:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=host-eagle-win.global.ssl.fastlg.net&type=xhttp#هلند 🇳🇱 @V2xay
+vless://62bd60a6-b2e1-4217-9ce1-0b05f726988c@80.74.29.212:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&sni=google.com#Telegram:@config_proxy 🔥
 vless://62bd60a6-b2e1-4217-9ce1-0b05f726988c@95.164.68.37:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY&sni=google.com#Telegram:@config_proxy 🔥
 vless://62fdb478-21bd-4e64-92f8-625149df3124@WWW.SPEEDTEST.NET:2095?type=httpupgrade&host=GE.SODOGODPING.IR&path=/?ed=2560/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@EVAY_VPN
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=/telegram@v2ray_configs_pools/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=configmr.pages.dev&fp=chrome&type=ws&sni=ConFIgmr.PaGeS.dEV#♾️𝗝𝗼𝗶𝗻➠@V2Ray_hiddify10♾️       🆓️135<---
@@ -243,7 +247,6 @@ vless://6be09091-9322-425e-b2ad-2b67fbd55044@www.speedtest.net:8080?path=/@V2RAY
 vless://6be4fd18-d9ad-4ea5-d517-da25914b7829@104.21.112.1:8080?security=&type=ws&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&host=join-to-unlimiteddev.sabadyt.ir&encryption=none#@unlimiteddev
 vless://6be4fd18-d9ad-4ea5-d517-da25914b7829@cumhuriyet.com.tr:8080?type=ws&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev
 vless://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel@vmessorg
-vless://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443?path=/wsv/6c11247b-6078-461a-93d5-22e4df284e6d&security=tls&encryption=none&host=mirror.fullmargintraders.com&type=ws&sni=mirror.fullmargintraders.com#@AblNet7🇨🇦
 vless://6c11247b-6078-461a-93d5-22e4df284e6d@198.62.62.229:443?path=/wsv/6c11247b-6078-461a-93d5-22e4df284e6d&security=tls&encryption=none&host=mirror.fullmargintraders.com&fp=chrome&type=ws&sni=mirror.fullmargintraders.com#@V2RAY_VMESS_free
 vless://6c198339-837d-4f61-940f-fa4f6776dc07@dd2.atelienaderr.ir:443?path=/&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=dd2.atelienaderr.ir&fp=chrome&type=ws&sni=dd2.atelienaderr.ir#🌟Telegram:@Asak_Vpn
@@ -500,6 +503,3 @@ vless://756f82d8-8c50-472a-bae6-f62cff8edf8a@vnodepro.vgyop.com:80?mode=auto&pat
 vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@005188006073.sec1org.com:443?allowInsecure=0&alpn=h2,http\1.1&security=tls#Telegram:@config_proxy 🔥
 vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@005188006073.sec1org.com:443?allowInsecure=0&alpn=h2,http\1.1&security=tls#t.me/entryNET/config=1839858738090096
 vless://7583af76-66b0-4adf-e8ff-448966ea4634@fr.irimcs.org:2096?type=grpc&serviceName=Telegram:@catvpns&security=reality&pbk=FLNExbTRe2xr1_ULubE3XL0l9AoeZ7Afx5EdfRy4-Ds&fp=chrome&sni=greenpepper.ir&sid=b4c9&spx=/#🇩🇪🎮-@CatVpns-German
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?path=/&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s02.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s02.gatesriver.ir#@V2RAY_VMESS_free
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?path=/&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s03.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s03.gatesriver.ir#@V2RAY_VMESS_free
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?path=/&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir#@V2RAY_VMESS_free
