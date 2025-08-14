@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 593 (@Outline_Vpn) free
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 605 (@Outline_Vpn) free
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 605 (@manzariyeh_rasht) free
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram : @EXPRESSVPN_420
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram: @vpnbaz
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#𝗝𝗼𝗶𝗻 ➠ @NormanV2ray | نیم ساعت دیگه قطع میکنم جدیدشو بردار از کانال
@@ -68,6 +64,7 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇩🇪[Telegram:v2rayng_fars]
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?security=&type=ws&path=/193.123.81.105=443&host=zoomgov.vipren.biz.id&encryption=none#[🇨🇦]ae_proxy
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?security=none&encryption=none&type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443#[🇨🇦]t.me/ConfigsHub
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443&security=none#
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443&security=none#@V2ray_cartel
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443&security=none#@v2ray_cartel
@@ -123,6 +120,7 @@ vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyo
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#✅ @vistav2ray  👈👈کانال ما
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎 @AblNet7 💎
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🔥@AblNet7 🇮🇷 نت ملی 🔥
+vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://2062dda9-b7cb-4488-922c-e2e4db9d361a@7x1ir8.de4.bbbbbbbbbbbb9.biz:4264?security=none&encryption=none&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#@NETMelliAnti
 vless://206a5643-317e-4590-89ea-b2c874633bbf@91.98.21.58:18606?mode=gun&security=reality&encryption=none&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew&fp=chrome&spx=/&type=grpc&serviceName=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&sni=www.cdn77.com#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://2093ff00-947d-43bb-9b6b-79aaa018d7cd@zs9.topsekan.site:13058?security=reality&encryption=none&pbk=xBCYH9SE8Przpjidy0yi3-dD2IcTZjEzhfq9iixLAkA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=e3c8fb7e#@v2ray313 کانالمون 🥵
@@ -147,6 +145,7 @@ vless://21d64444-0133-4fe1-96b7-4595712a4bcb@31.58.144.49:6666?security=&encrypt
 vless://21d64444-0133-4fe1-96b7-4595712a4bcb@binex.tv.sedanor.ir:6666?security=&encryption=none&type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy#BinexTiFy🔥-g9mfiz40w
 vless://220bafe5-d259-453f-b6b5-9f8988521a66@www.speedtest.net:80?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#@V_2rayngVpn
 vless://22253331-3afd-4b87-ec6f-25e995664743@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://22253331-3afd-4b87-ec6f-25e995664743@tgju.org:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#Telegram:@config_proxy 🔥
 vless://22253331-3afd-4b87-ec6f-25e995664743@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://22253331-3afd-4b87-ec6f-25e995664743@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://222b77d7-6480-4d9f-a9cb-ac9f1bc47783@172.66.40.99:80?path=/&security=none&encryption=none&host=e.zedmodeon.ip-ddns.com&type=ws#♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️188
@@ -360,6 +359,7 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?note=---Telegram
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/@ShadowProxy66-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/@ShadowProxy66-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@v2ray313 کانالمون 🥰
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/@Tunder_vpn--?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@Tunder_vpn-
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#[🇳🇱]t.me/ConfigsHub
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@NpvV2rayFilTer
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#@Tunder_vpn
