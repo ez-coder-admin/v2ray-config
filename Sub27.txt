@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922/?type=ws&encryption=none&flow=&host=edcck.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&sni=edcck.ambercc.filegear-sg.me&allowInsecure=1&packetEncoding=xudp#JP
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.115:443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&alpn=h3&encryption=none&host=edgb.aimercc.dpdns.org&fp=chrome&type=ws&sni=edgb.aimercc.dpdns.org#⚜️Telegram: @IP_CF 🇰🇭
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@duke.ns.cloudflare.com:443?encryption=none&security=tls&sni=edgb.aimercc.dpdns.org&alpn=h3&fp=chrome&type=ws&host=edgb.aimercc.dpdns.org&path=/?ed=2560&proxyip=ts.hpc.tw#@Daily_Configs
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@duke.ns.cloudflare.com:443?path=/?ed=2560&proxyip=ts.hpc.tw#/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=h3&encryption=none&host=edgb.aimercc.dpdns.org&fp=chrome&type=ws&sni=edgb.aimercc.dpdns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +502,4 @@ vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&
 vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@bored_vpn
 vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@icv2ray
 vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@mehrosaboran
+vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@confiig_hub
