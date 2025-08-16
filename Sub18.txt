@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Parsashonam-299@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNGCLOUD🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-67@104.18.14.19:8080?security=none&encryption=none&type=ws&host=Parsashonam.我们累了.tech.&path=/#Joinus(@vpn_Zvpn)
 vless://Parsashonam-67@185.146.173.58:8080?security=none&encryption=none&type=ws&host=Parsashonam.我们累了.tech.&path=/#Joinus(@vpn_Zvpn)
 vless://Parsashonam-67@www.speedtest.net:8080?security=none&encryption=none&type=ws&host=Parsashonam.我们累了.tech.&path=/?Telegram:@proxy_mtm#Joinus(@vpn_Zvpn)
@@ -503,3 +502,4 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.190:2096/?type=ws&encrypti
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.190:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.190:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
