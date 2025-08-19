@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://9c41f9b2-a4c0-44df-aad7-3e8a00adab32@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
 vless://9c513d26-a5df-4c4e-a0b2-a0f81ca8dcf9@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-123
@@ -502,4 +503,3 @@ vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=he10.motorbazan.cOm&type=ws#🇩🇪v2rayng (DE)🔐-confegraigan
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8080&security=none&encryption=none&host=ab.shangoli7.motorphrotan.ir.&type=ws#[🇺🇸]@configLINE
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8080&security=none&encryption=none&host=ab.shangoli7.motorphrotan.ir.&type=ws#🛡️ @FreakConfig
-vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=FanG.MotOrphrotan.ir.&type=httpupgrade#🛡️ @FreakConfig
