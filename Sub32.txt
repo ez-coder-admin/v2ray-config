@@ -20,7 +20,6 @@
 
 
 
-
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir
 
 
@@ -503,3 +502,4 @@ vless://faf6c50a-93cb-4969-bbc9-47a7eb75e309@sp1.shatak.store:52212?type=tcp#Tel
 vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?security=reality&encryption=none&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d0a3f84aabd21574#%40Daily_Configs`
 vmess://eyJhZGQiOiIxODguMTE0Ljk4LjE3OCIsImFpZCI6IjAiLCJob3N0Ijoid2ViLnBhUlNLaXNoLm9ubGluZSIsImlkIjoiMjVhM2Y1NGQtYzU0My00ZmQxLWUyMDItY2NmYzAxZDA0M2Q2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Itin2YfYr9in24zbjCDYqNmHINmF2YfYs9inIDEiLCJzY3kiOiJhdXRvIiwic25pIjoid2ViLnBhUlNLaXNoLm9ubGluZSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://ewogICJhZGQiOiAic3AxLnNoYXRhay5zdG9yZSIsCiAgImFpZCI6IDAsCiAgImlkIjogImZhZjZjNTBhLTkzY2ItNDk2OS1iYmM5LTQ3YTdlYjc1ZTMwOSIsCiAgIm5ldCI6ICJ0Y3AiLAogICJwb3J0IjogMTM2MzcsCiAgInBzIjogIlRlbGVncmFtOlNoYXRha1ZQTiAiLAogICJzbmkiOiAic3AxLnNoYXRhay5zdG9yZSIsCiAgInRscyI6ICJ0bHMiLAogICJ2IjogMgp9```
+vless://faf6c50a-93cb-4969-bbc9-47a7eb75e309@sp1.shatak.store:32176?flow=xtls-rprx-vision&security=tls&sni=sp1.shatak.store&type=tcp#Telegram:ShatakVPN```
