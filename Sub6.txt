@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=&encryption=none&headerType=none&type=tcp#☁️telegram:@Fast78_channel
-vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
-vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@TEHRANARGO
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://03b57c92-813c-48d7-d25b-b03348270330@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
@@ -503,3 +500,6 @@ vless://10a4f333-7537-443a-8053-230068b7cdcb@104.26.15.69:8880?path=/@V2ngFast-@
 vless://10aca91a-6e44-46cb-a890-ea246400c0a7@cdn2.azkhaktakhane.ir:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn2.azkhaktakhane.ir&alpn=h2,http/1.1&allowInsecure=1&type=tcp&headerType=none#🇫🇷[Telegram:NetifyVPN]
 vless://10aca91a-6e44-46cb-a890-ea246400c0a7@cdn2.azkhaktakhane.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn2.azkhaktakhane.ir#𝗝𝗼𝗶𝗻 ➠ @vpns_land | کانال ما 🛸
 vless://10b20a7e-56df-4828-91a0-9d53cb58bb7b@zula.ir:443?path=/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android&security=tls&alpn=http/1.1&encryption=none&host=www.amin-app.ir&fp=chrome&type=ws&sni=www.amin-app.ir#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها
+vless://10b269a6-783d-45ab-d2b3-2b4712eabd1c@tify-binex-join.espikernajafi.ir:443?type=grpc&serviceName=&authority=&security=reality&pbk=uOx0c2KdhL-5DHyZs0LMDk673wAuKqIHZy7--EuzTjI&fp=chrome&sni=refersion.com&sid=&spx=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#TELEGRAM - @BINEXTIFY-jka6ukf7m
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?path=/&security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=chrome&type=ws&sni=masaleini.mahsaamini.dpdns.org#کانال+ما+در+تلگرام+@Asak_Vpn+🔥
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?path=/&security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=chrome&type=ws&sni=masaleini.mahsaamini.dpdns.org#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
