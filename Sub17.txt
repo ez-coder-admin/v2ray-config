@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://91b41e65-a104-4fde-906b-4ed6bbb18424@104.19.189.152:443?path=Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=ev2raydev.pages.dev&fp=chrome&type=ws&sni=PaGeS.DEV#@V2rayNG3
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4# Join+Telegram:@amirw_shop_q
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#NL 🇳🇱
 vless://91d233a2-08a8-4006-ac8b-597fb41ea2bb@panke1.dadasoratmolayi.com:443?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -503,3 +502,4 @@ vless://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@lingering-boat-0b47.vpnetwork3567.w
 vless://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@little-fog-1c2f.vpnetwork3567.workers.dev:443?path=/?--Telegram--Viturey--Telegram--Viturey--&security=tls&encryption=none&host=little-fog-1c2f.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=little-fog-1c2f.vpnetwork3567.workers.dev#👉 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇵🇸
 vless://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@shiny-unit-654d.vpnetwork3567.workers.dev:443?path=/?--Telegram--Viturey--Telegram--Viturey--&security=tls&encryption=none&host=shiny-unit-654d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=shiny-unit-654d.vpnetwork3567.workers.dev#@AblNet7 🇺🇲
 vless://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@shiny-unit-654d.vpnetwork3567.workers.dev:443?path=/?--Telegram--Viturey--Telegram--Viturey--&security=tls&encryption=none&host=shiny-unit-654d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=shiny-unit-654d.vpnetwork3567.workers.dev#@configfree_1
+vless://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@shiny-unit-654d.vpnetwork3567.workers.dev:443?path=/?--Telegram--Viturey--Telegram--Viturey--&security=tls&encryption=none&host=shiny-unit-654d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=shiny-unit-654d.vpnetwork3567.workers.dev#Telegram : @Alfa_v2ray_ng 🔥
