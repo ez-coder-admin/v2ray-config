@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9ef92d2c-05de-42d0-bf2b-08f1a0909979@172.234.67.151:10002?security=reality&encryption=none&pbk=6ib1DpWTjJsAkeN4kKDY1TcAt0wJAPmHwthGk76dBxg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1a24af87#🇺🇲@FreakConfig
 vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?path=/?ed=2560&security=none&encryption=none&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&type=ws#@v2ray313 کانالمون 🥹
 vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?path=/?ed=2560&security=none&encryption=none&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://9f177110-4a05-4a53-aced-f529dd9583ec@65.109.216.171:443?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
@@ -503,3 +502,4 @@ vless://Telegram-DailyConfigs@kanale-dailyconfigs.easypeasytech.ir:2646?mode=gun
 vless://Telegram-MsV2ray@www.speedtest.net:80?path=/MsV2ray?ed=80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#🇩🇪| All - @EXPRESSVPN_420
 vless://Telegram-MsV2ray@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed=80&security=none#🇩🇪| All - @MsV2ray
 vless://Telegram-SRCVPN--@88.99.87.227:2080?type=grpc&serviceName=32135vless&authority=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=reality&pbk=MqY81IaljluV2NXyLqPzt7PL12knwUuBiX0ru_KSLCM&fp=chrome&sni=journalofbigdata.springeropen.com&sid=aa0dd5ba&spx=/#🇩🇪 Telegram @SRCVPN
+vless://Telegram-SRCVPN--@88.99.87.227:2090?type=grpc&serviceName=32135vless&authority=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=reality&pbk=MqY81IaljluV2NXyLqPzt7PL12knwUuBiX0ru_KSLCM&fp=chrome&sni=journalofbigdata.springeropen.com&sid=aa0dd5ba&spx=/#🇩🇪 Telegram @SRCVPN
