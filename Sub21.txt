@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@151.101.3.8:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@speedtest.net:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://ba56e95b-10fe-43d3-aaa2-417b0df52adf@de2.leperfume.ir:2323?mode=auto&path=/Bmarz&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=book.leperfume.ir&type=xhttp#@v2ray313 کانالمون 🤝
@@ -503,3 +502,4 @@ vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reali
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?type=tcp&headerType=none&security=reality&fp=chrome&sni=telewebion.com&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb#🇺🇲 Join Tel :  @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#@configfree_1
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#@v2ray313 کانالمون 🧡
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#Telegram : @Alfa_v2ray_ng 🔥
