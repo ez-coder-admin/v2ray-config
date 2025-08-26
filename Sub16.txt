@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@gsoowjowj.toppho.ir:8443?type=tcp&path=/@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn&host=speedtest.net&headerType=http&security=none#‌-@Anty_Vpn سرور میخای عضو شو
 vless://Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?security=reality&encryption=none&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f2#@Anty_Vpn سرورای بیشتر
 vless://Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?type=tcp&security=reality&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&fp=chrome&sni=yahoo.com&sid=f2&spx=/#@Anty_Vpn س
 vless://Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?type=tcp&security=reality&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&fp=chrome&sni=yahoo.com&sid=f2&spx=/#@Anty_Vpn سرور های بیشتر
@@ -503,3 +502,4 @@ vless://a1cff861-43ed-42f1-bed0-b0aec2f9f668@EXPRESSVPN_420.fAst.hosting-ip.com:
 vless://a1cff861-43ed-42f1-bed0-b0aec2f9f668@EXPRESSVPN_420.fAst.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
 vless://a1cff861-43ed-42f1-bed0-b0aec2f9f668@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @HAJIMAMADVPN-10
 vless://a1cff861-43ed-42f1-bed0-b0aec2f9f668@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @manzariyeh_rasht-10
+vless://a1fd898b-326a-49eb-b28a-60a600736a98@parsdata.france-learns.ir:42545?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@ATOVPN

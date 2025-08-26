@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=T542xVnSbH.iWiWiWjHeHsJsKnSdNnD.iNfO&fp=chrome&type=ws&sni=T542xVnSbH.iWiWiWjHeHsJsKnSdNnD.iNfO#@@proxy_kafee
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=VpN1h6Lg7R.fRoZiA.iNfO&fp=chrome&type=ws&sni=VpN1h6Lg7R.fRoZiA.iNfO#@@proxy_kafee
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=VpN1h6Lg7R.fRoZiA.iNfO&fp=chrome&type=ws&sni=VpN1h6Lg7R.fRoZiA.iNfO#🇩🇪@FreakConfig
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=VyZcHjR20f.RaViToO.iNfO&fp=chrome&type=ws&sni=VyZcHjR20f.RaViToO.iNfO#@@proxy_kafee
@@ -503,3 +502,4 @@ vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encr
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrdarc 🏴🏳
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IRAN 656 (@Outline_Vpn) free
+vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
