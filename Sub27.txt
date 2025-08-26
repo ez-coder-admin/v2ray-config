@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_vpn%20%5B18%5D
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_vpn%20%5B19%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_vpn%20%5B20%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WE1LcEpKQXpyREtDRENOaGEzZDh0@89.185.84.185:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40outlineopenkey%20%5B5%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2UySEVvTUJ0QXAxdVE5TnRVTjVV@77.83.246.74:443#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40outlineopenkey%20%5B6%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcXFSSWppYkdEanQ1NDlnYUNtVEo2@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40outlineopenkey%20%5B7%5D
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40outlinereleasedkey%20%5B13%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40outlinereleasedkey%20%5B14%5D
@@ -503,3 +498,8 @@ vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@www.speedtest.net:443?security=tls&
 
 vless://29192cdd-d0bb-4347-8c1d-049d92827871@bitpay.com:80?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-1.rAyAn-1.cLoUdNs.pRo&encryption=none#@Rayan_Config%20-%20EU-80-NS-1
 
+vless://29f55cea-4038-402c-a496-2e8ae2d8e660@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://3498b967-319f-436a-9edd-12f6ede84572@kraken.com:443?security=tls&sni=rAyAn-cOnFiG-02.rAyAn.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-02.rayan.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20EU-R-NS-2
+
+vless://3498b967-319f-436a-9edd-12f6ede84572@sourceforge.net:443?security=tls&sni=rAyAn-cOnFiG-03.rAyAn.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-03.rayan.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20EU-R-NS-3
