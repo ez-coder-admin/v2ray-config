@@ -509,12 +509,10 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&hea
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org&type=tcp#@F1lterbreakerbot
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org&type=tcp
 trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.28:3516?sni=akamai.cdn.steampipe.steamcontent.com#@Hope_Net-join-us-on-Telegram
+trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@129.154.208.219:21005?security=tls&sni=alibabashop.com#[🏁]t.me/ConfigsHub
 trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:20992?sni=sale.alibaba.com#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@141.101.121.30:443?allowInsecure=1#[🏁]t.me/ConfigsHub
 trojan://bpb-trojan@104.18.89.137:443?sni=fcspring.ggff.net#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.27.85.4:443?sni=adagio.us.kg#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@188.114.97.123:443?sni=adagio.us.kg#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@52.29.121.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.47.201.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.20.160.239:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://ttfang@72.167.243.194:2096?path=Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2aryng_vpn%20%5B11%5D
-trojan://telegram-id-directvpn@52.29.121.204:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2ray_free_conf%20%5B20%5D
+trojan://telegram-id-privatevpns@51.44.90.152:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
