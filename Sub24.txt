@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM?ed=2560&security=none#
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM?ed=2560&security=none#@g0dv2ray
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?flow=&type=ws&host=VngSuPpLY.IP-DdnS.com&path=/1ycR2zb3KeELWRha?ed=2560&security=none#Channel : @vmessorg
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/&security=&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram:@zede_filteri
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#Telegram:@zede_filteri
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
@@ -503,3 +498,8 @@ vless://f282b878-8711-45a1-8c69-5564172123c1@aio.loophole.biz.id:80?path=/aiopro
 vless://f282b878-8711-45a1-8c69-5564172123c1@aio.loophole.biz.id:80?path=/aioproxybot/129.150.49.58-18650&security=none&encryption=none&host=aio.loophole.biz.id&type=ws#All_@IRAN_V2RAY1
 vless://f282b878-8711-45a1-8c69-5564172123c1@aio.loophole.biz.id:80?path=/aioproxybot/129.150.49.58-18650&security=none&encryption=none&host=aio.loophole.biz.id&type=ws#I 783 (@Outline_Vpn) free
 vless://f282b878-8711-45a1-8c69-5564172123c1@aio.loophole.biz.id:80?path=/aioproxybot/129.150.49.58-18650&security=none&encryption=none&host=aio.loophole.biz.id&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?path=/aioproxybot/146.190.192.43-80&security=tls&encryption=none&host=aio.nolimit.dpdns.org&fp=chrome&type=ws&sni=aio.nolimit.dpdns.org#I 788 (@Outline_Vpn) free
+vless://f282b878-8711-45a1-8c69-5564172123c1@aio.xtradata.dpdns.org:443?encryption=none&security=tls&sni=aio.xtradata.dpdns.org&type=ws&host=aio.xtradata.dpdns.org&path=/aioproxybot/129.150.49.58-18650#@Daily_Configs
+vless://f282b878-8711-45a1-8c69-5564172123c1@aio.xtradata.dpdns.org:443?path=/aioproxybot/129.150.49.58-18650&security=tls&encryption=none&host=aio.xtradata.dpdns.org&type=ws&sni=aio.xtradata.dpdns.org#I 770 (@Outline_Vpn) free
+vless://f282b878-8711-45a1-8c69-5564172123c1@aio.xtradata.dpdns.org:443?path=/aioproxybot/129.150.49.58-18650&security=tls&encryption=none&host=aio.xtradata.dpdns.org&type=ws&sni=aio.xtradata.dpdns.org#I 789 (@Outline_Vpn) free
+vless://f282b878-8711-45a1-8c69-5564172123c1@aio.xtradata.dpdns.org:443?path=/aioproxybot/129.150.49.58-18650&security=tls&encryption=none&host=aio.xtradata.dpdns.org&type=ws&sni=aio.xtradata.dpdns.org#IRAN 753 (@Outline_Vpn) free
