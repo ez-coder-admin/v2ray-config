@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=chrome&type=ws&sni=coco.mahmoodchitooz.dpdns.org#Telegram:@zede_filteri
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=chrome&type=ws&sni=coco.mahmoodchitooz.dpdns.org#@CaV2ray ⚡️
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&type=ws#T.me/Asak_Vpn
 vless://b299af7b-3098-4e8e-b7c4-359fa577b19b@104.16.53.11:8080?path=/&security=none&encryption=none&host=locationbasedservicesfranceopajopfqjiefoqwoedpmqwiejfod.okatestoka.ir&type=httpupgrade#@NETMelliAnti
 vless://b299af7b-3098-4e8e-b7c4-359fa577b19b@104.16.53.11:8080?path=/&security=none&encryption=none&host=okamicsajnklssaklsksa212r2322eaw3e2dwml.okatestoka.ir&type=httpupgrade#@NETMelliAnti
@@ -503,3 +501,5 @@ vless://c1d33a48-0a89-4ca6-81e7-e126123f3375@172.66.40.99:8080?path=/-LiV2ry@LIG
 vless://c1d33a48-0a89-4ca6-81e7-e126123f3375@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#tm⚡|@lightning6
 vless://c1eee103-9838-4944-b93d-8bad5c93dac7@armania.gojustore.site:3336?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#ارمنستان 🇦🇲
 vless://c1eee103-9838-4944-b93d-8bad5c93dac7@armania.gojustore.site:7033?path=/&security=&encryption=none&host=filimo.com&type=ws#ارمنستان 🇦🇲 3
+vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@zula.ir:80?security=none&encryption=none&type=ws&host=44-rEFaQaT.yArAyaragAHi12.info&path=/df38fGe9tgDG0dkg84LsdfOdjg8.#Awlix_ir
+vless://c23bab9e-a746-46a9-94eb-d1a39ab5e55a@46.38.136.226:30571?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🇳🇱@ai_duet • @v2rayngsupbot
