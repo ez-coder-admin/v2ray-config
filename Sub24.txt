@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2077
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2076
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2085
 
@@ -87,11 +84,11 @@ hysteria2://dailyconfigs:NK5xdQde54Pwj47idBVOI3JrAkDrnVyg@[2a0b:4140:b17f::2]:44
 
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%201
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%202
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%203
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%204
 
@@ -136,24 +133,6 @@ vmess://eyJhZGQiOiIxNTcuMTgwLjExOS4xNCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5ZTEz
 vmess://eyJhZGQiOiIxNjIuMTU5LjI0My4xMzMiLCJhaWQiOiIwIiwiaG9zdCI6ImZveGx1eC5mb3ZpLnRrIiwiaWQiOiJiZjY3NDM3ZS02YzkwLTQ1Y2EtYWJjMi1jNzI0MGE1Y2UyYWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZWlzYXNxYSIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTUxIiwic2N5IjoiYXV0byIsInNuaSI6ImZveGx1eC5mb3ZpLnRrIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxNjIuMTU5LjI0My4xMzMiLCJhaWQiOiIwIiwiaG9zdCI6ImZveHBvbC5mb3ZpLnRrIiwiaWQiOiJiZjY3NDM3ZS02YzkwLTQ1Y2EtYWJjMi1jNzI0MGE1Y2UyYWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZWlzYXNxYSIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTQ3Iiwic2N5IjoiYXV0byIsInNuaSI6ImZveHBvbC5mb3ZpLnRrIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxNzIuMjUyLjIzNi4yMTMiLCJob3N0IjoicmVhbC5nZXRhZnJlZW5vZGUuc2JzIiwic25pIjoienVsYS5pciIsImlkIjoiMGIwYTEwYTctZGQ4NC00YmI3LWE2ZmQtMTdkNzk3MWRmOGQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI5MjI1LCJwcyI6Ik1hcnNlaWxsZS1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
-
-vmess://eyJhZGQiOiIxNzIuMjUyLjIzNi4yMTMiLCJob3N0IjoicmVhbC5nZXRhZnJlZW5vZGUuc2JzIiwic25pIjoienVsYS5pciIsImlkIjoiMjZhMDk5YTEtMjcwOC00ODQ1LTlhOGItZTE1YjE2NDViYTgzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI5MjI1LCJwcyI6Ik1hcnNlaWxsZS1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
-
-vmess://eyJhZGQiOiIxNzIuMjUyLjIzNi4yMTMiLCJob3N0IjoicmVhbC5nZXRhZnJlZW5vZGUuc2JzIiwic25pIjoienVsYS5pciIsImlkIjoiOWE4NmJmY2EtNjBmMC00MzcwLWI3NTktZjhjNGNhOGJhMzQzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI5MjI1LCJwcyI6Ik1hcnNlaWxsZS1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
-
-vmess://eyJhZGQiOiIxNzIuMjUyLjIzNi4yMTMiLCJob3N0IjoicmVhbC5nZXRhZnJlZW5vZGUuc2JzIiwic25pIjoienVsYS5pciIsImlkIjoiYjVjNzIwNDAtYmU0Mi00Y2ViLTk3YjktOGRiYzkzYWZjMjJmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI5MjI1LCJwcyI6Ik1hcnNlaWxsZS1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
-
-vmess://eyJhZGQiOiIxNzIuMjUyLjIzNi4yMTMiLCJob3N0IjoicmVhbC5nZXRhZnJlZW5vZGUuc2JzIiwic25pIjoienVsYS5pciIsImlkIjoiYjdjMDYzNTItNzJmYS00N2EwLWI2YjktZWNhNzc5YWYzZTQ2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI5MjI1LCJwcyI6Ik1hcnNlaWxsZS1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
-
-vmess://eyJhZGQiOiIxNzIuMjUyLjIzNi4yMTMiLCJob3N0IjoicmVhbC5nZXRhZnJlZW5vZGUuc2JzIiwic25pIjoienVsYS5pciIsImlkIjoiZDhiZjcyZWQtMmZmYS00ODhkLThlZGYtMDQ4MzlkODczY2MzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI5MjI1LCJwcyI6Ik1hcnNlaWxsZS1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
-
-vmess://eyJhZGQiOiIxNzIuMjUyLjIzNi4yMTMiLCJob3N0IjoicmVhbC5nZXRhZnJlZW5vZGUuc2JzIiwic25pIjoienVsYS5pciIsImlkIjoiZTk2YjExZGYtMDZkZS00MjBlLWIzOGYtNzYyMzU5NTEzNWNiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI5MjI1LCJwcyI6Ik1hcnNlaWxsZS1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
-
-vmess://eyJhZGQiOiIxNzIuMjUyLjIzNi4yMTMiLCJob3N0IjoicmVhbC5nZXRhZnJlZW5vZGUuc2JzIiwic25pIjoienVsYS5pciIsImlkIjoiZWNmMGEwNTktMTU5Yy00ZjBmLWJmZmItNzU3MjMzMjc2YTJhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI5MjI1LCJwcyI6Ik1hcnNlaWxsZS1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
-
-vmess://eyJhZGQiOiIxNzIuMjUyLjIzNi4yMTMiLCJob3N0IjoicmVhbC5nZXRhZnJlZW5vZGUuc2JzIiwic25pIjoienVsYS5pciIsImlkIjoiZmMyMTUxYmUtZGQ4ZC00NjkxLWJmNWEtNDQ1ODYxZDBlMmY5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdCIsInBvcnQiOjI5MjI1LCJwcyI6Ik1hcnNlaWxsZS1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjI4IiwiYWlkIjoiMCIsImhvc3QiOiJkZGRkZGRkZGRkZnJycnJycnJyeS5pcmFuMjAzNS5kcGRucy5vcmciLCJpZCI6ImE5NGZhZmRiLTEwZDYtNDZjMi1iZThhLTVjMmU4MzU4ZmJiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9Dako5QTQ2WlJIdmdXdlZjbWp5aUtWYnkyTHAiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiJkZGRkZGRkZGRkZnJycnJycnJyeS5pcmFuMjAzNS5kcGRucy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
@@ -503,3 +482,24 @@ vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@william-siasookhte.info:27774?secur
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn5OiIEBYaWxpVnBOQk9UIOKAjOKAjOKAjC3igIwgIFsgRnJlZSBdIOKAjCIsCiAgImFkZCI6ICIxNTcuMTgwLjExOS4xNCIsCiAgInBvcnQiOiAyMDI2LAogICJpZCI6ICJmNTFmOWU5NS1jOGFlLTQ5ZTAtYTI0Mi1lNDU0NDI3MjMxMTciLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIKfQ==```
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 #Epodonios
+vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@Daily_Configs
+vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@Daily_Configs
+vless://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?path=/wsv/4c835bff-4f4d-4608-bb21-120099089688&security=tls&encryption=none&type=ws&sni=orange.fullmargintraders.com#@Daily_Configs
+vless://9COPE_AZ_JKVPN_JKVPN@www.speedtest.net:80?path=/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-jKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JkVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKvPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&encryption=none&host=joker11.ahang-alpha.ir&type=ws#t.me/entryNET/config=1842733176610788
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.237.192.175:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=/?ed=2560#t.me/entryNET/config=1842732674904027
+vless://a5ada705-cbac-47f7-9fa5-2e4426b7a510@es.iovpn.click:443?security=reality&encryption=none&pbk=YoQ4rDLzUDrLuKwPi3T1X9T7ttwfZ3wv0hTBpzg44i8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=31f644193ea3#@Daily_Configs
+vless://c0bec1db-8577-46cf-aad1-a107e1c866a1@undl.doctorrezaaeissite.ir:80?security=reality&encryption=none&pbk=-3T3wKBehm_NOsTnrZfWIKklAe3sTXhlAS_9rjdQMTw&headerType=none&fp=chrome&spx=/&type=tcp&sni=maps.google.com&sid=9b806ce1#@Daily_Configs
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-19.access.name.ng&type=ws&sni=lease-19.access.name.ng#@Daily_Configs
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tls&encryption=none&type=ws&sni=007.xingfu.qzz.io#@Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
+vless://e15ad8b7-9ce6-4667-baac-38e064693cad@deu414.unboundaccess.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.screwfix.com#@Daily_Configs
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
+#profile-title: base64:UFNHIHwgTUlY
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/yebekhe
+#profile-web-page-url: https://github.com/itsyebekhe/PSG
+vless://1911b201-0987-4c72-a09c-e61163631c27@2hmoch3q.tree-top.cc:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.apple.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B41%5D
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.137.128:8443?security=tls&sni=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&type=ws&host=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B42%5D
+vless://e21789d4-820c-42c9-9729-26fd904e754a@77.110.107.195:28898?type=xhttp&path=%2F&host=fast.com&mode=auto&security=reality&pbk=mVptIpBcUtMqN2tfYE8eNwBrhqNdb0lWJoeRvYen8TY&fp=random&sni=yahoo.com&sid=2cb4454d18&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B43%5D
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss2180.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40fastfreeconfig%20%5B52%5D
