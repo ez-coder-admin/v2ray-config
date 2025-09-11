@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://d2e3f4a5-b6c7-2345-8901-123456789abc@45.35.126.48:8443?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=VWX1234567890abcdef1234567890abcdef#@CaV2ray ⚡️
+vless://d2ec79c6-0319-4792-f2f4-d786df1b2d45@asia7.novahomedesigntips.com:7850?path=/&security=none&encryption=none&type=ws#@Mrconfig_Channel 🩵
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?d=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.43.169:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.13:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
@@ -21,7 +25,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.145:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.199.19:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=MARAMBASHI_MARAMBASHI/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?security=&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg.&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?path=/?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=none&encryption=none&host=hello.96xckkzx.workers.dev&fp=chrome&type=ws&sni=hello.96xckkzx.workers.dev#@Dropcube
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.165.24.25:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#t.me/entryNET/config=1842989557947089
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cloudflare.182682.xyz:443?path=/snippets&security=tls&encryption=none&host=test.saas.cname.123153.xyz&type=ws&sni=test.saas.cname.123153.xyz#t.me/iProxy_Channel 12
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cloudflare.182682.xyz:443?path=/snippets&security=tls&encryption=none&host=test.saas.cname.123153.xyz&type=ws&sni=test.saas.cname.123153.xyz#t.me/iProxy_Channel 4
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cloudflare.182682.xyz:443?path=/snippets&security=tls&encryption=none&host=test.saas.cname.123153.xyz&type=ws&sni=test.saas.cname.123153.xyz#t.me/iProxy_Channel 7
@@ -500,6 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=&encryption=none&type=grpc#Channel id: @ShadowProxy66 🇫🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]ae_proxy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=&encryption=none&type=grpc#t.me/iProxyChannel 10
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=&encryption=none&type=grpc#t.me/iProxyChannel 16
