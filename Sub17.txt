@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-vless://bd466500-8bd5-46be-9a5b-fb5a8ede111c@104.248.47.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20FR%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#@Rayan_Config%2086
 
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#@Rayan_Config%2084
@@ -459,6 +457,8 @@ vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.ne
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&security=tls&encryption=none&host=hrtfwe.pages.dev&type=ws&sni=pages.dev#Telegram : @Alfa_v2ray_ng 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#Academi_vpn5
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#Academi_vpn4
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/vpn?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://id:v2rayng_76@bm.boulvarmoein.shop:8443?path=/Telegram@v2rayng_76=?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=bm.boulvarmoein.shop&type=ws&sni=bm.boulvarmoein.shop#id:v2rayng_76
 #profile-title: base64:UFNHIHwgTUlY
