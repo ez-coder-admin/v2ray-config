@@ -32,10 +32,15 @@
 
 
 
-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#%40Rayan_Config%205
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40Rayan_Config%201
+
+
+
+
+
+
 
 
 
@@ -498,8 +503,3 @@ vless://05ff0955-0449-4fa9-912d-abf4aa5df95d@164.138.202.139:10777?security=none
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
-#profile-web-page-url: https://github.com/itsyebekhe/PSG
-
-
-
-
