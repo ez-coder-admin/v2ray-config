@@ -65,12 +65,12 @@ trojan://eYaw9xlNDu4695IF3CyY2leZOTnY8ZSOD3Xa3DClz0xqZy7Z3eaBFaTKOSwCSAOyEap4D@c
 trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1802?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://253bc477d4e43c209f2d427272968280@202.181.103.246:443?allowInsecure=1&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:443?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1802?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:1924?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@160.16.231.103:1331?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@160.16.68.250:3160?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:1700?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:3294?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:3296?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 trojan://----telegram--ISVvpn----@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp#telegram-@ISVvpn
@@ -181,3 +181,6 @@ trojan://ZU%290ryc%24VSrG@104.17.148.22:443?path=%2Ftrg2dhGAnG15ULOP7i%3Fed%3D25
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&sni=sj3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.46.152.83-5138
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&sni=hk.freeguard.org#%F0%9F%87%AD%F0%9F%87%B0HK-103.252.116.138-5091
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&sni=dus.freeguard.org#%F0%9F%87%A9%F0%9F%87%AADE-185.208.207.217-0363
+trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1802?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:1924?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:3294?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
