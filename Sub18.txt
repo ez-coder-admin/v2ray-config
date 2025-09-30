@@ -158,6 +158,7 @@ vless://b65f4df7-f6af-42b2-877a-cef33f21675e@159.112.235.32:2096?allowInsecure=0
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@204.93.210.32:2096?allowInsecure=1&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetssecurity=tls#US_speednode_0035
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@160.79.105.32:2096?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetssecurity=tlssecurity=tls#US_speednode_0036
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@192.0.54.32:2096?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetssecurity=tls#US_speednode_0037
+vmess://eyJhZGQiOiIzOC42MC4yMTcuMTQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI2YWUzNmE0LWUyMWYtNDhhZS1lOTBiLTVhZGYyNzFiMDQ2ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4es8J+Hp3RlbGVncmFtIOKeoCBAdjJyYXlOR19NYXRzdXJpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 #profile-title: base64:UFNHIHwgTUlY
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
