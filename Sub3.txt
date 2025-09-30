@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://de6c7a90-1dc7-43cf-82a1-f4bed3184a3f@fastcup.net:8443?sni=cdn-node-oss-92.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-92.paofu.de#美国05 付费推荐：https://dafei.de
-trojan://de6c7a90-1dc7-43cf-82a1-f4bed3184a3f@pubg.ac:8443?sni=cdn-node-oss-92.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-92.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://dqLPBI4gsI@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#@Selinc
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#All-@IRAN_V2RAY1
@@ -503,3 +501,5 @@ vless://16eb47f3-f741-4f2a-92ec-7b846f8103ba@164.38.155.245:443?path=/pLmdwS3fSr
 vless://1708fb1a-cff1-4532-a837-435af960ee77@185.113.223.65:10321?security=reality&encryption=none&pbk=S-x02lU6w9dJbqgEnchi70h7OoGKSgey7OjVx6cVDDA&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=8f4e#@Hddify
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools  ✅ عضو شوید
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram: @IP_CF 🇫🇷
+vless://1723d24c-55f1-454d-8a61-3129fcb2ed26@95.216.164.138:41980?encryption=none&security=none&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI#@Daily_Configs
+vless://1723d24c-55f1-454d-8a61-3129fcb2ed26@95.216.164.138:41980?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
