@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://44e16031-bde2-407a-b629-ae4b84e7e49f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=smits.feronix.org#JOIN вһӘ@FILTERK0SH
+vless://44e16031-bde2-407a-b629-ae4b84e7e49f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=ws&sni=smits.feronix.org#@MARAMBASHI рҹ’ӣ
 vless://450e831d-b87a-46b1-b601-87a4b9d1e711@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#рҹҮ©рҹҮӘ | XpnTeam - Telegrams-o1kb33ey
 vless://45365216-ec8f-4b10-8549-5d608ec712a6@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638899136128780362.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638899136128780362.amsterdam-prx-dnraaal.info&path=/xjboxaws#telegram рҹҺҜ v2ray_configs_pools
 vless://45365216-ec8f-4b10-8549-5d608ec712a6@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638901790535256715.brussels-prx-dnraaal.info&type=ws&alpn=&host=638901790535256715.brussels-prx-dnraaal.info&path=/xjboxaws#telegram вҡЎпёҸ v2ray_configs_pools
@@ -501,5 +503,3 @@ vless://64ebf96f-d23d-4ee2-aeb0-cc05fa9c5000@37.27.21.187:201?mode=auto&path=@ad
 vless://64fdaf06-bcfa-4bdc-8fb1-d8a9bd513f0c@109.122.249.131:3232?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#рҹҮ®рҹҮ· MCI - @FREEV2RNG 2
 vless://64fdaf06-bcfa-4bdc-8fb1-d8a9bd513f0c@85.133.221.5:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#рҹҮ®рҹҮ· MCI - @FREEV2RNG 1
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&type=ws&headerType=&path=/&host=&sni=fl.v2bazzar.ir&fp=#рҹ’Һ Hddify - Vip+
-vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&type=ws&headerType=&path=/&host=&sni=fl.v2bazzar.ir&fp=#рҹ’ҺParsOnline
-vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&type=ws&headerType=&path=/&host=&sni=fl.v2bazzar.ir&fp=chrome#рҹҹӘRightel

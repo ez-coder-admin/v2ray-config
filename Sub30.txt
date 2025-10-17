@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#рҹӘӮрҹҡҒрҹӘ©7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#рҹҮірҹҮұ@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#рҹӘӮрҹҡҒрҹӘ©3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#рҹӘӮрҹҡҒрҹӘ©8
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= Ъ©Ш§ЩҶЩҒЫҢЪҜ ШұШ§ЫҢЪҜШ§ЩҶ
@@ -501,5 +503,3 @@ vless://f2cab281-335d-4412-8756-539f9bb36d60@www.speedtest.net:8880?type=ws&path
 vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#рҹҮәрҹҮІ@FreakConfig
 vless://f33f8f0b-e520-4212-9c9b-aeefcdcc62af@91.99.115.171:8080?note=JOIN----@AZADIV2RAYY----JOIN----@AZADIV2RAYY----JOIN---@AZADIV2RAYY-вҖҗ-JOIN---@AZADIV2RAYY-----bia-вҖҗ--@AZADIV2RAYY---Bia---@AZADIV2RAYY&mode=auto&path=/&security=reality&encryption=none&pbk=T8lvKu6Po4yDVOdIb8UXFDPJJapWOHHLw-0kAqWWjl8&fp=chrome&spx=/cdn/image.jpg&type=xhttp&sni=cp7.cloudflare.com&sid=a6df009b#AZADIV2RAYY DE рҹҮ©рҹҮӘ
 vless://f3528ca9-bd6e-4e0e-c790-d85e75d3ba57@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2rayрҹҮ«рҹҮ®
-vless://f3528ca9-bd6e-4e0e-c790-d85e75d3ba57@tgju.org:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#рҹҮ©рҹҮӘ@AZARBAYJAB1
-vless://f3528ca9-bd6e-4e0e-c790-d85e75d3ba57@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2rayрҹҮ«рҹҮ®
