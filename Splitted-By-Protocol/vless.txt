@@ -7558,8 +7558,3 @@ vless://249909f4-3ce8-4956-aa2b-9f8bbdd5c2b8@188.245.234.107:443?path=%2Flinkws%
 vless://0417be58-2ea8-49de-8083-9eff9b0137e5@209.126.84.189:443/?type=ws&encryption=none&flow=&host=v2ray.codefyinc.com&path=%2Fvlessws&security=tls&sni=v2ray.codefyinc.com&fp=chrome#Telegram+%7C+Payam_Nsi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#Telegram+%7C+Payam_Nsi
-vless://d36f457f-17a9-4891-a113-322ec6792917@m23a.vip784.com:33801?security=none&allowInsecure=0&encryption=none&type=tcp&host=varzesh3.ir&path=/&headerType=http#[
-vless://6fd87922-bb79-4c8f-869d-e97d56d504ef@its.sportfast0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=its.sportfast0.ir#%40Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?security=&encryption=none&type=grpc#[
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%40Daily_Configs
