@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=/?ed#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=harmony-427.pages.dev#@MARAMBASHI 🐳
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=/?ed#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=harmony-427.pages.dev#@V2rayNGVPN <= کانفیگ رایگان
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=/?ed#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=harmony-427.pages.dev#@meli_proxyy
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=/?ed&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=harmony-427.pages.dev#@meli_proxyy
@@ -502,4 +503,3 @@ vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&e
 vless://4a47d690-390f-4314-8088-f8ac9a744930@91.99.179.41:42671?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@fin01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#🇫🇮 MCI - @FREEV2RNG 5
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@tr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇹🇷 @FREEV2RNG

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/XU0001F1E8U0001F1F3@节点狂魔security=tls#RU_speednode_0017
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/security=tls#RU_speednode_0018
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/x @节点狂魔security=tls#RU_speednode_0019
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.114.78.230:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/Telegram🇨🇳@WangCai2/?ed=2560security=tls#SG_speednode_0020
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3OXd6SGplZmVOODFOZ01VdUVGVWRh@77.83.246.74:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3THBWbnlyRG5nRGpKNExPb3dmYlll@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YldFMU1nY01ORWtRSFZIbEpacTdH@81.90.29.169:58080#Channel id: @ShadowProxy66🇮🇶
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YldFMU1nY01ORWtRSFZIbEpacTdH@81.90.29.169:58080#limo
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YldFMU1nY01ORWtRSFZIbEpacTdH@81.90.29.169:58080#🇮🇶[Telegram:@tik7net_vpn]
