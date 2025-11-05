@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#@V2rayNG3
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#All-@V2rayAlpha--18
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#All-@V2rayAlpha--41
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#IR-@V2ray_Alpha--21
@@ -503,3 +502,4 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.8:443?path=/&security=tls
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.9:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://784975a8-a696-4b0e-b138-4311d80a3372@DEADSEECtelegram.fast.hosting-ip.com:80?mode=auto&path=/VPNV2RAYXZ-VPNV2RAYXZ-VPNV2RAYXZ-VPNV2RAYXZ?ed=2048&security=none&encryption=none&host=VPNV2RAYXZ.slimyoutaavers.ir&type=xhttp#@V2RAYROZ
 vless://784975a8-a696-4b0e-b138-4311d80a3372@deadseectelegram.fast.hosting-ip.com:80?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
+vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=medcezir5.global.ssl.fastly.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪 @Evay_vpn

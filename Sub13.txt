@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://abffde54-ffc5-46a6-99e3-221fadbeb4ea@uae1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://ac638e13-c96d-484d-8aa8-55da290db25a@91.98.151.30:443?mode=auto&path=/sdv&security=reality&encryption=none&pbk=SyXSKLmY8-JBRFJTRIDx1OcBUJ89XBu8ZHCF_dOS3kw&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#@V2rayNGVPN <= کانفیگ رایگان
 vless://ac638e13-c96d-484d-8aa8-55da290db25a@91.98.151.30:443?mode=auto&path=/sdv&security=reality&encryption=none&pbk=SyXSKLmY8-JBRFJTRIDx1OcBUJ89XBu8ZHCF_dOS3kw&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#@meli_proxyy
 vless://ac7b6757-05c0-4a28-8b08-14ab496a5fe4@193.46.81.151:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&fp=chrome&spx=/-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&sni=miro.com&sid=b3#🇩🇪 Telegram @SRCVPN
@@ -503,3 +502,4 @@ vless://c9ef82df-f2a3-4bf5-b456-2e6937eab8a6@www.speedtest.net:2082?path=/?ed=88
 vless://c9ef82df-f2a3-4bf5-b456-2e6937eab8a6@www.speedtest.net:2082?path=/?ed=8880&security=none&encryption=none&host=myeRsdrivingschool.cOm.SpeedTest.Net.BlackRaven.NL.4.kaktusatom.iR.&type=httpupgrade#@V2rayNG3
 vless://ca2bbc0a-3139-4a1c-bc93-049ad63c1d95@direct-jde6zos4zet26b15zzd1.appcity-download.ir:64286?mode=gun&security=none&encryption=none&authority=?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&type=grpc&serviceName=mahdi_383ir#@HiByeVPNN👈⚡❤️‍🔥
 vless://ca2bbc0a-3139-4a1c-bc93-049ad63c1d95@direct-jde6zos4zet26b15zzd1.appcity-download.ir:64286?mode=gun&security=none&encryption=none&type=grpc&serviceName=mahdi_383ir#MCI-@V2rayAlpha--7
+vless://ca2e23cb-2d9a-4812-d713-506f91d3735f@81.91.179.17:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=&encryption=none&type=ws#🇳🇱[Telegram:NetifyVPN]
