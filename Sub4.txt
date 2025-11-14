@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.92.72:7001#@daredevill_404
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#@daredevill_404
-ss://YWVzLTI1Ni1nY206VUhVQW92RUkwSA==@103.100.158.19:39297#🇯🇵19@vpnserverrr
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.154.136.105:8008#@daredevill_404
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5000#@V2rayNG3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.166.88.5:3389#@V2rayNG3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.92.55:5601#@daredevill_404
-ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg==@146.19.170.82:47777#@V2rayNG3
-ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg==@pl04.outline.abvpn.ru:47777#@V2rayNG3
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.37:8118#@daredevill_404
-ss://YWVzLTI1Ni1nY206YTRWdHFSd2hqNmdXYkh3TDRKdDI2dw==@ss.80808.sbs:20#All-@IRAN_V2RAY1
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.106.200.93:80#🇦🇺93@vpnserverrr
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.107.178.116:80#@Hddify
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.107.184.53:80#@Hddify
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.85.144.122:80#@sunflowerplato🌻
@@ -54,7 +42,6 @@ trojan://-4146XJHYAzJ4K8Ov6_LBQ@lv.podpiska.vip:11000?path=/tw&security=tls&type
 trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#IR-@IRAN_V2RAY1
 trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#MCI-@V2rayAlpha--4
 trojan://08ddff2b-8f82-4b9b-bec4-5cde9328d657@193.180.211.52:443?path=/Free-VPN-CF-Geo-Project/193.180.211.52=443&security=tls&host=joss.dus.biz.id&fp=chrome&type=ws&sni=joss.dus.biz.id#t.me/entryNET/config=1848758821978252
-trojan://0@154.17.225.73:443/?type=ws&host=snippets.sbak.netlib.re&path=/proxyip=d23d61f1.tp81.ip.090227.xyz&security=tls&sni=snippets.sbak.netlib.re#t.me/entryNET/config=1848692761832510
 trojan://0c7edd8f-96d8-4227-b086-1ffc3aeecc96@193.233.115.79:8443?path=/Free-VPN-CF-Geo-Project/193.233.115.79=8443&security=tls&host=joss.dus.biz.id&fp=chrome&type=ws&sni=joss.dus.biz.id#@meli_proxyy
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2760 | Hong Kong
 trojan://19ZDV7mNAW@91.107.177.122:443?type=tcp&path=/@ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
@@ -144,6 +131,7 @@ trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت رو خاموش کنید ✅  𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
 trojan://telegram-id-directvpn@13.36.32.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1848769516462917
+trojan://telegram-id-directvpn@18.193.30.200:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1848784616050629
 trojan://telegram-id-directvpn@35.181.231.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1848761967116121
 trojan://telegram-id-directvpn@63.179.16.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1848746868017291
 trojan://telegram-id-privatevpns@18.158.20.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1848751271065050
@@ -503,3 +491,15 @@ vless://0c09aeb2-27ce-4b75-8de2-b25695d3f153@158.69.50.164:1331?encryption=none&
 vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.200.195:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#All--@V2rayAlpha--27
 vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.87.4:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#All--@V2rayAlpha--18
 vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.87.4:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#All--@V2rayAlpha--32
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@V2rayNG3
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#All--@V2rayAlpha--17
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#All-@V2rayAlpha--25
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#All-@V2ray_Alpha--36
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#@V2rayNG3
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#All-@V2ray_Alpha--24
+vless://0c7092f5-5855-4d20-b91f-12b477c6e1d9@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=@NoForcedHeaven@NoForcedHeaven@NoForcedHeaven&sni=us1.projecthope.ir#@NoForcedHeaven🇺🇸
+vless://0c76a693-fcd6-4316-bfb7-c22a9b7a89f5@italy1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
+vless://0c76a693-fcd6-4316-bfb7-c22a9b7a89f5@lomia1lopmaliz1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
+vless://0c7bd9e3-7310-4add-95a6-70d3c4ebe235@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=-----@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#🇩🇪 Telegram @G0dv2ray
+vless://0c7bd9e3-7310-4add-95a6-70d3c4ebe235@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#🇩🇪 Telegram @SRCVPN
+vless://0c7bd9e3-7310-4add-95a6-70d3c4ebe235@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#@v2rayfast_7❤️‍🔥1
