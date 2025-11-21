@@ -438,17 +438,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.11
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.102.40:5003#%40Filter_breaker-11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#BESTIIVPNBOT
 #Epodonios
-vmess://eyJhZGQiOiAiNzQuNDguMTQuMjM4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmZmQ5NWEyYy1hYjUyLTQzNGItOGRlZi0yZDA2YTk1OWY1YjUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dycWYiLCAicG9ydCI6ICIyMDg3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFx1MDBhZVx1ZmUwZlVuaXRlZCBTdGF0ZXNcdTAwYTlcdWZlMGZTYW50YSBDbGFyaXRhIChDYW55b24gQ291bnRyeSlcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjczbXMifQ==
-vmess://eyJhZGQiOiAiMjAwMTpiYzg6MzJkNzozMDI6OjEwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQ1NzkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHUwMGFlXHVmZTBmXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHUwMGE5XHVmZTBmXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHVkODNjXHVkZDdmXHVmZTBmcGluZzoxMzBtcyJ9
-trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/57.129.16.72=2053&host=joss.gpj1.web.id#🇩🇪[openproxylist.com]
-vless://%57%61%72%70%69%2D%46%72%65%65%2D%56%70%6E%2D%49%6E%2D%47%6F%6F%67%6C%65%50%6C%61%79@78.47.80.152:443?security=none&encryption=none&headerType=none&type=tcp#telegram%20%40mtmvpn
-vless://%57%61%72%70%69%2D%46%72%65%65%2D%56%70%6E%2D%49%6E%2D%47%6F%6F%67%6C%65%50%6C%61%79@128.140.61.203:443?security=none&encryption=none&headerType=none&type=tcp#telegram%20%40mtmvpn
 #profile-title: base64:UFNHIHwgTUlY
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
-
+trojan://telegram-id-privatevpns@52.29.189.85:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B14%5D
+trojan://telegram-id-privatevpns@15.188.107.82:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B15%5D
+trojan://telegram-id-privatevpns@63.180.84.118:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B16%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@lv.vpnsparta.pro:57456#%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B18%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMWFiZDhkNC01MjI4LTQ5MmMtYjgyNy0wMzA0ZTYyYjdhYjA=@144.126.146.38:30941#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B19%5D
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.133:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B20%5D
 
 
 
