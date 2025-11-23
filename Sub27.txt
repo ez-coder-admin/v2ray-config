@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#­ƒÅ┤ÔÇìÔÿá´©Å@FreakConfig
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.92:443?allowInsecure=0&sni=www.nintendogames.net#­ƒç¡­ƒç░[openproxylist.com] trojan-HK
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#rÔÖíya
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#­ƒç½­ƒçÀAZARBAYJAB1
 trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn ÒÇ░ÒÇ░ÒÇ░ÒÇ░ÒÇ░ÒÇ░ÒÇ░ÒÇ░ÒÇ░ÒÇ░ ÔÇ╝´©Å┘å┌®Ï¬┘ç: Ïº┘åÏ»Ï▒┘ê█îÏ»█î ┘çÏº ┘üÏ▒┌»┘à┘åÏ¬ Ï▒┘ê Ï«Ïº┘à┘êÏ┤ ┌®┘å█îÏ» Ô£à  ­ØÉé­ØÉí­ØÉÜ­ØÉº­ØÉº­ØÉ×­ØÉÑ: @ISVvpn
@@ -501,5 +503,3 @@ vless://1f8626cd-5c2e-4887-b906-75396cde1423@EVAY_VPN.fast.hosting-ip.com:80?typ
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws&security=tls&encryption=none&type=ws#Ô×¬+@FILTERK0SH++┘à┘åÏ¿Ï╣+┌®Ïº┘å┘ü█î┌»+Ï▒Ïº█î┌»Ïº┘å
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws?ed=2048@v2ray_configs_pools&security=tls&encryption=none&fp=chrome&type=ws#@v2ray_configs_pools­ƒæêÔÜíÔØñ´©ÅÔÇì­ƒöÑ
 vless://1fe89578-87ab-4c8a-e169-efad229c1590@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#­ƒç®­ƒç¬@FreakConfig
-vless://1fe89578-87ab-4c8a-e169-efad229c1590@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048/Telegram-@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&security=&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#rÔÖíya
-vless://200fa9ac-dc45-48c3-a278-94cdc18e008e@47.239.5.71:36944?security=none&encryption=none&headerType=none&type=tcp#Ô£¿ @Geek_Spot | ­ƒÜÇ | ­ƒîÉ 47.239.5.71 | ­ƒç¡­ƒç░

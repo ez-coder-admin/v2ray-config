@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8a204637-801f-4f7d-8c44-318e0e5992c4@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
-vless://8a32d26c-b896-41d4-9b98-588e9f15b61d@free.httpcustom.ir:443?path=/stream?ed=2560&security=tls&alpn=h2&encryption=none&host=free.httpcustom.ir&fp=chrome&type=ws&sni=free.httpcustom.ir#@Free_HTTPCustom-48h
-vless://8a32d26c-b896-41d4-9b98-588e9f15b61d@www.speedtest.net:443?mode=packet-up&path=/stream?ed=2560&security=tls&alpn=h2&encryption=none&extra={'headers': {}, 'xPaddingBytes': '100-1000', "scMaxEachPostBytes": 1000000, "scMinPostsIntervalMs": 30}&host=1free.httpcustom.ir&fp=chrome&type=xhttp&sni=1free.httpcustom.ir#@Free_HTTPCustom-48h
 vless://8a70b5a0-7e06-4f1d-986a-3d6f8eb728fa@myfreexnum01tamiz.bazibazestan.ir:443?security=reality&encryption=none&pbk=Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko&headerType=http&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e1bc8e591c390c7c#@V2rayNGVPN <= کانفیگ رایگان
 vless://8a70b5a0-7e06-4f1d-986a-3d6f8eb728fa@myfreexnum01tamiz.bazibazestan.ir:443?security=reality&encryption=none&pbk=Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko&headerType=http&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e1bc8e591c390c7c#@meli_proxyy
 vless://8a70b5a0-7e06-4f1d-986a-3d6f8eb728fa@myfreexnum01tamiz.bazibazestan.ir:443?security=reality&encryption=none&pbk=Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko&headerType=http&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e1bc8e591c390c7c#🇩🇪@FreakConfig
@@ -503,3 +500,6 @@ vless://SERVERNETT-SERVERNETT1@alo007.sernett.ir:80?mode=auto&path=/&security=no
 vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420
 vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#JOIN ➪@FILTERK0SH
 vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#azadiiivpn
+vless://SERVERNETT-SERVERNETT1@sdct.sernett.ir:80?mode=auto&path=/&security=&encryption=none&type=xhttp#@V2ray_confing33
+vless://SERVERNETT-SERVERNETT1@serv.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇩🇪 telegram@ISVvpn
+vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
