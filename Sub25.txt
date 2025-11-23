@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3ASE
 vless://e3153842-fccf-4bc9-8566-5e42fa20fb32@104.21.65.149:2053?type=xhttp&encryption=none&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&host=vp17.cgicgnhost.site&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=vp17.cgicgnhost.site#%253E%253E%2540DailyV2RY%3A%3ADE
 vless://e1ac4005-4e5b-409e-a466-3032fbdb6e02@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992008112160801.jimny-amsib.info&type=ws&host=638992008112160801.jimny-amsib.info&path=/hixygmws#%253E%253E%2540DailyV2RY%3A%3AXX
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=%2Fvless%2F&security=&encryption=none&host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&type=ws#%253E%253E%2540v2ray_configs_pool%3A%3AXX
@@ -472,6 +471,7 @@ vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=r
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#4gyd-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20≡ƒöù
 vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#27hv-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20≡ƒöù
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#dmkb-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20≡ƒöù
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?mode=gun&security=none&encryption=none&type=grpc#%40meli_proxyy
 vless://8b10d145-580b-4857-bcde-25f0c7f13bef@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993742412132259.impreza-amsid.info&type=ws&host=638993742412132259.impreza-amsid.info&path=/ymyxzpws#≡ƒç½≡ƒç╖[openproxylist.com]
 vless://a697a2a1-7ccc-4f09-b775-9785a0280570@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993962460749361.tiguan-amsid.info&type=ws&host=638993962460749361.tiguan-amsid.info&path=/mwdumwws#≡ƒç½≡ƒç╖[openproxylist.com]
 vless://ac08afa6-d0b3-480c-9426-390604239db6@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993962459201183.passat-amsid.info&type=ws&host=638993962459201183.passat-amsid.info&path=/pczeguws#≡ƒç▓≡ƒç╛[openproxylist.com]
