@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40filterk0sh%20%5B28%5D
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@168.119.48.210:8080?type=ws&path=%2F%40VPNLime&host=fast.com&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40foxnt%20%5B9%5D
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@49.13.74.174:8080?type=ws&path=%2F%40VPNLime&host=fast.com&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40foxnt%20%5B10%5D
 vmess://eyJhZGQiOiI1LjE4Mi4zNi4xOTkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDAzZjEyNzktYzU1ZC00MjdjLTgzMjctOWY3MWY4YjFjYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6NjYxNiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIENIIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQGZyZWVzaGFkb3dzb2NrIFszXSJ9
@@ -437,7 +438,6 @@ vless://WomanLifeFreedomVPN@google.wlftest.xyz:80?type=tcp&path=%2F&host=www.goo
 
 
 #ExpressVpn🔥𝗨𝘀𝗲𝗿: malek996@hotmail.com𝗣𝗮𝘀𝘀 : Idontknow1!واسه مودم سرعت عالیه 🚀@v2rayn_server
-
 
 
 

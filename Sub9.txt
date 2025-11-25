@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@ges.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&host=---tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn---&headerType=none&fp=chrome&spx=/---tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn------tik7net_vpn---&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#@V2RAYROZ
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@nls.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#All-@V2rayAlpha--21
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@nls.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#✅ @vistav2ray  👈👈کانال ما
 vless://567563cb-c711-4a0d-9beb-6e388eb79a44@151.101.3.8:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=shwnerfpld.global.ssl.fastly.net&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
@@ -502,4 +503,3 @@ vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.169.122:443?mode=gun&security
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.194.129:443?flow=&type=grpc&mode=gun&serviceName=&security=none#@meli_proxyy
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.194.129:443?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.194.129:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
-vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.194.129:443?mode=gun&security=none&encryption=none&type=grpc#🇩🇪@FreakConfig
