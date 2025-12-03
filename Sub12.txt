@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://669be00c-67b4-4b87-b08f-311c45abced2@213.219.214.16:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=static.rutube.ru&fp=chrome&security=reality&pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&sid=ffffffffff#🔥66@oneclickvpnkeys
 vless://669be00c-67b4-4b87-b08f-311c45abced2@37.18.14.186:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=static.rutube.ru&fp=chrome&security=reality&pbk=cjM-gNYIiNglmuM7AUymiDT6InmwdtWoSUeeMEONj0w&sid=aaaaaaaa#🔥64@oneclickvpnkeys
 vless://669be00c-67b4-4b87-b08f-311c45abced2@62.60.232.108:443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#🇭🇰[openproxylist.com] vless-HK
 vless://669be00c-67b4-4b87-b08f-311c45abced2@77.110.113.76:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#🇷🇺@FreakConfig
@@ -503,3 +502,4 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?path=/?ed=2048@v2r
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443?path=/?ed=2048@v2ray_configs_pools&security=tls&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪 | @External_Net
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/&security=tls&encryption=none&type=ws#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/?ed=2048@v2ray_configs_pools&security=tls&encryption=none&fp=chrome&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
