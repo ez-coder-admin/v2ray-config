@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f61d9aee-63b8-439e-bebf-afaa53c015fd@144.126.196.165:28899?security=reality&encryption=none&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#GB%20VLESS-104%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#%E6%9C%AA%E7%9F%A5%20SS-105%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#%E6%9C%AA%E7%9F%A5%20SS-106%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA==@45.89.55.173:443#%E6%9C%AA%E7%9F%A5%20SS-107%20%7C%20free-nodes
@@ -502,4 +503,3 @@ trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10824?security=tls#%E
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@gz01.xiaohouzi.club:20091?security=tls&sni=gz01.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-601%20%7C%20free-nodes
 trojan://79314e99f0a473fe86efc7827942ad00@58.152.18.78:443?allowInsecure=0&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-602%20%7C%20free-nodes
 trojan://BxceQaOe@112.118.116.66:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-603%20%7C%20free-nodes
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-604%20%7C%20free-nodes
