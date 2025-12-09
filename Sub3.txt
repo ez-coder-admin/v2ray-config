@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:49363?security=tls&sni=hnm.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-462%20%7C%20free-nodes
 trojan://BxceQaOe@219.79.186.107:443?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-463%20%7C%20free-nodes
 trojan://7a566d21dfcd0f12490275fd3dd3cfc4@trs09.bolab.net:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-464%20%7C%20free-nodes
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:17103?security=tls&sni=$$canada01.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-465%20%7C%20free-nodes
@@ -502,4 +503,3 @@ trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:40950?security=tls#%E6%
 trojan://79314e99f0a473fe86efc7827942ad00@58.152.110.154:443?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-959%20%7C%20free-nodes
 trojan://BxceQaOe@160.16.242.183:2145?security=tls&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-960%20%7C%20free-nodes
 trojan://ffec9f6ea19e1dd1@5.44.249.43:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-961%20%7C%20free-nodes
-trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.53.214:443?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-962%20%7C%20free-nodes
