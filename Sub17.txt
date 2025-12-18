@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc#@V2ray_confing33
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--6
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--34
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc#WiFi-@V2rayAlpha--8
@@ -503,3 +502,4 @@ vless://ed159d76-80be-4e34-aa56-a5f14c28bbfc@brenna.ns.cloudflare.com:443?path=/
 vless://ed191ac2-7bcd-489e-86af-26fb885acaf6@bg.snowfalls.top:443?security=reality&encryption=none&pbk=gjtcPZXZqQx-nXKVsD2CQ_lfmuWVE2fCwxn-hmNNNSg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=bg.snowfalls.top&sid=b45c8f1a9e33d7b2#Join Sho : @IRAN_V2RAY1
 vless://ed191ac2-7bcd-489e-86af-26fb885acaf6@cy.snowfalls.top:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cy.snowfalls.top&sid=0441f3e34348cb45#Join Sho : @IRAN_V2RAY1
 vless://ed191ac2-7bcd-489e-86af-26fb885acaf6@fastercdn.snowfallproject.site:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&host=fastercdn.snowfallproject.site&type=xhttp&sni=fastercdn.snowfallproject.site#Join Sho : @IRAN_V2RAY1
+vless://ed26b867-1480-4a5e-a4f6-e533115eb973@172.66.40.99:443?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=www.dollardoon.com&fp=chrome&type=ws&sni=www.dollardoon.com#@V2RAYNG_IP❤️‍🔥

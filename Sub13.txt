@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2096?path=/&security=tls&encryption=none&type=ws#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&type=ws#✅ @v2ray_configs_pools (تلگرام)
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=/&security=none&encryption=none&host=/v2ray_configs_pools---v2ray_configs_pools?ed=2560&type=ws#✅ @v2ray_configs_pools (تلگرام)
 vless://9e77b236-a70e-4f7d-b898-6d28d2ad0db3@test.fast.hosting-ip.com:80?mode=auto&path=/Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420&security=none&encryption=none&host=Ctarboy726.ir&type=xhttp#@EXPRESSVPN_420
@@ -503,3 +502,4 @@ vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?security=none&en
 vless://a89f3bbc-12d7-403d-cff7-bcf45e615095@161.35.196.76:443?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://a8b47d3d-0cb6-49ac-ad1c-8b079cb1a28f@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://a8b47d3d-0cb6-49ac-ad1c-8b079cb1a28f@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
+vless://a8b47d3d-0cb6-49ac-ad1c-8b079cb1a28f@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#All_41--@V2rayAlpha
