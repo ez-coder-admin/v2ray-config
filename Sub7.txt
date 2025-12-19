@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@[2a01:e5c0:201f::2]:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=chrome&spx=/sinavm-sinavm&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#🇫🇷@vpnserverrr کانال تلگرامی
+vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#@Daily_Configs
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=tgju.org&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=6ba85179e30d4fc2#🇫🇷@SiNAVM کانال تلگرامی
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#🇫🇷@FreakConfig
@@ -501,5 +503,3 @@ vless://3b89b8e3-f4ef-4e91-8563-f1ba274ee6f4@151.101.3.8:80?type=xhttp&encryptio
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=/?ed=1024#@CaV2ray ⚡️
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=/?ed=1024&security=none&encryption=none&host=Fastapi.Org&type=ws#@CaV2ray ⚡️
 vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Zilor.ir&type=ws#@CaV2ray ⚡️
-vless://3bf32aef-fceb-48e9-ff30-5cb6a211aeb8@157.230.124.41:443?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://3c1a04bb-165a-476d-af02-3dc5590f8742@91.98.22.20:22933?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇩🇪 | @External_Net
