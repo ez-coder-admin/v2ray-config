@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
-vless://e0acdcf9-df32-45c6-95a6-17b0b6180de6@www.visa.com.br:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%203.33
-
-vless://e0acdcf9-df32-45c6-95a6-17b0b6180de6@www.visa.com.br:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%203.3
-
-vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Ainita%20Server%20azure-sto.edgeservers.org
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#@Rayan_Config-82.38.31.176-@beepassvpn_bot
@@ -503,3 +496,10 @@ vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HqfCfh6pfd3d3LnBhbmxvbmdpZC5jb21fREVf5b63
 trojan://BxceQaOe@58.152.30.31:443?allowInsecure=1&sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 676 #%F0%9F%87%AD%F0%9F%87%B0_www.panlongid.com_HK_%E9%A6%99%E6%B8%AF_12
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cf.090227.xyz:2083?allowInsecure=1&sni=cm3-bpg.filegear-sg.me#_www.panlongid.com__15
 trojan://5a2c16f9@cf.130519.xyz:443?allowInsecure=1&sni=snippets.kkii.eu.org#%F0%9F%87%A6%F0%9F%87%B2_www.panlongid.com_AM_16
+trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 748 #%F0%9F%87%AD%F0%9F%87%B0_www.panlongid.com_HK_%E9%A6%99%E6%B8%AF_17
+vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+Hq/Cfh7dfd3d3LnBhbmxvbmdpZC5jb21fRlJf5rOV5Zu9XzE4IiwKICAiYWRkIjogIjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsCiAgInBvcnQiOiA0NDU3OSwKICAiaWQiOiAiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwKICAiYWlkIjogMCwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiBmYWxzZSwKICAic25pIjogIiIKfQ==
+vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+Hq/Cfh7dfd3d3LnBhbmxvbmdpZC5jb21fRlJf5rOV5Zu9XzE5IiwKICAiYWRkIjogIjIwMDE6YmM4OjMyZDc6MjAxMzo6OCIsCiAgInBvcnQiOiA2MjIxMSwKICAiaWQiOiAiZTE3ODZkNDktY2NiYS00NjZiLWEwZGQtZTFhYjU5YmQ4M2JiIiwKICAiYWlkIjogMCwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLAogICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsCiAgInRscyI6IGZhbHNlLAogICJzbmkiOiAiIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbUAxOTMuMjAzLjIwMy42Njo0NDM=#%F0%9F%87%A8%F0%9F%87%A6_www.panlongid.com_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7_21
+trojan://5a2c16f9@104.19.55.205:443?allowInsecure=1&sni=snippets.kkii.eu.org#_www.panlongid.com__25
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwa0AxOTQuMjQ2LjExNC4xMDE6NDQz#%F0%9F%87%AD%F0%9F%87%B0_www.panlongid.com_HK_%E9%A6%99%E6%B8%AF_27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQndAMjA4LjY3LjEwNi43Mzo0NDg4NA==#%F0%9F%87%B3%F0%9F%87%B1_www.panlongid.com_NL_%E8%8D%B7%E5%85%B0_28
