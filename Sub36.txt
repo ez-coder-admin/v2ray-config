@@ -150,6 +150,7 @@
 
 
 
+
 #آموزش_تصویری🎈🎈آموزش استفاده از برنامه v2rayNG (اندروید)🎈1. اول از همه برنامه رو دانلود و نصب کنید که فایل نصب برنامه داخل کانال هست. از گوگل پلی یا هر منبع معتبر دیگه هم میتونید نصب کنید.2. بعد از نصب یکی از سرور های shadowsocks که داخل کانال قرار میگیره و با vmess یا vless شروع میشه رو کپی کنید.3. وارد برنامه v2rayNG رو بشید و روی گزینه + گوشه بالا بزنید و گزینه Import config from Clipboard رو انتخاب کنید تا سرور شدوساکس داخل برنامه اضافه بشه و در نهایت روی گزینه دایره ای V شکل گوشه پایین بزنید تا اتصال برقرار بشه و رنگ دایره به سبز تغییر کنه و عبارت Connected نمایش داده بشه.نکته: میتونید چندتا سرور داخل برنامه اضافه کنید تا هر کدوم وصل نشد، یکی دیگه رو امتحان کنید.🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 • More: @Proxy_Beta
 
 #آموزش_تصویری🎈🎈آموزش استفاده از برنامه v2rayNG (اندروید)🎈1. اول از همه برنامه رو دانلود و نصب کنید که فایل نصب برنامه داخل کانال هست. از گوگل پلی یا هر منبع معتبر دیگه هم میتونید نصب کنید.2. بعد از نصب یکی از سرور های shadowsocks که داخل کانال قرار میگیره و با vmess یا vless شروع میشه رو کپی کنید.3. وارد برنامه v2rayNG رو بشید و روی گزینه + گوشه بالا بزنید و گزینه Import config from Clipboard رو انتخاب کنید تا سرور شدوساکس داخل برنامه اضافه بشه و در نهایت روی گزینه دایره ای V شکل گوشه پایین بزنید تا اتصال برقرار بشه و رنگ دایره به سبز تغییر کنه و عبارت Connected نمایش داده بشه.نکته: میتونید چندتا سرور داخل برنامه اضافه کنید تا هر کدوم وصل نشد، یکی دیگه رو امتحان کنید.🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 • More: @Proxy_Beta
@@ -502,4 +503,3 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&sec
 vless://cb495349-f0c5-464d-89a3-6f162c04b906@nl-ws.rush-server.com:443?path=%2FvwsS9d6&security=tls&encryption=none&insecure=0&host=huli-nada.com&fp=qq&type=ws&allowInsecure=0&sni=huli-nada.com#%3E%3E%40prrofile_purple%3A%3ANL
 vless://d2d79fd8-a3d4-4792-9766-e472e1fe8a5f@51.250.104.85:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3AEE
 vless://d2d79fd8-a3d4-4792-9766-e472e1fe8a5f@51.250.28.232:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#%3E%3E%40freev2rayssr%3A%3AXX
