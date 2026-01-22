@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.222:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.22:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.27:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.52:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.62:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.47:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.238:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.94:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@wangcai.tencentapp.cn:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@www.speedtest.net:8880/?type=ws&encryption=none&flow=&host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&path=%2F%3Fed%3D8880#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@25.25.25.0:8880/?type=ws&encryption=none&flow=&host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -503,3 +495,11 @@ hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&o
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#28YB5qK!5t#U&insecure=1&sni=nalog.ru#рҹҮ«рҹҮ®h@ConfigV2RayNG
 hysteria2://yhqy5AHofQq@channel3.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#28YB5qK!5t#U&insecure=1&sni=www.google.com#вӣ„11@ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173:8080#вҡЎTelegram = @SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173:8080#вҡЎTelegram = @vmessorg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#telegram В» рқ—әрқ—®рқ—¶рқ—»рқҳғрқҹ®рқ—ҝрқ—®рқҳҶвҒө
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#рҹҮірҹҮұ ConfigV2RayNG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#telegram В» рқ—әрқ—®рқ—¶рқ—»рқҳғрқҹ®рқ—ҝрқ—®рқҳҶ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#telegram В» рқ—әрқ—®рқ—¶рқ—»рқҳғрқҹ®рқ—ҝрқ—®рқҳҶВІ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#telegram В» рқ—әрқ—®рқ—¶рқ—»рқҳғрқҹ®рқ—ҝрқ—®рқҳҶ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#telegram В» рқ—әрқ—®рқ—¶рқ—»рқҳғрқҹ®рқ—ҝрқ—®рқҳҶВІ
+ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:11696#рҹҮІрҹҮҫ й©¬жқҘиҘҝдәҡ
