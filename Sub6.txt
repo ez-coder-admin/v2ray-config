@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.166:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#Channel : @Mrsoulb 🏴🏳
+vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.190.44:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#N/A-@V2rayAlpha-9
 vless://7bc5e953-9385-40b8-9469-e74d13252d2f@mg2.yuanbaojc.site:13000?security=reality&encryption=none&pbk=GTrEA54lSdFrwHHu3YdeqkGY9moMid4ijQvULTAcBjM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=s0.awsstatic.com#Channel : @Mrsoulb 🏴🏳
 vless://7bf33271-8846-4189-badf-4f246e44fc5b@217.26.222.46:443?security=reality&alpn=http/1.1&encryption=none&pbk=axJHL-4uQA5ZR2-hvZ46di7OMGcFHuFFXGmKaoG5B1A&host=google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=82b21d#@V2rayng_Fast
 vless://7bf33271-8846-4189-badf-4f246e44fc5b@217.26.222.46:443?security=reality&alpn=http/1.1&encryption=none&pbk=axJHL-4uQA5ZR2-hvZ46di7OMGcFHuFFXGmKaoG5B1A&host=google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=82b21d#@meliproxyy
@@ -501,5 +503,3 @@ vless://9c42819a-67a6-4742-9c6d-64900ba62160@199.68.196.108:8443?security=realit
 vless://9c42819a-67a6-4742-9c6d-64900ba62160@fl-2.bot-iphone.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=www.samsung.com&type=tcp#⚡Telegram = @PRS_MLBB
 vless://9c42819a-67a6-4742-9c6d-64900ba62160@fl-2.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇮🇷 IR 16 @Outline_Vpn
 vless://9cb2b14f-cb4a-4ceb-a0ac-3a46f56d8545@library98.ir:38759?security=none&encryption=none&headerType=none&type=tcp#@ConfigV2RayNG 🌙
-vless://9cb2b14f-cb4a-4ceb-a0ac-3a46f56d8545@library98.ir:38759?security=none&encryption=none&headerType=none&type=tcp#@ConfigV2RayNG🌙
-vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#Channel : @Mrsoulb 🏴🏳
