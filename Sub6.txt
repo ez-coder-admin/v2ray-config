@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://573c787d-d549-4171-b05f-29984bc0266c@104.18.32.47:443?path=/@AmirGeekTech-@FNET00&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.farazteams.ir&fp=chrome&type=ws&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech  Telegram
+vless://573c787d-d549-4171-b05f-29984bc0266c@104.18.32.47:443?type=ws&encryption=none&path=/@AmirGeekTech-@FNET00&host=ipv4.farazteams.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
+vless://573c787d-d549-4171-b05f-29984bc0266c@45.85.118.209:443?path=/@AmirGeekTech-@FNET00&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.farazteams.ir&fp=chrome&type=ws&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
+vless://577e812a-11af-48e0-be53-22b563ff31a5@vip.arivganteng.biz.id:443?path=/ariv=83.142.30.4=2096&security=tls&encryption=none&host=vip.arivganteng.biz.id&type=ws&sni=vip.arivganteng.biz.id#[144] - Telegram : @V2All
 vless://57aba857-2479-459c-be0a-c167ff60c5c4@188.0.247.176:56327?security=&encryption=none&headerType=none&type=tcp#ConfigV2RayNG
 vless://57aba857-2479-459c-be0a-c167ff60c5c4@188.0.247.176:56327?security=none&encryption=none&headerType=none&type=tcp#Join Telegram:@v2ray_configs_pools
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#🦚76@oneclickvpnkeys
@@ -499,7 +503,3 @@ vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@ip2.kakeroo.ir:80?path=/&security=n
 vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@ip2.kakeroo.ir:80?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=sdtfdtydtydys2.global.ssl.fastly.net&type=ws#@MARAMBASHI 💙
 vless://798b223a-fcff-4467-bfb1-bde09c8354b4@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
 vless://799f4fad-c443-4b2b-a403-743ef389962a@vip.oneplus2online.com:50063?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@v2ray_proxy_npv+❄️+@cloudkey_vpn
-vless://79a01b8d-48a7-424a-97d6-d4fa0f1bb2f2@104.18.27.90:2053/?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=port.api-music-fa.com&type=ws&sni=port.api-music-fa.com#@v2rays_ha 8120
-vless://79df85dd-cb40-4b32-828e-f38d918d85e3@irani.vidboxco.ir:2053?path=/?ed=2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ip-static-address.wizardxray.net#channel : @freedomofinfor
-vless://7a5dc2d1-8560-47de-8df9-2a1c5f8fd3ec@3.123.24.207:16763?security=&encryption=none&headerType=&type=tcp#@v2ray_configs_pools>16<
-vless://7a5dc2d1-8560-47de-8df9-2a1c5f8fd3ec@3.123.24.207:16763?security=&encryption=none&headerType=&type=tcp#v2ray_configs_pools
