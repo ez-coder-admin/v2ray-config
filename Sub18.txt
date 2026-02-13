@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.160.24.217:803#%F0%9F%87%AF%F0%9F%87%B5JP-185.160.24.217-0138
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0137
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.160.24.217:808#%F0%9F%87%AF%F0%9F%87%B5JP-185.160.24.217-0136
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.160.24.217:805#%F0%9F%87%AF%F0%9F%87%B5JP-185.160.24.217-0135
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:805#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0134
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:801#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0133
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@89.31.126.171:800#%F0%9F%87%AF%F0%9F%87%B5JP-89.31.126.171-0132
@@ -231,12 +227,12 @@ vless://133d44b7-170e-41cd-a0cc-0b35470823bb@195.201.222.173:32916?encryption=no
 #Epodonios
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Generated: 2026-02-14 - 01:30 (Iran/Tehran)
+# 📅 Generated: 2026-02-14 - 02:00 (Iran/Tehran)
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @ALIILAPRO_Config
 # ========================================
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTE0IC0gMDE6MzAgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTE0IC0gMDI6MDAgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 
 # ============ OTHER CONFIGS ============
@@ -264,6 +260,10 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
+
+
+
+
 
 
 
