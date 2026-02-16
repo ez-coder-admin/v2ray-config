@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@156.225.72.152:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#@Hope_Net-join-us-on-Telegram
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.230:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#@Hope_Net-join-us-on-Telegram
-vless://2d2a23d8-7d4d-7be5-e322-42e78a0faf92@srv-v0.netmaster.cam:3306?encryption=none&security=none&sni=1&type=ws&path=/#⭕ @vpnbaz
-vless://2d2a23d8-7d4d-7be5-e322-42e78a0faf92@srv-v0.netmaster.cam:3306?path=/&security=&encryption=none&type=ws&sni=1#کانال تلگرام : ConfigV2RayNG@
-vless://2d2a23d8-7d4d-7be5-e322-42e78a0faf92@srv-v0.netmaster.cam:3306?security=&encryption=none&type=ws&sni=1#@ConfigV2RayNG
 vless://2d2a23d8-7d4d-7be5-e322-42e78a0faf92@srv-v0.netmaster.cam:3306?security=&encryption=none&type=ws&sni=1#ConfigV2RayNG
 vless://2d2a23d8-7d4d-7be5-e322-42e78a0faf92@srv-v0.netmaster.cam:3306?security=none&encryption=none&type=ws&sni=1#@YamYamProxy
 vless://2d2a23d8-7d4d-7be5-e322-42e78a0faf92@srv-v0.netmaster.cam:3306?security=none&encryption=none&type=ws&sni=1#@proxy_kafee❤️
@@ -503,3 +498,8 @@ vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:8443?path=/vpnow
 vless://4571c9f9-3705-496a-947d-efad116e5c9f@main.vpsjc.sbs:2087?security=&encryption=none&host=adsl.tci.ir&headerType=http&type=tcp#🇪🇺 | Multi📍Tunnel • gygpecf8
 vless://4578bd05-c0bf-42e1-b228-22db0e64c947@89.169.55.246:443?security=reality&encryption=none&pbk=Sy0R6Rfc0__9-mP_o-_Uz1j-dr0tFE622A79TeY1Zgk&headerType=none&fp=chrome&spx=/&type=tcp&sni=krakenlabs.ru&sid=50bf58cc86978253#@X_RAY_VPN1🌩️
 vless://457c367f-ac78-4641-9846-dd880332f7cf@217.12.40.76:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=6354585c37827955#💞95@oneclickvpnkeys
+vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@79.137.102.79:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#🛡 V 30 @Outline_Vpn
+vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@realbook.psg2fr.pdf2book4iran1art.ir:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#@chillguy_vpn
+vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@realbook.psg2fr.pdf2book4iran1art.ir:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#Config 5 - @lebertad
+vless://45e0054a-57f1-44e4-aac9-3ff0826b1735@77.81.81.17:3636?mode=auto&path=/@bitnetvpn&security=none&encryption=none&host=bitnetvpn.com&type=xhttp#@v2ray_proxy_npv+❄️+@ClouddVPN
+vless://45e0054a-57f1-44e4-aac9-3ff0826b1735@77.81.81.17:3636?type=xhttp&encryption=none&path=/@bitnetvpn&host=bitnetvpn.com&mode=auto&security=none#🇺🇸_BITNETvpn_GIFT-250G-3
