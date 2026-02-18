@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed=2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#@meliproxyy
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed=2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#Tel:@loveiran83
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed=2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#telegram @mtmvpn
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed=2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#@Black_Star_Vpn 🇩🇪
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#@Tel:@ConfigV2RayNG 🇩🇪
@@ -500,6 +503,3 @@ vless://5d06f973-f9c2-4d1a-8914-38e4971ddc4b@140.248.128.0:80?mode=auto&path=/Te
 vless://5d06f973-f9c2-4d1a-8914-38e4971ddc4b@140.248.128.0:80?mode=auto&path=/Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs&security=none&encryption=none&host=hazarabrowse.bh&type=xhttp#E121
 vless://5d06f973-f9c2-4d1a-8914-38e4971ddc4b@140.248.128.0:80?mode=auto&path=/Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs&security=none&encryption=none&host=hazarabrowse.bh&type=xhttp#✅سرورهایبیشتردر:prrofile_purple@✅
 vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@51.83.43.151:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#IR+@V2rayAlpha-17
-vless://5d31a5a2-31b6-49e4-999e-dffae4492445@python.org:80/?type=xhttp&encryption=none&path=/datax_proxy&host=dataxamsterdam.global.ssl.fastly.net&mode=auto&security=none#مخصوص نت مل
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed&security=tls&encryption=none&host=powered-by-surena.configfarsi695fce27aa549.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.configfarsi695fce27aa549.workers.dev#@Golestan_VPN 🆓 IRAN
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&host=surena-persian-gulf25.user695399be333b1.workers.dev&fp=chrome&type=ws&sni=surena-persian-gulf25.user695399be333b1.workers.dev#configfarsi
