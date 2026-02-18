@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dcaedec9-9e24-47ea-bdd8-d0c5c4c44d37@23.88.52.73:2096?type=tcp&security=reality&fp=chrome&sni=Www.safine.net&pbk=wzuNwzncGOhTuCcO2tt4j7es7b3logIYYlVmWvu1OBM&sid=118e3f91&spx=/#@HosseinStore_Za
-vless://dced7149-a64f-42e9-a86c-c3d3c3a96cd8@vpn8461cdn2.unlimiteddev.co:9821?security=none&encryption=none&headerType=http&type=tcp#@kanfig_kade++++plus
-vless://dced7149-a64f-42e9-a86c-c3d3c3a96cd8@vpn8461cdn2.unlimiteddev.co:9821?security=none&encryption=none&headerType=http&type=tcp#🧢-@kanfig_kade
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=-turbov2box&security=tls&alpn=http/1.1&encryption=none&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#@Hddify
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=-turbov2box&security=tls&alpn=http/1.1&encryption=none&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#🧢-@turbov2box
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#@Hddify |••| چنل هدیفای
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#telegram @mtmvpn
@@ -503,3 +499,7 @@ vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#@V2rayBaaz
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#@v2box
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#Tel:@loveiran83
+vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#کانال تلگرام : ConfigV2RayNG@
+vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#🌊 Tel : @ProxyVPN11 ⟵
+vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#🕊 Tel : @ProxyVPN11 ⟵
+vless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@144.31.180.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Ptlv1A0hHK3qw92t9cjKNJjaYCJnglNDGzPDOc4OZ1I&sid=a59201a59450&type=tcp&headerType=none#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Orem (Orchard South)🅿️ping:22.0ms 67 dailyv2ry
