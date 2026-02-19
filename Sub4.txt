@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://519d06a5-f3a5-41bd-8f95-519ab65e20ed@23.227.38.72:443/?path=/images&security=tls&host=yss2o9nzv7hsgw2z.sggogo202510.top&type=ws&sni=yss2o9nzv7hsgw2z.sggogo202510.top#@v2rays_ha 9786
-trojan://519d06a5-f3a5-41bd-8f95-519ab65e20ed@23.227.38.72:443?security=tls&sni=yss2o9nzv7hsgw2z.sggogo202510.top&insecure=0&allowInsecure=0&type=ws&host=yss2o9nzv7hsgw2z.sggogo202510.top&path=/images#@freenettir
 trojan://519d06a5-f3a5-41bd-8f95-519ab65e20ed@23.227.38.72:443?security=tls&sni=yss2o9nzv7hsgw2z.sggogo202510.top&insecure=0&allowInsecure=0&type=ws&host=yss2o9nzv7hsgw2z.sggogo202510.top&path=/images#@meliproxyy
 trojan://519d06a5-f3a5-41bd-8f95-519ab65e20ed@23.227.38.72:443?security=tls&sni=yss2o9nzv7hsgw2z.sggogo202510.top&insecure=0&allowInsecure=0&type=ws&host=yss2o9nzv7hsgw2z.sggogo202510.top&path=/images#⚡Telegram = @SOSkeyNET
 trojan://519d06a5-f3a5-41bd-8f95-519ab65e20ed@666.cloudflare.182682.xyz:443?security=tls&sni=yss2o9nzv7hsgw2z.sggogo202510.top&insecure=0&allowInsecure=0&type=ws&host=yss2o9nzv7hsgw2z.sggogo202510.top&path=/images#@freenettir
@@ -503,3 +501,5 @@ vless://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@vbnj.0ol.ccwu.cc:80?security=none&t
 vless://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@vbnj.0ol.ccwu.cc:80?security=none&type=ws&path=/7ZHQqqDZuBdYKaAHx8c&host=vbnj.0ol.ccwu.cc&sni=vbnj.0ol.ccwu.cc&fp=chrome#⚡Telegram = @SOSkeyNET
 vless://077dca1a-97ba-4ad8-a9ca-aa06a97fa0a6@46.225.110.125:2002?security=reality&encryption=none&pbk=5b1k44J87oeqOrAUrdLN9de4ZYcT9uOU4DEhFf0WHV8&headerType=none&fp=chrome&type=tcp&sni=play.google.com#IR-@V2rayAlpha--16
 vless://077dca1a-97ba-4ad8-a9ca-aa06a97fa0a6@46.225.110.125:2002?type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=5b1k44J87oeqOrAUrdLN9de4ZYcT9uOU4DEhFf0WHV8#@Trick_mobil
+vless://077dca1a-97ba-4ad8-a9ca-aa06a97fa0a6@H6.FASTSPEEDS.IR:2087?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=gamehub3.temas-arvha.ir#IR-@V2rayAlpha--29
+vless://079a3f24-7200-435b-a74a-184d179f04e7@85.133.197.218:17700?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#✅کانفیگهای بیشتردر:prrofile_purple@✅

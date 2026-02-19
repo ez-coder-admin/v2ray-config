@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?encryption=none&security=tls&sni=ir1.airpanel.top&insecure=0&allowInsecure=0&type=ws&host=ir1.airpanel.top&path=/#کانفیگ رایگان = t.me/arisping
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=/&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#🛡 V 36 @Outline_Vpn
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@AliXTso
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@V2rayngSeven
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=/&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#@flyv2ray
@@ -503,3 +501,5 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443/?type=ws&encryption=
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?encryption=none&security=tls&sni=dev.nestandneighbours.com&insecure=0&allowInsecure=0&type=ws&host=dev.nestandneighbours.com&path=/#کانفیگ رایگان = t.me/arisping
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?encryption=none&security=tls&sni=dev.nestandneighbours.com&insecure=0&allowInsecure=0&type=ws&host=dev.nestandneighbours.com&path=/?TELEGRAM?ed=2560#کانفیگ رایگان = t.me/arisping
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?encryption=none&security=tls&sni=dev.nestandneighbours.com&insecure=1&allowInsecure=1&type=ws&host=dev.nestandneighbours.com&path=/#کانفیگ رایگان = t.me/arisping
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&host=dev.nestandneighbours.com&fp=chrome&type=ws&sni=dev.nestandneighbours.com#azadiiivpn 🎀
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&host=dev.nestandneighbours.com&type=ws&sni=dev.nestandneighbours.com#@Al

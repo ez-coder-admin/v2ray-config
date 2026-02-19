@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@fi.mobileemdad.top:42538?security=none&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#@SPEEDS_VPN1-🫆
-vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@fi.mobileemdad.top:42538?security=none&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#🐦‍🔥-@SPEEDS_VPN
 vless://b0aa3785-0f9a-4dd0-a1e4-13d995fb3089@8331cbbbda5243f7.first.sapienza-mahan.ir:443?path=/opt/W122DQP56XxXklMBRTXILPXVN32c011378932HPqc12Wq0Mlks0QoPpLlIisAB88?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ali-gr.sdcards1.ir&fp=chrome&type=ws&allowInsecure=0&sni=ali-gr.sdcards1.ir#🇩🇪 • همراه configfarsi
 vless://b0aa3785-0f9a-4dd0-a1e4-13d995fb3089@ahura1.prodatabase.ir:1500?security=none&encryption=none&headerType=http&type=tcp#🇩🇪 configfarsi
 vless://b0aa3785-0f9a-4dd0-a1e4-13d995fb3089@freedom-cf01.motfkrm.ir:443?path=/opt/W122DQP56XxXklMBRTXILPXVN32c011378932HPqc12Wq0Mlks0QoPpLlIisAB88?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=sweden-ami.a1min.ir&fp=chrome&type=ws&allowInsecure=0&sni=sweden-ami.a1min.ir#🇸🇪 •,onfigfarsi
@@ -503,3 +501,5 @@ vless://d16bab5b-a68d-4280-c340-d3e865f2a858@18.185.5.247:17506?security=none&en
 vless://d171a014-e84b-4444-a0b8-58f9004d4ecd@rill.mr-mobile.shop:443?type=tcp&security=reality&fp=chrome&sni=fonts.googleapis.com&pbk=mnTS_BtktTdCxANPuJlQwHNOxl-uZTqFm90c4_K74DM&sid=49f65a80&spx=/
 vless://d171a014-e84b-4444-a0b8-58f9004d4ecd@rill.mr-mobile.shop:443?type=tcp&security=reality&fp=chrome&sni=fonts.googleapis.com&pbk=mnTS_BtktTdCxANPuJlQwHNOxl-uZTqFm90c4_K74DM&sid=49f65a80&spx=/ #@HosseinStore_Za  ترافیک
 vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@chatgpt.com:2087/?type=httpupgrade&encryption=none&flow=&host=rahgozar.italiantourism.net&path=/httpupgrade26070&security=tls&sni=rahgozar.italiantourism.net.&alpn=http/1.1&allowInsecure=1#📥43@oneclickvpnkeys
+vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@chatgpt.com:2087?path=/httpupgrade26070&security=tls&alpn=http/1.1&encryption=none&host=rahgozar.italiantourism.net&fp=chrome&type=httpupgrade&sni=rahgozar.italiantourism.net.#فیلترشکن رایگان👈vpnowl@
+vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=/httpupgrade26070&security=tls&alpn=http/1.1&encryption=none&host=rahgozar.italiantourism.net&fp=chrome&type=httpupgrade&sni=rahgozar.italiantourism.net.#فیلترشکن رایگان👈vpnowl@
