@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@91.234.147.72:6663?security=none&encryption=none&headerType=http&type=tcp#Em4
+vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@91.234.147.72:6665?security=none&encryption=none&headerType=http&type=tcp#Em2
+vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@94.183.150.62:7772?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Em1
+vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@cp4.azangooo.ir:2053?security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=chrome&type=ws&allowInsecure=0&sni=MS_swde8f699a400458da-sfX.digitstocks.ir#Em6
+vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@cpo2.azangooo.ir:2053?security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=chrome&type=ws&allowInsecure=0&sni=MS_swa7cf6f82251b1665-sfX.digitstocks.ir#Em7
+vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@my.kiomars.shop:6610?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=c3b6ed4da7a983c7#Em9
 vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@my.kiomars.shop:6620?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=c3b6ed4da7a983c7#Em8
 vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=c3b6ed4da7a983c7#Em3
 vless://bdc39e5c-7605-4060-bebe-906801c5479b@3kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:702?security=none&encryption=none&host=rubika.ir,igap.net,splus.ir,skyroom.online&headerType=http&type=tcp#telegram @mtmvpn 12
@@ -497,9 +503,3 @@ vless://d1b421cc-ebaf-48cf-bf12-e7947af11c53@www.tgju.org:2087?path=/httpupgrade
 vless://d21ea4fd-b0d2-4361-a86e-f3e81d0a606d@srv9.tak30m.com:38509?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#@ConfigV2RayNG
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@18.159.196.113:443?security=none&encryption=none&headerType=none&type=tcp#horn_proxy 5
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.71.1.237:443?security=&encryption=none&headerType=none&type=tcp#channel : @freedomofinfor
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=&type=tcp#@VPNFARDAD 4
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 4
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=&type=tcp#@vmess_iran 4
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=none&type=tcp#@ConfigV2RayNG
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=none&type=tcp#@FarazV2ray
