@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a4c6bbd7-6ea5-44b2-9829-08f5ae615d49@n1761184273.mv7wh.tech:443?encryption=none&security=tls&sni=n1761184273.mv7wh.tech&fp=chrome&type=ws&host=n1761184273.mv7wh.tech&path=/a4c6bbd7-6ea5-44b2-9829-08f5ae615d49#@AzadioNet کانفیگ تست شده⚡️
 vless://a4c90ca9-e957-4ac9-bc96-ab457e720e6d@5.75.204.195:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://a4d3209a-9b49-441a-974f-03ce00f5d05a@grdt.dtsantoor.com:40786?security=tls&encryption=none&insecure=0&host=skyroom.online&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=grdt.dtsantoor.com#@HajmVPN | 🇨🇦
 vless://a4d3209a-9b49-441a-974f-03ce00f5d05a@grdt.dtsantoor.com:40786?security=tls&encryption=none&insecure=0&host=skyroom.online&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=grdt.dtsantoor.com#@canfingV2rayNG
@@ -503,3 +502,4 @@ vless://bc310b8d-fbe8-4c55-970b-be77816fceea@69.164.192.203:443?type=xhttp&path=
 vless://bc3d43b6-814c-4812-bbcf-1d7c5fd054a2@104.25.211.224:2052/?type=ws&encryption=none&flow=&host=metaplayer.gameredzone.top&path=/t.me.V2RayyNGvpn&ed=1024&eh=Sec-WebSocket-Protocol#🪢72@oneclickvpnkeys
 vless://bc3d43b6-814c-4812-bbcf-1d7c5fd054a2@104.25.211.224:2052/?type=ws&encryption=none&host=metaplayer.gameredzone.top&path=/t.me.V2RayyNGvpn?ed=1024#🇹🇷TR_1|1.1MB/s
 vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.234.221.177:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L835
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
