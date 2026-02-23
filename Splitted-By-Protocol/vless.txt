@@ -3,10 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fe387417-4166-47f9-a863-706254f306d8@join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443?path=ws&security=tls&encryption=none&host=join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev&fp=chrome&type=ws&sni=join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev#جاوید
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.127:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#جاوید
-vless://63d4be35-a762-4bad-9185-d501fe5db7b4@65.109.185.170:8080?encryption=none&security=none&type=ws&host=188.114.96.7&path=%2F#جاوید
-vless://fca42527-0f5f-4227-9554-ba32702fe90c@3.66.163.128:443?security=none&encryption=none&headerType=none&type=tcp#جاوید
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#جاوید
+vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@104.17.147.22:443?path=%2FeyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#جاوید
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#جاوید
+vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@172.66.128.70:80?path=/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#جاوید
+vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#جاوید
+vless://74b8015a-480e-45e9-b13f-c153bd7497b5@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=jointelegramv2ra.com&path=🔒#جاوید
+vless://c4baefee-fc4c-42ed-b19c-5d5f7dad36ba@c8f7b1ab85189cf5.first.sapienza-mahan.ir:443?encryption=none&%3Bsecurity=tls&%3Bsni=harro-likeh1.sdcards1.ir&%3Btype=ws&%3Bhost=harro-likeh1.sdcards1.ir&%3Bpath=/#جاوید
+vless://50b0f905-ff29-4d9b-bf2e-161a4dff6426@199.232.173.212:80?mode=auto&path=%2F-AzV2ry%3Fed&security=&encryption=none&host=qbank.ir&type=xhttp#جاوید
+vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&encryption=none&pbk=l6RZ7aQ4MX_q39a5wLgZt36f4JldG6aZTT8p79hzFx0&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.debian.org&sid=63d80d5199a2bc#جاوید
+vless://5238a315-4427-4915-a1de-4978e3029a1c@104.17.148.22:2096?path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&insecure=0&host=long-mode-2783.sepna114.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV#جاوید
+vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@104.18.166.203:443?path=/pa&security=tls&encryption=none&insecure=0&host=hs-4dfc2225.ndkwiut2718.ir&fp=chrome&type=ws&allowInsecure=0&sni=ndkwiut2718.ir#جاوید
 vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=harro-likeh1.sdcards1.ir#llgy-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=%2F&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?security=none&encryption=none&headerType=none&type=tcp#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
@@ -7656,13 +7663,7 @@ vless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@104.18.34.21:8080/?type=ws&encrypti
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.171:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#@chillguy_vpn
 vless://c805b05e-339d-40e0-8787-432d97a27345@g10.prodnsspeed10.ir:2083?encryption=none&security=tls&sni=data-frm2.netsnap.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=data-frm2.netsnap.ir&path=%2FR8I9Yqu0DxpQB2NKCxLA#@chillguy_vpn
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.69:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn14.suio.me&allowInsecure=1#@chillguy_vpn
-vless://38e0568d-d405-440d-8041-0e6c923a803d@212.227.95.106:443?type=tcp&security=reality&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&fp=chrome&sni=yahoo.com&sid=a0cb&spx=/#جاوید
-vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?security=none&encryption=none&headerType=none&type=tcp#جاوید
-vless://c4baefee-fc4c-42ed-b19c-5d5f7dad36ba@c8f7b1ab85189cf5.first.sapienza-mahan.ir:443?encryption=none&security=tls&sni=harro-likeh1.sdcards1.ir&type=ws&host=harro-likeh1.sdcards1.ir&path=/#جاوید
-vless://324e4a2f-e301-420d-9235-23b3d166dd0e@85.192.30.157:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=isharing.us&fp=chrome&pbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&sid=a4eed13ebbf2f9d2#جاوید
-vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=%2Ffaq&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=adderall.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=adderall.adaspoloandco.com#جاوید
-vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?path=%2F--Telegram---%40PULAVPN%2F---%40PULAVPN%2F---%40PULAVPN%2F---%40PULAVPN%3Fed%3D2560&security=none&encryption=none&host=digikala.sorza.ir&type=ws#جاوید
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@62.133.60.50:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=decdn12.suio.me#جاوید
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=/64.181.218.67=443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#جاوید
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.250.229:80?type=ws&host=kr1.175852.xyz&path=/abcde#جاوید
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?security=none&encryption=none&headerType=http&type=tcp#جاوید
+vless://fe387417-4166-47f9-a863-706254f306d8@join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443?path=ws&security=tls&encryption=none&host=join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev&fp=chrome&type=ws&sni=join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev#جاوید
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.127:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#جاوید
+vless://63d4be35-a762-4bad-9185-d501fe5db7b4@65.109.185.170:8080?encryption=none&security=none&type=ws&host=188.114.96.7&path=%2F#جاوید
+vless://fca42527-0f5f-4227-9554-ba32702fe90c@3.66.163.128:443?security=none&encryption=none&headerType=none&type=tcp#جاوید
