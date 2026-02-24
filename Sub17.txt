@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443?security=reality&encryption=none&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.xbox.com#🇦🇺@FreakConfig
-vless://e475b74d-9994-4ad8-b432-a7bc6feb650a@de1.zarvan.io:55835?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#VayNora
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh29v7.carwashipdir.shop&alpn=h2&allowInsecure=1#تو کانال نتورلد نباشید قطع میشن@networld_vpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh29v7.carwashipdir.shop&alpn=h2&allowInsecure=1#⭐82@oneclickvpnkeys
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&type=grpc&serviceName=&sni=pqh29v7.carwashipdir.shop#configraygan_88
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v1.carwashipdir.shop&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome#channel→@networld_vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&insecure=0&allowInsecure=0&type=grpc#کانفیگ رایگان = t.me/arisping
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&type=grpc#@AzadioNet این جواب داد بقیشو ببین
@@ -503,3 +498,8 @@ vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=/?ed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#⚡Telegram = @SOSkeyNET
 vless://f8d3b3c4-678d-4a23-a4de-f8613a310a44@78.110.123.32:2095?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @prrofile_purple
 vless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@79.133.180.45:443?security=reality&encryption=none&pbk=45ui5TpjfPf6HmRyT4M53XnR9tOXjpcLRLmaRyhlPiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.ok.ru&sid=d7325e33#Telegram @Ettehad_vpn
+vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560&security=&encryption=none&host=digikala.sorza.ir&type=ws#https://t.me/V2ry_Proxy
+vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560&security=none&encryption=none&host=digikala.sorza.ir&type=ws#configraygan_37
+vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560&security=none&encryption=none&host=digikala.sorza.ir&type=ws#configraygan_48
+vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560&security=none&encryption=none&host=digikala.sorza.ir&type=ws#https://t.me/ConfigX2ray
+vless://f9052450-c202-4143-86ea-d5c856c1bc91@reza.alphanet01.com:39884?path=/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560&security=none&encryption=none&host=digikala.sorza.ir&type=ws#https://t.me/V2ry_Proxy
