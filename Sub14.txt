@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@185.162.11.223:443?security=reality&encryption=none&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=edbc04c389#🇳🇱[openproxylist.com] vless-NL
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@185.162.11.223:443?security=reality&encryption=none&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=edbc04c389#🦉@FreeConfigForYou
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&security=reality&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&sid=edbc04c389#🥎29@oneclickvpnkeys
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&security=reality&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&sid=edbc04c389#🥎29@v2ray_configs_pools
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443?security=reality&encryption=none&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=edbc04c389#https://t.me/allproconf
 vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443?security=reality&encryption=none&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=edbc04c389#@MARAMBASHI 🇧🇷
 vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443?security=reality&encryption=none&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=edbc04c389#@v2ray_configs_pools 🇧🇷
 vless://a7fbea79-18c8-41b8-d519-457d66f2d798@18.194.41.196:443?encryption=none&security=none&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
@@ -498,8 +503,3 @@ vless://bc26bb27-2dc5-462e-8d2d-d928231ae2a3@cx4.prodatabase.ir:1500?security=&e
 vless://bc26bb27-2dc5-462e-8d2d-d928231ae2a3@recive.salarvandservice.org:443?path=/opt/W122DQP56XxXklMBRTXILPXVN32c011378932HPqc12Wq0Mlks0QoPpLlIisAB88?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ali-gr.sdcards1.ir&fp=chrome&type=ws&allowInsecure=0&sni=ali-gr.sdcards1.ir#🇩🇪 • Irancell
 vless://bc26bb27-2dc5-462e-8d2d-d928231ae2a3@sw-dc.motfkrm.ir:999?security=reality&encryption=none&pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e1ac6d894342c318#🇸🇪 • Spartaconfigfarsi
 vless://bc310b8d-fbe8-4c55-970b-be77816fceea@69.164.192.203:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L116
-vless://bc3d43b6-814c-4812-bbcf-1d7c5fd054a2@104.25.211.224:2052/?type=ws&encryption=none&host=metaplayer.gameredzone.top&path=/t.me.V2RayyNGvpn?ed=1024#🇹🇷TR_1|1.1MB/s
-vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.234.221.177:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L835
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=/?ed=2048&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=chrome&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#@torang_vpn
