@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fa2406f0-e820-4954-b24e-df52012ef4a6@185.146.173.206:2095?type=httpupgrade&encryption=mlkem768x25519plus.native.0rtt.OoKTGnQ1ml0_msLXeuPK72_W2FqDaEZmMtS-bwqI8gg&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none#Cephalon_ala-[11]
-vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@104.16.66.7:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#@hopev2ray🤍
-vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@104.26.14.21:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#@hopev2ray🤍
-vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@162.159.253.96:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#@hopev2ray🤍
-vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443/?type=ws&encryption=none&host=afrcloud22.mmv.kr&path=/130.185.164.213=8443&security=tls&sni=afrcloud22.mmv.kr&fp=chrome#https://t.me/allproconf
-vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#🛡 V 33 @Outline_Vpn
-vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🔴 telegram ➡️ @ataconnect
-vless://fae38aae-0342-4752-834d-3f7d2ec58ea8@172.237.128.199:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L742
 vless://fae38aae-0342-4752-834d-3f7d2ec58ea8@172.237.145.56:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L966
 vless://faec1990-7c9d-4604-8dcd-1e3b8e56966c@m2.masih1-ah.site:57070?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://faec1990-7c9d-4604-8dcd-1e3b8e56966c@m2.masih1-ah.site:57070?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@TeleProxyTele-5
@@ -503,3 +494,12 @@ vmess://eyJzY3kiOiJhdXRvIiwicHMiOiJBYnJpVlBOIiwiaWQiOiJlNjBmZjZlNS1mOGJmLTdhYTkt
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
 
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C_%D9%85%D9%84%DB%8C
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#KingRezaPahlavi
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20SS%20%7C%20%40NamiraConfigs%20%231
+vless://a2922e0a-1fe5-4cdc-aac4-5a216e110940@rby3b8ax6iznwe-ead7k5pb6ka2q2jqo.zamenparham81.workers.dev:443?path=/eyJqdW5rIjoiMjRxQnVkM3dUMEUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=rby3b8ax6iznwe-ead7k5pb6ka2q2jqo.zamenparham81.workers.dev&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=rby3b8ax6iznwe-ead7k5pb6ka2q2jqo.zamenparham81.workers.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40ai_duet%20%231
+vless://6ae833da-e51f-48b4-a870-1f1aafe17378@artemis.sbs:80?encryption=none&amp%3BheaderType=none&amp%3Btype=ws&amp%3Bpath=/%40Artemis_vpn&amp%3Bhost=free-02.artemis-03.sbs#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40artemis_vpn_free%20%231
+vless://6db4a91c-838d-419a-af83-bc5bd211ffc6@artemis.sbs:80?encryption=none&amp%3BheaderType=none&amp%3Btype=ws&amp%3Bpath=/%40Artemis_vpn&amp%3Bhost=free-02.artemis-03.sbs#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40artemis_vpn_free%20%232
+vless://telegram-id-Arfilter@156.243.83.167:443?path=/-Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEl--%40Arfilter%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=cdn-alman2.arfilter2.blog&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=cdn-alman2.arfilter2.blog#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40arv2ray%20%231
+vless://telegram-id-Arfilter@156.243.83.167:443?path=/-Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40ArFilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEl--%40Arfilter%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=cdn-alman1.arfilter2.blog&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=cdn-alman1.arfilter2.blog#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40arv2ray%20%232
+vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.195.116.169:443?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40bored_vpn%20%231

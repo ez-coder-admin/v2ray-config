@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#@v2rayland02🌐
-vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#@AkbarConfig👈کانفیگ روزانه در
-vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#@TeleProxyTele-14
-vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#@V2rayAlpha--14
-vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#@VPN_PASARGAD
-vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#@YamYamProxy
-vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#@black_star_vpn
-vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#@icv2ray
-vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#Black_Star_Vpn
 vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#Config 1 - @lebertad
 vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#V2rayng_Fast
 vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#برای اتصال دائمی جوین شو🗾 @
@@ -503,3 +494,12 @@ vless://ac257956-149d-4fc4-969e-13ae4765aa4b@4l.gexar.top:21791?encryption=none&
 vless://ac257956-149d-4fc4-969e-13ae4765aa4b@4l.gexar.top:21791?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#✅@AR14N24b
 vless://ac257956-149d-4fc4-969e-13ae4765aa4b@4l.gexar.top:21791?encryption=none&headerType=http&…#Telegram:@config_proxy 🔥
 vless://ac257956-149d-4fc4-969e-13ae4765aa4b@4l.gexar.top:21791?encryption=none&header…#Telegram:@config_proxy 🔥
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.17.22.240:443?allowInsecure=1&encryption=none&host=n4be.rkq.snl.cc.cd&path=/&security=tls&sni=n4be.rkq.snl.cc.cd&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.17.22.240:443?allowInsecure=1&encryption=none&host=n4be.rkq.snl.cc.cd&path=/&security=tls&sni=n4be.rkq.snl.cc.cd&type=ws#⚡Telegram = @SOSkeyNET
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.17.22.240:443?allowInsecure=1&encryption=none&host=n4be.rkq.snl.cc.cd&path=/&security=tls&sni=n4be.rkq.snl.cc.cd&type=ws#📡56@oneclickvpnkeys
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.18.155.194:443?allowInsecure=1&encryption=none&host=rpu1.gzf.snl.cc.cd&path=/&security=tls&sni=rpu1.gzf.snl.cc.cd&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.18.155.194:443?allowInsecure=1&encryption=none&host=rpu1.gzf.snl.cc.cd&path=/&security=tls&sni=rpu1.gzf.snl.cc.cd&type=ws#📡23@oneclickvpnkeys
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.18.36.211:443?allowInsecure=1&encryption=none&host=ja4e.fev.snl.cc.cd&path=/&security=tls&sni=ja4e.fev.snl.cc.cd&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.18.36.211:443?allowInsecure=1&encryption=none&host=ja4e.fev.snl.cc.cd&path=/&security=tls&sni=ja4e.fev.snl.cc.cd&type=ws#📡19@oneclickvpnkeys
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.19.42.120:443?allowInsecure=1&encryption=none&host=injc.n7d.edukg.dpdns.org&path=/&security=tls&sni=injc.n7d.edukg.dpdns.org&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://ac84e665-e4f4-5c3e-691a-505b017be859@104.19.42.120:443?allowInsecure=1&encryption=none&host=injc.n7d.edukg.dpdns.org&path=/&security=tls&sni=injc.n7d.edukg.dpdns.org&type=ws#📡12@oneclickvpnkeys

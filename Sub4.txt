@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://05a6897b-bdea-46d9-8654-89bceb208504@104.128.134.181:34816?security=&encryption=none&headerType=none&type=tcp#🇩🇪All⁴ | @BigSmoke_Config
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#Telegram : @V2ynpv
-vless://06027698-17ef-44fc-854c-0adcf7848630@custom.rezadvr.ir:43434/?type=tcp&encryption=none&security=none#Config 5 - @lebertad
-vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095?security=none&type=tcp&headerType=http&path=/?ed=443&host=soft98.ir#@vmesskhodam
-vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1087?security=none&encryption=none&host=soft98.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@ConfigV2RayNG 💛
-vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1087?security=none&encryption=none&host=soft98.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 💛
-vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1087?security=none&type=tcp&headerType=http&path=/?ed=443&host=soft98.ir#@vmesskhodam
-vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095?security=none&type=tcp&headerType=http&path=/?ed=443&host=soft98.ir#@vmesskhodam
-vless://0667652a-1b48-4eb5-99c4-47fb53f3229f@www.speedtest.net:443?path=/eyJqdW5rIjoiaEEzMlVhMzg5ZloyREMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.wrdzl.workers.dev&fp=chrome&type=ws&sni=v2NGfAsT-V2NgfAST-V2NgfaST-V2nGfASt-V2NGfasT-v2NGFasT.WRDzL.wOrkeRs.DeV#3 🇩🇪 @V2ngFast
 vless://0674c187-4a2e-4e56-aab1-e6254cce4f67@masterserver1-masterserver1-masterserver1-masterserver1.balej78191.workers.dev:443?path=ws&security=tls&encryption=none&host=masterserver1-masterserver1-masterserver1-masterserver1.balej78191.workers.dev&fp=chrome&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.balej78191.workers.dev#2️⃣ All Operators @MaSTeRSeRVeR1
 vless://077b46ec-03fe-41fd-9710-841bd9cafac0@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 vless://077b46ec-03fe-41fd-9710-841bd9cafac0@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
@@ -503,3 +494,12 @@ vless://2b1159cc-20b0-beef-b794-64ed8e6b7198@94.183.241.192:2092?security=none&t
 vless://2b1159cc-20b0-beef-b794-64ed8e6b7198@tun1.vpsino.com:2096?security=none&type=tcp&headerType=none&path=/&host=nobitex.ir#⚡Telegram = @SOSkeyNET
 vless://2b1159cc-20b0-beef-b794-64ed8e6b7198@tun1.vpsino.com:2096?security=none&type=tcp&headerType=none&path=/&host=nobitex.ir#✅@AR14N24b
 vless://2b195252-b849-4250-b38d-0fa32b69b652@po.mi6bot.info:56987?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇩🇪All¹ | @BigSmoke_Config
+vless://2b7c9423-3def-4300-a97a-17e523d50831@S2.FASTSPEEDS.IR:2053?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=tls&encryption=none&insecure=0&host=finlooo.Mehrsazi.ir&type=ws&allowInsecure=0&sni=finlooo.mehrsazi.ir#Telegram : @V2ynpv
+vless://2b889819-327d-425b-a681-b8ae5a3ce118@172.67.139.122:2096?path=/eyJqdW5rIjoibHpPZjVyZENsaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=frosty-cherry-7067.hesol41650.workers.dev&fp=chrome&type=ws&sni=FrOSTY-ChErRY-7067.HEsOL41650.WoRkeRS.dEv#6️⃣ All Operators @MaSTeRSeRVeR1
+vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#@Proxyiranip
+vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?security=none&encryption=none&headerType=none&type=tcp#@filembad
+vless://2c7d8e9d-d40a-49f8-b150-2d9cf4d69f4d@212.80.8.212:38941?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@canfingV2rayNG
+vless://2c8ad48a-aaa9-49fd-b2f2-2aaad8467335@fastly2.hamrahflow.ir:443?path=/&security=tls&encryption=none&insecure=0&host=Valsiin.com&type=ws&allowInsecure=0&sni=default.ssl.fastly.net&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
+vless://2cbfd931-0bde-4c8e-9ca1-fb0d9c07fa54@shaparak.ultrrasound.com:14557?encryption=none&security=none&type=ws&host=telewebion.com&path=/#کانفیگ رایگان = t.me/arisping
+vless://2d2c29fd-ed07-43ee-9514-e62f1645fb6c@du.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=du.mobileemdad.top#کانفیگ رایگان = t.me/arisping
+vless://2d3e46a3-8b5e-4f20-b694-54892f15f3fa@158.160.21.97:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c&type=tcp&headerType=none#https://t.me/allproconf
