@@ -8425,15 +8425,6 @@ vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@ae2.suio.me:443?security=tls&encryp
 
 # ============ OTHER CONFIGS ============
 
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%F0%9F%94%98%20@V2rayng_Fast%20%7C%20Join%20Now%20%E2%9C%85%EF%B8%8F
-vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@37.218.247.35:8443?security=reality&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#ARGO_PNN_37
-vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMzMwMSB8IEdlcm1hbnkiLCJhZGQiOiI1Ny4xMjkuMjQuMTI1IiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImF2ZWlyb3IuY29tIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-Ô¡Ý³¡ºM§1Ïú»VhàÉÄ_zóÌ(3Á Ä ~ Ñ¤úìæ÷7ûáVc,¯HÏée«<©?AaüMÑ½ JyË)Ú¢þ:v~î;pµeºÈ;½>¡ã^Û¦D«VóôMÌ¸²UÄ¾ssréýhÙÏyxúXnGCdÀ%B¬=:{ÙÏæì±ñm¼Ú¨"èH ÄY!³Ð=ð.æã6ÝùPÓö·ÚK8òDÎ®+I½èWâjYPý\ Ð8Àô'XZDý?ñShL-¥ðÛY5jÞÌ½0¼uÈ|ä¼¢,]5óF@¢0ÓtuI9¸!¾aËýf7X	ÞKì)yÀ·øHêÆË&ÀB¼¸9Êù¹ÆÅ+«°­¨µûÈs¨&VrEgùãMB¼#xaYal
-vless://bbd4e4e9-b56f-4b0d-a85b-9eb5aa65644c@91.242.229.129:4443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=nl18.fastlanehosting.ru#v2ray_dalghak
-vmess://eyJhZGQiOiAiOC4yMTcuMTMuNzQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImNmMWFkNmM3LTU5ODctNDMxNC04MmJiLWI0Mzk5MDQwZDA0NyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzE3NjkiLCAicHMiOiAidjJyYXlfZGFsZ2hhayIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@hl-freedom-2.undef.network:443/?type=ws&host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&sni=hl-freedom-2.undef.network#%40V2raysCollector%20%E2%98%84
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#%40V2raysCollector%20%F0%9F%A5%80
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
