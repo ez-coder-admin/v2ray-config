@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#@icv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#کانال تلگرام : Free_VPN_CH@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.20:443?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?path=/?ed=2560&/Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.83.129.17:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#t.me/v2Line | Free | 3443 | Slovenia
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.195.119.195:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳@WangCai2#@v2rayconfigamir 8779
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.102.163:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#⛽️29@oneclickvpnkeys
@@ -503,3 +498,8 @@ vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.rea
 vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@ek742h5pq3.ka739lofomsg28bshdul.realytag.com:1884?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
 vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=&encryption=none&host=skyroom.online,+gharar.ir,+igap.net&headerType=http&type=tcp#@ConfigV2RayNG+A7
 vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
+vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884?security=&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#بیا اینجا ConfigV2RayNG@
+vless://c72511d7-1729-403d-92c5-7448533a369a@Platform.snapp.ir.green-gaming-company.ir:1011?security=&encryption=none&host=s.cafebazaar.ir&headerType=http&type=tcp#ConfigV2RayNG
+vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=store.steampowered.com&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39#@v2rayconfigamir 3293
+vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@ch2.fastlanehosting.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39&sni=store.steampowered.com#@v2rayconfigamir 1292
+vless://c7e3a677-dbd4-4952-983d-d94b534e3a84@185.235.196.82:443?path=/video/stream.mp4&security=none&encryption=none&host=mycdn.xmnco.ir&type=ws#@icv2ray
