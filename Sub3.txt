@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?path=ws&security=tls&encryption=none&insecure=0&host=hex.1tb.workers.dev&type=ws&allowInsecure=0&sni=hex.1tb.workers.dev#All-@V2rayAlpha--8
-vless://c20fa220-f6fe-46df-84a8-55d8c2ae8146@snapp.ir:80?path=/&security=none&encryption=none&host=dl.avenflow.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://c20fa220-f6fe-46df-84a8-55d8c2ae8146@snapp.ir:80?path=/&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=&encryption=none&headerType=http&type=tcp#@V2rayAlpha--9
 vless://c95399cc-f2f2-4c3f-ad17-08dc27995346@de-15.ipsum.sbs:18464?encryption=none&security=none&type=tcp&headerType=http&host=tgju.org#@v2rayconfigamir 5923
 vless://c967de89-af86-4eba-be64-34e5656ca994@185.126.203.167:16957?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--11
@@ -13,7 +10,6 @@ vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?security=none&
 vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&insecure=1&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&type=ws&allowInsecure=1&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#@V2rayAlpha--12
 vless://d8e829ef-838f-4c07-edce-93cacc7e94ee@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN6 🇩🇪-i1j8xo5hx
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?path=/--Telegram---MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN&security=tls&encryption=none&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&sni=mitivpn-s1.global.ssl.fastly.net#@v2rayconfigamir 7539
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&type=ws#[🇩🇰]t.me/ConfigsHub
 vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--6
 vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?path=/proxy_mtm-proxy_mtm-proxy_mtm?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg24.pages.dev&fp=chrome&type=ws&sni=pardazeshvpn-tg24.pages.dev#@v2rayconfigamir 7750
 vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?path=TELEGRAM-MARAMBASHI/?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg24.pages.dev&fp=chrome&type=ws&sni=pardazeshvpn-tg24.pages.dev#@v2rayconfigamir 8730
@@ -503,3 +499,7 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 اینم افزونه Xray Plugin مخصوص همین برنامه ماتسوری هست که اینم حتمن باید نصب کنید تا سرورهای خاصی مثه vless براتون کار کنه@v2rayNG_VPN
+
+
+همراه اول/سرورvlessافزونه Xray حتمن باید نصب و توی برنامه ماتسوری فعالش کرده باشید،وگرنه کار نمیکنهسرعت دانلود وآپلودی خیلی خوبی دارهvless://30fa6fab-661a-490c-bbc5-06e2f3a9826e@www.speedtest.net:443/?encryption=none&type=ws&host=free.kiava.workers.dev&path=%2Fadws&security=tls&sni=free.kiava.workers.dev#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%0A%40v2rayNG_VPN@v2rayNG_VPN
+
