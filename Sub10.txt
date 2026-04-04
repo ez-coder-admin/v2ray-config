@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.208-0192
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.176-0185
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#%F0%9F%87%BA%F0%9F%87%B8US-173.234.29.2-0203
@@ -181,26 +180,27 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#%40v2_mod_shop%20%2
 
 # ============ OTHER CONFIGS ============
 
-hysteria2://Telegram-->@Ln2Ray@[2a14:3f87:f001:9::a]:45000/?insecure=1&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&sni=gavazn.55994421.xyz#🏆5@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#🏆3@oneclickvpnkeys
-ss://YWVzLTI1Ni1nY206UTIySmRtaW9sckxjZWlMVkFKblpyaDdQRTBWYlJqVnYwWnZTb0tTbUZEMD0@tesla.irpairinghosting24.org:9091#@V2rayTun0
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.125.103.147:443?encryption=none&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🏆6@oneclickvpnkeys
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@77.110.99.57:443?encryption=none&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🏆1@oneclickvpnkeys
-vless://23ef3949-52fc-436f-874e-cfea2ee1e789@185.143.232.200:80?path=/?ed=2048&security=none&encryption=none&host=star4.galexystore.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://35adf9b2-fa34-4983-a204-09da456448e1@185.143.233.68:443?path=/&security=tls&encryption=none&insecure=0&host=backend.parhamm2.ir&fp=chrome&type=ws&allowInsecure=0&sni=@vipV2rayNGnp#[🇮🇷]t.me/ConfigsHub
-vless://57d15832-a7d2-444d-8cb8-e4752549111b@185.81.96.201:443?mode=auto&path=/api/v2/stream&security=reality&encryption=none&pbk=06VArulxNLGtWd-trz9uW7IDxJuCCoNHpZpaH3xv-Vs&fp=chrome&spx=/&type=xhttp&sni=aparat.com&sid=eac76a6f#[🇮🇷]t.me/ConfigsHub
-vless://595db874-accd-4e0c-be21-f90b43c6c56c@aghebat.kheylia:34915?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
-vless://789db5da-ddf5-4922-b55a-8e91ea34b6a6@193.151.130.62:15011?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://80a4cead-eef6-41b7-bfdb-cad1564fbcc8@jll.az99x.info:8880?path=/&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://a22b6df1-2639-4f78-a0fe-13886acd8115@185.189.58.195:29059?encryption=none&security=none&type=tcp#🏆4@oneclickvpnkeys
-vless://ea3011c5-9c8b-45ba-91e9-c8e2eadae2b1@sup44.fideus.eu:2004?security=&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://f02ec87a-2fa3-11f1-9fc2-960003f27045@final.usdtbama.com:8443?security=none&type=tcp&headerType=none&path=&host=#[🇮🇷]t.me/ConfigsHub
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
