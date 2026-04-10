@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ea6afce9-933d-4e58-b592-93e3828ec7d6@46.38.150.38:12000?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#🔵@chillguy_vpn
-vless://ea6d8aae-4ccb-4f9a-afdc-1abf53860930@94.183.149.237:8080?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://ea701249-075e-424f-b9fa-01ace3e0f8c4@n-s-1.m2nweb.site:2076?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🔵@chillguy_vpn
 vless://ec76ba12-2e86-11f1-8e37-df39dc6cc8d2@51.195.91.135:10004?encryption=none&path=/vpnjantit&security=none&type=ws#🌱1@oneclickvpnkeys
 vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--6
@@ -41,7 +39,7 @@ vless://f7ce4158-d115-405d-bf6a-eb739734e1c7@link.mizbanertebatfarda.site:3010?p
 vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=ssp&allowInsecure=0&sni=u710297u3374s249.okgfw.top#@V2rayAlpha--8
 vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=ssp&allowInsecure=0&sni=u710297u3374s249.okgfw.top#@V2rayAlpha--9
 vless://f88fc142-cd33-47bc-a2cb-bf657a9922b4@final.digitalldns.com:8443?encryption=none&type=tcp&headerType=none&security=none#@cllubvpn لطفا برای حمایت جوین شید
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&security=reality&sid=e473bbc75224b9df&sni=max.ru&type=tcp#🧬97@oneclickvpnkeys
+vless://f88fc142-cd33-47bc-a2cb-bf657a9922b4@final.digitalldns.com:8443?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://fae38aae-0342-4752-834d-@172.237.128.199:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#⚡Telegram = @prrofile_purple
 vless://fb2c0e80-a66c-4132-9b90-509d4ed369d5@SofeWhite.legendperm.ir:4722?security=none&encryption=none&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://fc57e597-4b0e-4b01-911c-0895d75341d7@abr.superip.ir:2086?security=none&type=ws&headerType=&path=/API/superip&host=cd.phill-up.ir#@aloconfig_com
@@ -64,7 +62,6 @@ vmess://eyJhZGQiOiAiOTQuMTAxLjE4NS41MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vmess://eyJhZGQiOiAiYW0ubmZ0eWRyZWFtcy5pbyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZTQ5YzZiMzItZDIyMC00OWM5LThiZWQtOTgxMjQ4YTA2YzViIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwMDIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiI1LjI0OS4xNjAuMjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiNS4yNDkuMTYwLjIyNiIsImlkIjoiODZhZmFhN2UtZTAwYy00YzA1LWE3ZDEtNDRlN2JhOTFkNzdhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJAdjJyYXljb25maWdhbWlyIDUxNjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1LjI0OS4xNjAuMjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiNS4yNDkuMTYwLjIyNiIsImlkIjoiODZhZmFhN2UtZTAwYy00YzA1LWE3ZDEtNDRlN2JhOTFkNzdhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJAdjJyYXljb25maWdhbWlyIDk4MjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI4LjIxMC4xNDEuMTQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc2MTI5Njg5Ny5saWU1ZC5jeW91IiwiaWQiOiI1ZWNjMzA4Ni05M2NmLTQyZTMtOTU2Yi1mMjE4MGUwNDI1MzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA0MTc4Iiwic2N5IjoiYXV0byIsInNuaSI6IjguMjEwLjE0MS4xNDkiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxMy4yMzEuMjA4LjExNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZW5kLWdmdy5jb20iLCJpZCI6IjFhMTdiMTlkLTQ4OTYtNDUzMS1hZjc5LTZlOTFkOGVmODIyOCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODY4NiIsInBzIjoiQFYycmF5QWxwaGEtLTE0Iiwic2N5IjoiYXV0byIsInNuaSI6ImJhaWR1LmNvbSIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNTkuODkuMjkuMTM2IiwiYWlkIjoiMCIsImhvc3QiOiJjeC5jb20iLCJpZCI6ImQyMGQ2ZWRlLTQzM2MtMTFlZC1iODFmLWNmZDkwNWRmOTk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiQHYycmF5Y29uZmlnYW1pciAxMDA1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNTkuODkuMjkuMTM2IiwiYWlkIjoiMCIsImhvc3QiOiJjeC5jb20iLCJpZCI6ImQyMGQ2ZWRlLTQzM2MtMTFlZC1iODFmLWNmZDkwNWRmOTk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiQHYycmF5Y29uZmlnYW1pciAyMDc3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -501,5 +498,8 @@ vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33276?type=grp
 
 
 vmess://eyJhZGQiOiI5NS4yMTEuNTguNTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6Ijk3NTZjN2QwLTRhODYtNDIxMC1mYWQxLTEzZDVjYmQ4NmIwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nZGdIRzU1dGh0IiwicG9ydCI6IjE2NDE4IiwicHMiOiLwn4ez8J+HsSBAdjJyYXlOR19WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN
+
+
+همراه اولvmess://eyJhZGQiOiIxNjEuMTI5LjM0LjEwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiZWM3MzY0ODItMTczZS0zZWZmLTkxMTQtYjQ5ZGY4MDU2ZTdkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4VVMgQHYycmF5TkdfVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9@v2rayNG_VPN
 
 
