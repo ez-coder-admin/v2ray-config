@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ee2eb78c-a55b-4556-86b9-b83d6ef796ec@185.143.233.122:80?path=/&security=none&encryption=none&host=sh.avenflow.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://ee5ac6bd-3709-45d4-83e3-086cb10827ad@89.45.56.83:50156?path=/&security=none&encryption=none&host=89.45.56.83&type=ws#🔵@chillguy_vpn
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@nekopingbot.thisiswe.uno:2053?security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#[🇨🇦]t.me/ConfigsHub
 vless://eea2e287-9fbd-4833-9f3e-ed0535eb46f1@fin-tun.a1mshop2.xyz:12000?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#🔵@chillguy_vpn
 vless://ef010b15-0522-47a9-aec8-e46d2c85989a@uncl.atlasc.ir:32432?security=none&encryption=none&host=www.aparat.com&headerType=http&type=tcp#@Moft_vpn
 vless://f01e193a-6c00-4a38-9cc5-cafed5a1f927@s1.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#⚡Telegram = @prrofile_purple
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiIxOC4xMzMuMTQ5LjEwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIs
 
 
 vmess://eyJhZGQiOiI1MS43Ny4xNTguMTY5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJjOTJmZDkwMi1iNWQzLTQyMDgtYmI0OC02MzBiMWM3YmFiZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTYiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
+
