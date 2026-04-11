@@ -3,6 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%3E%3E%40v2line%3A%3ANL
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%3E%3E%40v2line%3A%3AFR
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%3E%3E%40FreakConfig%3A%3ANL
+trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%3E%3E%40v2nodes%3A%3ASG
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%3E%3E%40v2line%3A%3APL
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2F%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@145.249.115.115:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@192.142.4.232:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAR
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.0.109:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AKZ
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@160.119.251.210:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AZA
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@188.126.76.159:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAM
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ABE
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@86.107.100.13:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIN
@@ -486,20 +503,3 @@ vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@104.21.25.148:443?allowInsecure=1&e
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@172.67.134.82:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.96.3:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.97.3:443?encryption=none&security=tls&sni=labeller.neonime83.workers.dev&allowInsecure=true&type=ws&host=labeller.neonime83.workers.dev&path=/&packetEncoding=xudp#%3E%3E%40vmess_iran%3A%3AUS
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@labeller.neonime83.workers.dev:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.74.206:2096/?type=ws&encryption=none&flow=&host=index.harmony702.workers.dev&path=%2Faxcp1cm75o7digvt&security=tls&sni=INdex.HArmony702.WoRkeRS.Dev&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a02f6161-ed4a-4b27-afa8-d2cbf34d69b4@213.165.39.93:44217?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40prrofile_purple%3A%3ADE
-vless://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.3.150:443?allowInsecure=1&encryption=none&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&path=%2F&security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.149.66:80?encryption=none&host=mute-violet-c674.poviy66273.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80/?type=ws&encryption=none&flow=&host=mute-violet-c674.poviy66273.workers.dev&path=%2F%3Fed#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#%3E%3E%40prrofile_purple%3A%3AUS
-vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encryption=none&flow=&host=rAyAn-007.fOtOn.dPdNs.oRg&path=%2F&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://d2d0f796-edb0-427a-af32-ae360679f9e7@162.159.141.147:443?allowInsecure=1&encryption=none&host=rayan-007.foton.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://d2d0f796-edb0-427a-af32-ae360679f9e7@172.66.1.143:443?allowInsecure=1&encryption=none&host=rayan-007.foton.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2052?encryption=none&host=index.0x14.workers.dev&path=%2Fassets&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@chatgpt.com:443?security=tls&type=ws&host=pedaratvpn.ar-ahmadiyan86.workers.dev&path=/eyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev&fp=chrome#%3E%3E%40v2ray1_ng%3A%3AUS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.5.134:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://d0436b64-3355-11f1-a772-ee3d4fb45757@45.12.109.68:8443?encryption=none&fp=chrome&pbk=ptB0MNa4af00sliOI07Lvz2yqw_jjay67tDgiDXzcg8&security=reality&sni=dropbox.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACZ
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.36.20:2083?allowInsecure=1&encryption=none&host=newwk1.f1w.de5.net&path=%2F&security=tls&sni=newwk1.f1w.de5.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.6.134:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
