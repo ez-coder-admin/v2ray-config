@@ -4885,21 +4885,6 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.mult
 
 # ============ OTHER CONFIGS ============
 
-trojan://telegram-id-privatevpns@35.157.169.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-vless://17f33104-f2e5-4e00-acb9-cb5c0941adf4@star.p40.site:15565?encryption=none&security=none&type=tcp#@aloconfig_com
-vless://1be55a58-21ce-44bc-9977-8d7fb51e43c5@185.143.234.235:80?type=ws&host=vixon.portab.org#@aloconfig_com
-vless://33386446-d998-437b-a04f-df3dcac3df63@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=chrome&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#@V2rayTun0
-vless://5807276c-e362-4192-9bd1-aeff488ab00d@185.143.234.200:80?mode=auto&path=/w0A7arFCWfh1n07bLCPY2sRPzhX533AaYjLN3dxdP6R4zqg4VBCbbAHV49zjRZ2wBNooXj1s1PzkVhLL9h1gdLbpU5oPiC68mu8r&security=none&encryption=none&host=www.aiteamplus.ir&type=xhttp#[🇮🇷]t.me/ConfigsHub
-vless://5bc26645-15d6-4285-bdf4-0970978fc4e2@snapp.ir:80?path=/&security=none&encryption=none&host=tyrewr.parsimas.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://734fd71a-d359-4d3e-b5aa-09b1c6a808bf@NullNetwork.vianabeauty.ir:45359?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
-vless://734fd71a-d359-4d3e-b5aa-09b1c6a808bf@UnNurmal.vianabeauty.ir:45359?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
-vless://86a24c87-65fb-4e58-bb78-8ad5e88086fb@NullNetwork.vianabeauty.ir:45359?type=tcp&security=none#@aloconfig_com
-vless://8a516e94-2762-46d5-a1c5-6687bb6b81f8@emg6.saipasamandemg6.sbs:2006?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@V2rayTun0
-vless://8fc836e4-f72f-40d7-8a55-8677324a2079@185.143.234.122:80?path=/&security=none&encryption=none&host=S4.koremusic.ir&type=ws#@cllubvpn لطفا برای حمایت جوین شید
-vless://aca8bc97-2e78-4933-8bc8-ada7cd5a5f20@94.182.92.94:10552?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#[🇨🇦]t.me/ConfigsHub
-vless://e23162b4-109c-4719-9bca-22f4ba1c9df0@packetnet.vianabeauty.ir:44100?security=none&encryption=none&headerType=none&type=tcp#@V2rayTun0
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
