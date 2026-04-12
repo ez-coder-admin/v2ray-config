@@ -365,19 +365,19 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.mult
 
 # ============ OTHER CONFIGS ============
 
-vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002/?type=ws&encryption=none&flow=&host=igap.net&path=/#[🇮🇷]t.me/ConfigsHub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.jpmj.dev&type=ws#[🇦🇹]t.me/ConfigsHub
-vless://6276f547-eaf5-45e6-b033-e86c7b428920@ww.boldtest.ir:8880?path=/&security=none&encryption=none&type=ws#@aloconfig_com
-vless://8c53daee-2173-4889-a483-4f698b4b0432@tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir:443?path=/vless&security=tls&encryption=none&insecure=1&host=tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir&type=ws&allowInsecure=1&sni=tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir#[🇮🇷]t.me/ConfigsHub
-vless://8fc836e4-f72f-40d7-8a55-8677324a2079@185.143.234.122:80?path=/&security=none&encryption=none&host=S4.koremusic.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://a8a94f8d-800d-40dc-b2cc-0f680450cd7e@azad-test.bingnet.online:443?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#[🇮🇷]t.me/ConfigsHub
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
+
+
+
+
+
+
+
+
 
 
 
