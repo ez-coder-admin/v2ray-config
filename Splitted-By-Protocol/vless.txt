@@ -1860,28 +1860,3 @@ vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?m
 vless://764a13da-76a5-4bc0-a2c9-e2a02f62408f@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#@Everyday_VPN | 01 🇩🇪⚡️
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40HamVPN_Config%20%F0%9F%86%94%F0%9F%87%A9%F0%9F%87%AA
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%E2%9C%85%20%40ProxyVpn11
-vless://1fa77a0c-8f37-41c6-b9ca-2c8340bd2cd1@ar.speed1vipsarbaziclick.site:41371?security=none&encryption=none&headerType=none&type=tcp#@aloconfig_com
-vless://4f8e5b8d-0a6f-4537-85c1-18bc5f5259e2@snapp.ir:80?path=/&security=none&encryption=none&host=dl700tobi.sudoserver.ir&type=ws#@Hddify
-vless://55cd63d6-d513-44c4-9010-7d8345e526f4@alpha.amirip.shop:42398/?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
-vless://60f9e2df-37ed-4be0-95d0-7b1e7c37603f@packetnet.vianabeauty.ir:45359?security=none&encryption=none&headerType=none&type=tcp#@aloconfig_com
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#[🇨🇦]t.me/ConfigsHub
-vless://734fd71a-d359-4d3e-b5aa-09b1c6a808bf@NullNetwork.vianabeauty.ir:45359?type=tcp&security=none#@icv2ray
-vless://8e55d7c5-148e-4eb1-83c3-1b3c2d521019@tr.srv1.pqping.com:443?security=reality&encryption=none&pbk=N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[🇹🇷]t.me/ConfigsHub
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#[🇨🇦]t.me/ConfigsHub
-vless://b33e48f6-e6aa-435d-8314-939495269d47@ip.iran.mobileemdad.top:8080?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
-vless://b344f9ea-8e5b-4149-92fc-2e22b934b79b@vip.gxnetshop.ir:1131?security=none&encryption=none&headerType=none&type=tcp#@aloconfig_com
-vless://b34a4ccc-9960-400d-8281-63729b027120@packetnet.vianabeauty.ir:44100?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
-vless://b5e38f9b-41c6-44fb-9273-ba21ffe59435@185.143.233.200:80?security=none&type=ws&headerType=&path=/?ed=2080&host=final.idbedam.ir#@aloconfig_com
-vless://dacc1c3c-267a-4fc6-9504-6eca22d6c750@45.94.214.64:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=kian.khorostime.ir&type=xhttp&sni=ir-cdn-dl-07.khorostime.ir#[🇮🇷]t.me/ConfigsHub
-vless://e479f4b8-a3b9-413b-ac7b-a82b21019461@vp.irajapan.store:22223?type=tcp&encryption=none&security=none#@icv2ray
-vless://e638f1c6-4a95-491a-bddc-66314069ff24@link2x05996.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://fafe7971-b3fb-4f99-a9d7-46374153f64e@a-m.iran-mehrbu.ir:3131?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
-vless://fbe2aeb6-c46c-4899-b64b-89b823d958a0@snapp.ir:80?path=/&security=none&encryption=none&host=arc.liarashop.ir&type=ws#@aloconfig_com
-vless://fbe2aeb6-c46c-4899-b64b-89b823d958a0@snapp.ir:80?type=ws&host=ar.liarashop.ir&path=/&security=none#@aloconfig_com
-vless://fcfb8d41-5e52-4604-8279-3c9357241cd8.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@icv2ray
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=zh.hollowspot.ir&type=ws&sni=zh.hollowspot.ir#@mtproto_proserver
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F57.129.47.52%3D8443&security=tls&encryption=none&insecure=1&host=afrcloud07.mmv.kr&type=ws&allowInsecure=1&sni=joinProxyVPN11.afrcloud07.mmv.kr#%F0%9F%93%8C%20tel%20%3A%20%40ProxyVPN11
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F51.89.23.94%3D8443&security=tls&encryption=none&insecure=1&host=afrcloud07.mmv.kr&type=ws&allowInsecure=1&sni=joinProxyVPN11.afrcloud07.mmv.kr#%F0%9F%93%8C%20tel%20%3A%20%40ProxyVPN11
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F135.125.234.148%3D2053&security=tls&encryption=none&insecure=1&host=afrcloud07.mmv.kr&type=ws&allowInsecure=1&sni=joinProxyVPN11.afrcloud07.mmv.kr#%F0%9F%93%8C%20tel%20%3A%20%40ProxyVPN11
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F109.120.186.137%3D2053&security=tls&encryption=none&insecure=1&host=afrcloud07.mmv.kr&type=ws&allowInsecure=1&sni=joinProxyVPN11.afrcloud07.mmv.kr#%F0%9F%93%8C%20tel%20%3A%20%40ProxyVPN11
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F89.22.232.28%3D2053&security=tls&encryption=none&insecure=1&host=afrcloud07.mmv.kr&type=ws&allowInsecure=1&sni=joinProxyVPN11.afrcloud07.mmv.kr#%F0%9F%93%8C%20tel%20%3A%20%40ProxyVPN11`
