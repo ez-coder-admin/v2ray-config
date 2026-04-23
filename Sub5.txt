@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGFyeGhpbnRlYW0uYnJhdm8tc2l4LmlyIiwiaWQiOiI3MGIyZTVhNi02OGViLTRmMmEtYTVhYS1hZDgyNTQ4MzMyOGUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJAaWN2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGFyeGhpbnRlYW0uYnJhdm8tc2l4LmlyIiwiaWQiOiI3MGIyZTVhNi02OGViLTRmMmEtYTVhYS1hZDgyNTQ4MzMyOGUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJQc2lwaG9uLS1AVjJyYXlBbHBoYS0tNjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJkZXZpY2VJRCI6IiIsIm5ldCI6InRjcCIsInNuaSI6IiIsInBvcnQiOiIxMjgwOSIsImFkZCI6IjE4NS4xMS44OS4zOCIsImFscG4iOiIiLCJpZCI6ImFlZGRiYmJkLWFkOTUtNDllOC1lZTMxLTdjYWNjN2VkZTExNyIsImFpZCI6IjAiLCJ0bHMiOiJub25lIiwicGF0aCI6IiIsInR5cGUiOiJub25lIiwiYXV0aG9yaXR5IjoiIiwiZnAiOiIiLCJzZWVkIjoiIiwibW9kZSI6IiIsImV4dHJhIjoiIiwiaGVhZGVyVHlwZSI6Im5vbmUiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJmcmFnbWVudCI6IiIsInYiOiIyIiwiaG9zdCI6IiIsInBzIjoiTmVldF9kb25l8J+RiNqG2YbZhNmF2YjZhiJ9
-vmess://eyJpZCI6IjgyNTdiMzFlLTA4MDUtNGYyOC05MjA5LTI1MWI3MmI5YTU5MyIsInNjeSI6ImF1dG8iLCJob3N0IjoiIiwicGF0aCI6IlwvIiwicG9ydCI6IjExOTk5IiwiYWRkIjoidjExLm1haWxpcmFuLm5ldCIsInBzIjoiJTQwZWhzYXduOCIsIm5ldCI6IndzIn0=
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
@@ -502,4 +498,8 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 همراه اول/سرورvless افزونه Xray حتمن باید نصب و توی برنامه ماتسوری فعالش کرده باشید،وگرنه کار نمیکنه سرعت دانلود وآپلودی خیلی خوبی داره  vless://30fa6fab-661a-490c-bbc5-06e2f3a9826e@www.speedtest.net:443/?encryption=none&type=ws&host=free.kiava.workers.de…
+
+
+سرور دوم vless://be415cc1-d35d-4302-9ddc-568fb2463e2b@www.speedtest.net:443/?encryption=none&type=ws&host=vip2.kiava.workers.dev&path=%2Fkiava&security=tls&sni=vip2.kiava.workers.dev#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%B2%0A%40v2rayNG_VPN@v2rayNG_VPN
+
 
