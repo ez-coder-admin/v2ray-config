@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4278a814-4a82-4b9b-8092-0ba60a3fb2f6@193.151.153.47:34661?security=none&encryption=none&headerType=none&type=tcp#telegram: @hupivpn
 vless://42add63b-deda-4e71-aa48-ddd288181858@199.181.197.41:443?encryption=none&host=edtunnel-eiz.pages.dev&security=tls&sni=edtunnel-eiz.pages.dev&type=ws#🐲86@oneclickvpnkeys
 vless://432cb991-1a24-41ca-b01f-f15449c8c75e@trex.nahidapp.com:443?path=/vless-ws&security=tls&encryption=none&insecure=0&host=trex.nahidapp.com&fp=chrome&type=ws&allowInsecure=0&sni=trex.nahidapp.com#@aloconfig_com
 vless://448432c3-2726-43f6-9dd4-9fa05ec875fa@91.192.160.5:38916?encryption=none&security=none&type=ws&path=/#@Raiv2mmr
@@ -502,4 +503,3 @@ vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=/&security=
 vless://b93a3c44-478a-4d64-989e-4602ccc5e184@87.107.146.145:14371?security=none&encryption=none&headerType=none&type=tcp#Psiphon--@V2rayAlpha--22
 vless://b9ffc9c6-aad0-0056-45ee-4f551a0f0b4a@tr.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.188#@UnNurmal
 vless://b9ffc9c6-aad0-0056-45ee-4f551a0f0b4a@tr.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.188#@byiroh
-vless://b9ffc9c6-aad0-0056-45ee-4f551a0f0b4a@tr.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws&sni=185.226.94.188#@hisbog
