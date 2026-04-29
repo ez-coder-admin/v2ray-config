@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
+vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://0833b0a9-1a48-4265-bbfd-39133f1c8a87@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=cn.8lack.ir#🌐 tel : @v2ray_unit
 vless://0905b571-7a90-4077-b186-ea1f5a11053f@eco.gymplusplus.com:2052?path=/&security=none&encryption=none&type=ws#Psiphon-@V2rayAlpha--3
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#@v2rayngzendegimamad🕊️
@@ -500,6 +503,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.107.126.20:44406?allowInsecure=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.76.173.6:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🦜64@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.226.194.222:2053?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#🦜73@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.177.56.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#🌺17@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.189.51:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#🦜55@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.191.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#🌺32@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🦜98@oneclickvpnkeys
