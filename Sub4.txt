@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2c24d588-5380-49c3-aa77-38daa92d7b7d@s.ar-panelar.com:8443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=s.ar-panelar.com&fp=chrome&mode=auto&alpn=h2,http/1.1#@vaslshiiimm
-vless://2c82cb92-52b9-4c0f-b58c-7e858fe6f39e@snapp.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=kolis1.zivoryx.ir&type=ws#@GozargahAzad|🇮🇷
-vless://2c82cb92-52b9-4c0f-b58c-7e858fe6f39e@snapp.ir:80?path=/&security=none&encryption=none&host=kolis1.zivoryx.ir&type=ws#@filembad
-vless://2ce59d4f-9656-41ed-9265-99daae35a4ae@Snapp.ir:2087?type=ws&encryption=none&path=/vmMarketlabs&host=info.drevnelo.ir&security=tls&fp=chrome&alpn=&sni=info.drevnelo.ir#@InfoTech_VK
-vless://2eb3d1b6-f542-4258-a219-4406256d0d23@zir.alihapps3.aghanami.ir:80?path=/&security=none&encryption=none&type=ws#@icv2ray
-vless://2f1ac68e-06d4-4222-98c9-876fb47d1b0d@dl2.penguin-easyconnet.ir:80?path=/games/battlefied4&security=none&encryption=none&host=dl2.penguin-easyconnet.ir&type=ws#⏳@Proxy_Vpney (1)
-vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http/1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#@FreeVlessVpnبیااینجا
-vless://2fb91bd1-f95f-4051-b278-be76c212c290@ar.hpsshop.ir:8880/?type=ws&encryption=none&path=/&host=ar.hpsshop.ir&security=none#@electvpn0
-vless://2fe216a6-afe8-4218-a617-b122742ae50e@185.143.234.235:2052?path=/&security=none&encryption=none&host=sofr.soralis.ir&type=ws#@OCD09X♥️
 vless://30689d42-d2f2-4495-a49b-dd0fdba10fb8@liad.maf-tahas.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=harro-likeh2.sdcards1.ir#Telegram : @V2ynpv
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#@CUSTOMVPNSERVER
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#Telegram : @V2ynpv
@@ -503,3 +494,12 @@ vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?encryption=none&s
 vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#Telegram : @V2ynpv
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#@CUSTOMVPNSERVER
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?path=/XIXVPN?ed&security=tls&alpn=http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
+vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&security=tls&sni=f927b3b16dff26f5.mizgerdiran.com&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=f927b3b16dff26f5.mizgerdiran.com&path=/iran/ws?ed=2083&mode=auto#@SheriffNet
+vless://84cad6f3-9d1e-4450-9112-94643af572d6@63.141.252.203:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=shiny-space-palm-tree-jr5vx99vr9v6cpxgp-443.app.github.dev#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#@v2rayconfigamir 9627
+vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#@v2rayconfigamir 2730
+vless://86036bff-c70c-429a-b43e-7ee84764a61e@DotC.psdgold.st:51636?security=none&encryption=none&headerType=none&type=tcp#@hi_proxy_iran :👈کانال تلگرام
+vless://8678c5ad-b049-4555-9b3d-2e589222d2bd@snapp.ir:80?path=/&security=none&encryption=none&host=test.ifnot.ir&type=ws#none
+vless://8678c5ad-b049-4555-9b3d-2e589222d2bd@snapp.ir:80?path=/&security=none&encryption=none&host=test.ifnot.ir&type=ws#🦉@FreeConfigForYou
+vless://879c96f2-fae7-4555-84f2-b47612c9021d@milad1.cloudzeusggwp.com.tr:36266?encryption=none&type=tcp&security=reality&sni=www.aparat.com&fp=chrome&allowInsecure=1&pbk=1VJvRSqXw-Gcwf7TGQfq-AoT8pa2qN-2IMLVHiZvHiw&sid=d9919852&spx=/#
+vless://879c96f2-fae7-4555-84f2-b47612c9021d@milad1.cloudzeusggwp.com.tr:36266?encryption=none&type=tcp&security=reality&sni=www.aparat.com&fp=chrome&allowInsecure=1&pbk=1VJvRSqXw-Gcwf7TGQfq-AoT8pa2qN-2IMLVHiZvHiw&sid=d9919852&spx=/#@UnNurmal
