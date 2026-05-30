@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1cdc7d85-316b-4f99-a972-9e13709855fa@185.207.196.71:8080?encryption=none&security=none&type=xhttp&headerType=none&path=/?ed=2560/v2ray&host=germany.siback.ir&mode=auto#🔵@chillguy_vpn
-vless://1cdc7d85-316b-4f99-a972-9e13709855fa@198.177.57.120:443?encryption=none&security=tls&type=xhttp&headerType=none&path=/?ed=2560/v2ray&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=finland.sfarhaiyehelmi.ir&fp=chrome&alpn=h2,http/1.1#🇩🇪37299 | ⚡️Telegram = t.me/SOSkeyNET
-vless://1cdc7d85-316b-4f99-a972-9e13709855fa@198.177.57.120:443?encryption=none&security=tls&type=xhttp&headerType=none&path=/?ed=2560/v2ray&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=finland.sfarhaiyehelmi.ir&fp=chrome&alpn=h2,http/1.1#🔵@chillguy_vpn
-vless://1cdc7d85-316b-4f99-a972-9e13709855fa@45.130.125.76:443?mode=auto&path=/?ed=2560/v2ray&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=f2.sfarhaiyehelmi.ir#🔵@chillguy_vpn
-vless://1cdc7d85-316b-4f99-a972-9e13709855fa@45.130.125.76:443?mode=auto&path=/?ed=2560/v2ray&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=host4.copmacil.ir#🇸🇨37326 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1cdc7d85-316b-4f99-a972-9e13709855fa@45.130.125.76:443?mode=auto&path=/?ed=2560/v2ray&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=host4.copmacil.ir#🔵@chillguy_vpn
 vless://1cdc7d85-316b-4f99-a972-9e13709855fa@5.160.128.249:40443?encryption=none&security=tls&type=xhttp&headerType=none&path=/?ed=2560/v2ray&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=host5.copmacil.ir&fp=chrome&alpn=h2,http/1.1#🇫🇮 Finland Helsinki | ⏱1556ms | ⚡99KB/s | @NamazVPN
 vless://1cdc7d85-316b-4f99-a972-9e13709855fa@5.160.128.249:40443?mode=auto&path=/?ed=2560/v2ray&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=host5.copmacil.ir#🇮🇷37302 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +498,8 @@ vless://5c59654a-7ae4-4d46-89df-8cc0f87781aa@45.15.167.138:25721?encryption=none
 vless://5c973309-c1c1-4d9c-a88e-5767a6bd0401@stone.quietgrove.forum:443?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=MchbHn3bpJaqAX-oqnNXYiXrbUTN0n-K203T8YGr8D4&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=stone.quietgrove.forum&sid=52506b7e2ebc9548#@meliproxyy
 vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@31.43.179.111:443?security=tls&type=ws&headerType=&path=/&host=rozitamuli.gozarino.com&sni=rozitamuli.gozarino.com&fp=#@VPN_PASARGAD
 vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@31.43.179.111:443?security=tls&type=ws&headerType=&path=/&host=rozitamuli.gozarino.com&sni=rozitamuli.gozarino.com&fp=#@vmesskhodam
+vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@94.140.0.0:443?security=tls&type=ws&headerType=&path=/?ed=2048&host=api.gozarino.com&sni=api.gozarino.com&fp=#@VPN_PASARGAD
+vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@94.140.0.0:443?security=tls&type=ws&headerType=&path=/?ed=2048&host=api.gozarino.com&sni=api.gozarino.com&fp=#@vmesskhodam
+vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@Garden-.userid:1719?security=none&type=tcp&headerType=http&path=/&host=#@VPN_PASARGAD
+vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@Garden-.userid:1719?security=none&type=tcp&headerType=http&path=/&host=#@vmesskhodam
+vless://5cb002ce-8826-4006-85a0-b4bbc389bf89@Garden-.userid:500?security=reality&type=tcp&headerType=&path=&host=&sni=www.chess.com&fp=chrome&pbk=OfqZPHXqiwjyZEhZtVO1kk9PLxW2ueKdaOjVX_Br2Ek&sid=#@VPN_PASARGAD

@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?encryption=none&host=juzi.qea.ccwu.cc&path=/&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🔵@chillguy_vpn
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?encryption=none&host=juzi.qea.ccwu.cc&path=/&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🔵@config_free2
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?encryption=none&host=juzi.qea.ccwu.cc&path=/&security=tls&sni=juzi.qea.ccwu.cc&type=ws#[67066] - Telegram : @V2All
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?encryption=none&host=juzi.qea.ccwu.cc&path=/&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇨🇦37261 | ⚡️Telegram = t.me/SOSkeyNET
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.252.37:443?encryption=none&host=juzi.qea.ccwu.cc&path=/&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🌝89@oneclickvpnkeys
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.206:443?encryption=none&host=juzi.qea.ccwu.cc&path=/&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🌝37@oneclickvpnkeys
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.20:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=/&security=tls&sni=juzi.qea.ccwu.cc&type=ws#RzChanel1
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.17.189:443?encryption=none&host=juzi.qea.ccwu.cc&path=/&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🌝45@oneclickvpnkeys
@@ -503,3 +498,8 @@ vless://f8fd5db7-c529-41a4-aa10-93302fec650c@varzesh3.com:8880?path=/aban&securi
 vless://f998c699-43b5-4af2-921e-03b879eb7912@nld.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&security=reality&sid=86b80f1e713a33ad&sni=www.google.com&type=tcp#🌝72@oneclickvpnkeys
 vless://f998c699-43b5-4af2-921e-03b879eb7912@nld.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&security=reality&sid=86b80f1e713a33ad&sni=www.google.com&type=tcp#🔵@chillguy_vpn
 vless://f998c699-43b5-4af2-921e-03b879eb7912@nld.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&security=reality&sid=86b80f1e713a33ad&sni=www.google.com&type=tcp#🔵@config_free2
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#@Pirimod
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#تلگرام : V2ynpv @
+vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=&encryption=none&headerType=none&type=tcp#@filembad
+vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.65.58.129:443?security=&encryption=none&headerType=none&type=tcp#@VPN_PASARGAD
+vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.65.58.129:443?security=&encryption=none&headerType=none&type=tcp#@vmesskhodam
