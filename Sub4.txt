@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5f2947d1-41a5-45cf-a982-ec7635217d46@img.onvanet.com:7188?security=reality&encryption=none&pbk=o_NYv1c91AZ6pU57CTLNDtpW9ijFniy8_GDrYn22GAI&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=www.varzesh3.com&sid=df63d07a92c10160#@v2rayNplus🇳🇱
-vless://5f4e864a-3c52-4a63-a870-a935965ed966@185.143.232.201:80?path=/&security=none&encryption=none&host=down.speedtell.ir&type=ws#https://t.me/v2raynplus |🇮🇷
-vless://5f675eea-a53b-40ae-beb6-ee304a389f3e@172.64.155.209:8443?path=/ArEyOuMaD&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=amphetamine.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=amphetamine.adaspoloandco.com#🔵@chillguy_vpn
-vless://600c333c-53dd-4eb9-80cf-c5716cc570f8@scan.capitaledge.blog:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hartfordmedia.online&sid=2356d1ae4b#Tel;Father_vpn
-vless://604467c7-ea86-4f7d-9d74-c2e66095d47c@api.shakhle.ir:8080?path=/ws-content/app.js?ed=2048&security=none&encryption=none&host=ProBlem.ShAkHle.iR.&type=httpupgrade#🇬🇧39140 | ⚡️Telegram = t.me/SOSkeyNET
-vless://604467c7-ea86-4f7d-9d74-c2e66095d47c@api.shakhle.ir:8080?path=/ws-content/app.js?ed=2048&security=none&encryption=none&host=ProBlem.ShAkHle.iR.&type=httpupgrade#🔵@chillguy_vpn
 vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?security=none&encryption=none&type=ws&host=y670.0h0.ccwu.cc&path=/gPvZ4oCcNDyuc3szX7xhuvpEm&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 vless://60eab5f4-e085-49b6-9d1b-2e9122dcb6ee@panel.96s.ir:32373?type=xhttp&encryption=none&path=/marg&host=panel.96s.ir&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&security=tls&fp=chrome&alpn=h2,http/1.1&sni=panel.96s.ir#10گیگ
 vless://60eab5f4-e085-49b6-9d1b-2e9122dcb6ee@panel.96s.ir:32373?type=xhttp&encryption=none&path=/marg&host=panel.96s.ir&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&security=tls&fp=chrome&alpn=h2,http/1.1&sni=panel.96s.ir#@VPN_PASARGAD
@@ -503,3 +497,9 @@ vless://Telegram-Parsashonam-1@104.16.7.70:443?mode=auto&path=/p4r34m&security=t
 vless://Telegram-Parsashonam-1@104.17.121.71:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#@Parsashonam-Test-0
 vless://Telegram-Parsashonam-1@45.130.125.160:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#@Parsashonam-Test-1
 vless://Telegram-Parsashonam-1@45.130.125.76:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#@Parsashonam-Test
+vless://Telegram-Parsashonam-1@45.131.6.203:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#@Parsashonam-Test-1
+vless://Telegram-Parsashonam-2@104.17.121.71:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#@Parsashonam-Test-2
+vless://Telegram-Parsashonam-2@165.215.250.12:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#@Parsashonam-Test-1
+vless://Telegram-Parsashonam-2@192.200.160.253:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#@Parsashonam-Test-3
+vless://Telegram-Parsashonam-2@208.103.161.101:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#@Parsashonam-Test-4
+vless://Telegram-Parsashonam-2@27.50.48.49:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#@Parsashonam-Test-6
