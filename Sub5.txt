@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://96667cac-b1ab-4734-a043-c343b1cef74f@188.114.97.20:2083?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=swi0.lizardshop.org&fp=chrome&type=ws&allowInsecure=0&sni=swi0.lizardshop.org#kurdconfig
+vless://96667cac-b1ab-4734-a043-c343b1cef74f@fsxhh.fastshop1.com:443?mode=packet-up&path=/lizzard&security=tls&encryption=none&insecure=0&host=lizzard.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
+vless://96667cac-b1ab-4734-a043-c343b1cef74f@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&host=grm.lizardshop.org&fp=chrome&type=ws&sni=grm.lizardshop.org#kurdconfig
+vless://96667cac-b1ab-4734-a043-c343b1cef74f@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=grm.lizardshop.org&fp=chrome&type=ws&allowInsecure=0&sni=grm.lizardshop.org#kurdconfig
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@141.101.115.71:8443?path=/download.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️375🌐🆕️
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@188.114.97.6:8443?encryption=none&type=ws&security=tls&path=/download.php&host=chopin.adaspoloandco.com&sni=chopin.adaspoloandco.com&alpn=h3,h2%2/1.1&fp=chrome&allowInsecure=0#🔵@chillguy_vpn
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@188.114.97.6:8443?path=/download.php&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=chopin.adaspoloandco.com&fp=chrome&type=ws&sni=chopin.adaspoloandco.com#@hi_proxy_iran :👈کانال تلگرام
 vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@188.114.97.6:8443?path=/download.php&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@meliproxyy
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=/Tignal&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#@v2raybaaz 🍁
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=/Tignal&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#@vpnbaz 🍁
@@ -496,10 +503,3 @@ vless://ca911bd2-e08f-42d8-aefb-3117494d3367@srv11.outlinekeys.com:443?security=
 vless://cb12d2f4-d743-47c8-9e23-26f22387a042@45.131.208.123:443?mode=auto&path=/Amir&security=tls&alpn=h2,http/1.1&encryption=none&host=cdn.amirak.qzz.io&fp=chrome&type=xhttp&sni=cdn.amirak.qzz.io#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp
 vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?alpn=h2,http/1.1&encryption=none&fp=chrome&mode=auto&path=/Amir&security=tls&sni=cdn.amirak.qzz.io&type=xhttp#🦄85@oneclickvpnkeys
 vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?mode=auto&path=/Amir&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn.amirak.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.amirak.qzz.io#@Proxy_Vpney (2)
-vless://cb61a314-9e39-45b5-bf3b-264912e7553b@panel.96s.ir:8080?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1#@VPN_PASARGAD
-vless://cbc5b8c8-69a3-4c09-bd8a-6b19592877d6@www.speedtest.net:443?mode=stream-up&path=/&security=tls&alpn=h2&encryption=none&extra={  "noGRPCHeader" : false,  "xmux" : {    "hMaxReusableSecs" : "1800-3000",    "maxConcurrency" : "16-32",    "cMaxReuseTimes" : 0,    "maxConnections" : 0,    "hMaxRequestTimes" : "600-900",    "hKeepAlivePeriod" : 0  },  "scStreamUpServerSecs" : "20-80",  "scMaxEachPostBytes" : 1000000,  "headers" : {  },  "xPaddingBytes" : "100-1000",  "scMinPostsIntervalMs" : 30}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de-3.85858569.xyz#@KAFING_2
-vless://cc49ff13-bb0d-476e-ae08-41dfd79a9d37@188.114.98.0:80?encryption=none&type=ws&host=cdn2095.dgclix.ir&path=/&security=none#@Evay_vpn
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&fp=chrome&host=cyylr.eu.cc&path=/sg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#🦄36@oneclickvpnkeys
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?alpn=http/1.1&encryption=none&fp=chrome&host=cyylr.eu.cc&path=/sg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#🦄44@oneclickvpnkeys
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=cyylr.eu.cc&sni=cyylr.eu.cc&alpn=http/1.1&fp=chrome&allowInsecure=0#@sogoandfuckyourlove
-vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&host=cyylr.eu.cc&fp=chrome&type=ws&sni=cyylr.eu.cc#kurdconfig
