@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9522dafb-b180-42ce-9651-a138c676feaa@jizz.ideweb.ir:44000?security=&encryption=none&headerType=none&type=tcp#@icv2ray
+vless://9591f34a-90b1-41a1-b53d-be0bef7e7cc3@speedtestcustom.com:80?encryption=none&security=none&type=xhttp&host=monsterion10.global.ssl.fastly.net&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false,+"xmux":+{"maxConcurrency":+"16-32",+"maxConnections":+0,+"cMaxReuseTimes":+"64-128",+"cMaxLifetimeMs":+0,+"hMaxRequestTimes":+"800-900",+"hKeepAlivePeriod":+0}}#🟢 🇫🇷 فرانسه
+vless://96667cac-b1ab-4734-a043-c343b1cef74f@188.114.97.20:2083?path=/?ed=2560&security=tls&encryption=none&host=swi0.lizardshop.org&fp=chrome&type=ws&sni=swi0.lizardshop.org#kurdconfig
 vless://96667cac-b1ab-4734-a043-c343b1cef74f@188.114.97.20:2083?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=swi0.lizardshop.org&fp=chrome&type=ws&allowInsecure=0&sni=swi0.lizardshop.org#kurdconfig
 vless://96667cac-b1ab-4734-a043-c343b1cef74f@fsxhh.fastshop1.com:443?mode=packet-up&path=/lizzard&security=tls&encryption=none&insecure=0&host=lizzard.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
 vless://96667cac-b1ab-4734-a043-c343b1cef74f@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&host=grm.lizardshop.org&fp=chrome&type=ws&sni=grm.lizardshop.org#kurdconfig
@@ -500,6 +503,3 @@ vless://ca4da98c-7851-4a9c-9bc0-874e406ef774@snapp.ir:8080?type=ws&security=none
 vless://ca5062f5-58e3-497b-8755-0e071c01b897@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#@SayanStoree
 vless://ca685cf0-3e19-42aa-b507-9417cd01b584@ia.subchar.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=snapp.ir&path=/&security=tls&sni=ia.subchar.ir&type=ws#@brilliantgift
 vless://ca911bd2-e08f-42d8-aefb-3117494d3367@srv11.outlinekeys.com:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv11.outlinekeys.com#@v2rayngzendegimamad🕊️
-vless://cb12d2f4-d743-47c8-9e23-26f22387a042@45.131.208.123:443?mode=auto&path=/Amir&security=tls&alpn=h2,http/1.1&encryption=none&host=cdn.amirak.qzz.io&fp=chrome&type=xhttp&sni=cdn.amirak.qzz.io#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp
-vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?alpn=h2,http/1.1&encryption=none&fp=chrome&mode=auto&path=/Amir&security=tls&sni=cdn.amirak.qzz.io&type=xhttp#🦄85@oneclickvpnkeys
-vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?mode=auto&path=/Amir&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cdn.amirak.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.amirak.qzz.io#@Proxy_Vpney (2)
