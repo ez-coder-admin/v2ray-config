@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yastatic.net&fp=chrome&allowInsecure=0&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#14https://t.me/ConfigX2ray
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#@@FREE_VPN02
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#@FarazV2ray
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#@fastkanfig 9
@@ -502,4 +503,3 @@ vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=/au-do&secu
 vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=/au-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#@HajmVPN_Config 🚀
 vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=/au-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#🔵@chillguy_vpn
 vless://420e4da5-af5c-40b4-bd73-fb608fe45ecb@5.202.9.117:3333?security=none&type=ws&path=/#@Hope_Net-join-us-on-Telegram
-vless://420e4da5-af5c-40b4-bd73-fb608fe45ecb@5.202.9.117:3333?security=none&type=ws&path=/#[72976] - Telegram : @V2All
