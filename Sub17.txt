@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://69c115fd-ddd9-4d7f-bd90-6f34c810cf0e@v2configlab.v2configlab5.workers.dev:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v2configlab.v2configlab5.workers.dev&path=/&security=tls&sni=v2configlab.v2configlab5.workers.dev&type=ws#🇨🇦56815 | ⚡️Telegram = t.me/SOSkeyNET
+vless://69c115fd-ddd9-4d7f-bd90-6f34c810cf0e@v2configlab.v2configlab5.workers.dev:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v2configlab.v2configlab5.workers.dev&path=/&security=tls&sni=v2configlab.v2configlab5.workers.dev&type=ws#🚀@VPNine1
 vless://69d14e1c-0633-4b71-a81e-2c1219f68c69@hexo-node-01.usertest2.workers.dev:2052?path=/eyJqdW5rIjoiTEpiN1RvT2JlajVzY2MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=?ed=2560&security=&encryption=none&host=hexo-node-01.usertest2.workers.dev&type=ws#🔵@chillguy_vpn
 vless://69d14e1c-0633-4b71-a81e-2c1219f68c69@www.speedtest.net:2052?path=/eyJqdW5rIjoiSnN1ZWNhUk1xQzBxaEt3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560&security=&encryption=none&host=hexo-node-01.usertest2.workers.dev&type=ws#🔵@chillguy_vpn
 vless://6acba864-e006-426b-a480-98f12c21b0f1@104.19.229.21:8443?alpn=h2&encryption=none&fp=chrome&host=peachboiling.ticklitickli.ir&path=/&security=tls&sni=peachboiling.ticklitickli.ir&type=ws#🇨🇦56783 | ⚡️Telegram = t.me/SOSkeyNET
@@ -501,5 +503,3 @@ vless://e2a414cb-932d-456a-b9e3-66411972def1@ali1242.nneww.sbs:30457?encryption=
 vless://e2a414cb-932d-456a-b9e3-66411972def1@ali1242.nneww.sbs:30457?encryption=none&headerType=http&host=telewebion.ir&path=/asfasfa&security=none&type=tcp#new.vip2-skko259qbe-30.00GB📊
 vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=pimxpass.alex96336997.workers.dev&path=/&security=none&type=ws#🇳🇱NL-🚀@VPNine1
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?encryption=none&security=none&type=tcp#🇬🇧56853 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e51453d3-7972-44d7-a657-ed89520f48b6@188.114.97.6:80?path=/au-do&security=none&encryption=none&host=web.whatsapp.com.r3xxe.eu.cc&type=ws#@V2Ray_Hub1200
-vless://e51453d3-7972-44d7-a657-ed89520f48b6@188.114.97.6:80?path=/au-do&security=none&encryption=none&host=web.whatsapp.com.r3xxe.eu.cc&type=ws#🇨🇦56873 | ⚡️Telegram = t.me/SOSkeyNET
