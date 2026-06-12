@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6ae60df2-1f33-4eb1-a126-5bb8178f4eaf@node60.tomalgopas.fun:443?mode=auto&path=/&security=reality&encryption=none&pbk=TWkgzfWFxZxBf9MkVBXBgDIvT_YshX-m-QVIV0viRiU&host=www.samsung.com&fp=chrome&spx=/&type=xhttp&sni=samsung.com#@V2VODKA_A🇨🇭 Switzerland
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#@iguanaVPN [8]
-vless://6beee13a-f356-4a51-8e65-75f776508e8f@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=8051d89749e0d400#IR-@V2rayAlpha-7
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@KAFING_2
-vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
-vless://6c32c1d3-ac95-4622-86fb-204e3557b777@cdntr213.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 1993
 vless://6c32c1d3-ac95-4622-86fb-204e3557b777@cdntr213.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 7478
 vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@130.12.242.102:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#@VPsave
 vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@130.12.242.102:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#برای اتصال دائمی جوین شو🗾 prrofile_purple@
@@ -503,3 +497,9 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?encryption=none
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-39.vk-cdnvideo.com&type=tcp#🪬49@v2ray_configs_pools
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#@hex_proxy ⁵
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#filembad-188
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#🇫🇷65911 | ⚡️Telegram = t.me/SOSkeyNET
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#@FarazV2ray
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#🇩🇪@vmesskhodam
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=cdn7-39.vk-cdnvideo.com#@B2vasl
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=cdn7-39.vk-cdnvideo.com#@B2vasl  ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzd

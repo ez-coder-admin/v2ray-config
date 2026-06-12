@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://045acec8-7d9e-4793-9917-c909a4a70887@api2.atirose.com:2087?security=tls&encryption=none&insecure=0&host=s1.monopoligame.ir&type=ws&allowInsecure=0&sni=s1.monopoligame.ir#MTMVPN
-vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇨🇳TW
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
-vless://04969b01-ac6a-4056-b5cd-852ccf45f102@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
-vless://0498b1f1-60fa-41d2-bfb8-20310590e10a@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#@VPsave
-vless://0498b1f1-60fa-41d2-bfb8-20310590e10a@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#@outline_ir
 vless://0498b1f1-60fa-41d2-bfb8-20310590e10a@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz 🇮🇹
 vless://0498b1f1-60fa-41d2-bfb8-20310590e10a@141.95.102.240:2053?security=none&encryption=none&type=tcp#kurdconfig
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🦉@FreeConfigForYou
@@ -503,3 +497,9 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&typ
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?alpn=http/1.1&encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#[75853] - Telegram : @V2All
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?alpn=http/1.1&encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#⚕️2@oneclickvpnkeys
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?alpn=http/1.1&encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#🚘36@v2ray_configs_pools
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#♾️29@v2ray_configs_pools
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#@meliproxyy
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#Mix--@V2rayAlpha--1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#TEL;Father_vpn
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#@meliproxyy
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#Mix--@V2rayAlpha--20
