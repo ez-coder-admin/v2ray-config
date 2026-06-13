@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=64.176.65.85#@fastkanfig 1
 trojan://iW3T_,2o&eJrL(|Q@:2053?security=tls&sni=wIld-sUnSET-03a1.deHgHaNPooYa42.WOrkeRS.dev&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/eyJqdW5rIjoiOVJSd0xQWnd0RTBDWHpNaSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOltdfQ==?ed=2560#@NewsDarya
 trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#@SheriffNet
 trojan://mitivpn@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/ed=mitivpn&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&sni=www.ssl.global.digi.my.mitivpn.xyz&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#@GozargahAzad|🏁
@@ -503,3 +502,4 @@ vless://1b25c52f-31d7-435a-a53c-3a2a010feaff@146.75.119.82:80?encryption=none&se
 vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@138.124.63.126:443?Telegram=@armindone,@armindone,@armindone,@armindone&security=reality&encryption=none&pbk=qBTTzM-_JJ5NDPfJc8_4StCYqeK4DpiZWEjxCf3KYXA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pro.online.prostosetup.org&sid=a96e9c98e60fd8d5#@armindone👈چنل تلگراممون
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@178.105.103.153:443?security=reality&encryption=none&pbk=zxzgWvYs4pMN3fEduth1soI1yMZDkynb1bBM4tj85EE&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=5e841fab#🐸 @ProxyVPN11
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#TEL;Father_vpn
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@130.12.242.109:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#🇳🇱@FreakConfig

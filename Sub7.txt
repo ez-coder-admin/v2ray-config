@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#@hi_proxy_iran :👈کانال تلگرام
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#⚡@V2ray_official
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn 2
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🚀@V2ray_official
@@ -503,3 +502,4 @@ vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@45.85.119.122:2096?path=/ws?ed&secu
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@45.85.119.122:2096?path=/ws?ed&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&type=ws&allowInsecure=0&sni=872ede3847653442.hozheen.ir#‎🛰️ @nitruStore 26
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@45.85.119.122:2096?path=/ws?ed&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&type=ws&allowInsecure=0&sni=872ede3847653442.hozheen.ir#🇬🇧@FreakConfig
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@46.225.155.159:1006?security=reality&encryption=none&pbk=2iijxUyJsanFAkX0ctH6H4RTW1N4mQYnIsaP8qrbbS8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yahoo.com&sid=0c3a409c2ba7d083#@freenettir
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@46.225.155.159:1006?security=reality&encryption=none&pbk=2iijxUyJsanFAkX0ctH6H4RTW1N4mQYnIsaP8qrbbS8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yahoo.com&sid=0c3a409c2ba7d083#@meliproxyy
