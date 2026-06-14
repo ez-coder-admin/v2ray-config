@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.90.66.7:443?encryption=none&security=tls&sni=studious-adventure-qv7grxpv5p7ph4xjv-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=/#🔵@chillguy_vpn
+vless://4b61cfee-2dad-4d96-bbbd-f5073dc25cd7@54.36.118.124:80?encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=www.google.com&mode=auto&path=/&pbk=lil7iPKTqsQ1Md_b2KUNjYQ5hkh6ghYAKYnQCzo7HFM&security=reality&sid=a426b174c3&sni=www.google.com&spx=/DYbPpn4LHpPrOxr&type=xhttp&x_padding_bytes=100-1000#🇩🇪 t.me/Natrixo AA
 vless://4bde8d55-d91c-45e9-9b36-e6448a194527@188.114.97.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@freenettir
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#@meliproxyy
@@ -501,5 +503,3 @@ vless://7db047e4-ca34-4a0b-b033-169cdfa148bd@Cd2.postshup.ir:443?path=/news&secu
 vless://7db047e4-ca34-4a0b-b033-169cdfa148bd@www.speedtest.net:443?path=/news&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=cdn-pro1.postshup.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-pro1.postshup.ir.#telegram @mtmvpn
 vless://7dd33c4f-003a-4b18-b7f1-dcbd0d48233c@fin.onlinernet.ir:20018?security=&encryption=none&host=status.play.google.com&headerType=http&type=tcp#⚡@V2ray_official
 vless://7dd33c4f-003a-4b18-b7f1-dcbd0d48233c@xn-ger.onlinernet.ir:20018?security=&encryption=none&host=status.play.google.com&headerType=http&type=tcp#⚡@V2ray_official
-vless://7dd33c4f-003a-4b18-b7f1-dcbd0d48233c@xn-usa.onlineblog.ir:20018?security=&encryption=none&host=status.play.google.com&headerType=http&type=tcp#⚡@V2ray_official
-vless://7e78692a-2c4c-4be4-bfe6-95526c4197c1@188.114.97.6:443?path=/amin&security=tls&encryption=none&insecure=0&host=dmx.ferrarikingfr.ir&fp=chrome&type=ws&allowInsecure=0&sni=dmx.ferrarikingfr.ir#🇨🇦@FreakConfig
