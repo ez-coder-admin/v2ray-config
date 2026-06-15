@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://acb005a9-29af-437f-ba56-411a8dc9eb56@3.75.194.19:59403?security=reality&encryption=none&pbk=R87O7j_VmzDlIMXOd7Z6MOpp2wxxw4VZFxOmTAmugVQ&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=55a20409400e71#🐸 @ProxyVPN11
 vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?security=reality&encryption=none&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=8897c56a495b26cc#🐸 @ProxyVPN11
 vless://ad00e861-4e85-464b-95a7-dca95e7fbfd9@77.237.73.153:443?encryption=none&security=none&type=tcp#V2RFA
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.16.121.147:2096?path=/ws?ed=2560&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=9b94d317f693703f.hozheen.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
@@ -503,3 +502,4 @@ vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.17.72.206:443?encryption=none&t
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#🟢 WiFi · [ 5 ] @NewsDarya
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=www.yahoo.com&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sid=6f3192#kurdconfig
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&allowinsecure=0&type=xhttp&sni=www.yahoo.com&sid=6f3192#@freenettir
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&allowinsecure=0&type=xhttp&sni=www.yahoo.com&sid=6f3192#@meliproxyy

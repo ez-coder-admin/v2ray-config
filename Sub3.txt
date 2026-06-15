@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@104.18.7.147:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#ProxyMtpVPN-46
 trojan://humanity@104.18.7.147:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🇨🇦72678 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Filtershekan_channel |3
 trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Filtershekan_channel |8
@@ -503,3 +502,4 @@ vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?path=/&security
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
 vless://163957f5-e632-4117-9ddd-06dd10c64b27@dota2fa.ir:26414?security=none&encryption=none&headerType=none&type=tcp#MiX--@V2rayAlpha--49
 vless://16ccf445-152f-40b7-b712-84d920b7bc7e@olds-1.lubbs.de:2086?path=/&security=none&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#@hi_proxy_iran :👈کانال تلگرام
+vless://1704631c-fc47-4b59-b390-ddb32413ce09@45.198.80.70:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#MiX--@V2rayAlpha--35
