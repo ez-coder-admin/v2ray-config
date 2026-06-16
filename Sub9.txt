@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.parsvds.com:8080?path=/&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#best_internet_iran
 vless://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?encryption=none&type=ws&path=/Path&host=169.40.32.242#4https://t.me/ConfigX2ray
 vless://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?path=/Path&security=&encryption=none&host=169.40.32.242&type=ws#⚡@V2ray_official
 vless://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?path=/Path&security=none&encryption=none&host=169.40.32.242&type=ws#@VpnCostumer
@@ -503,3 +502,4 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.174.181:443?path=/t1s1.rittbo.kdns.fr/fp&security=tls&encryption=none&host=weathered-forest-ebb5.nashlad12.workers.dev&type=ws&sni=weathered-forest-ebb5.nashlad12.workers.dev#🇨🇦 @rayhub_ir 0616-11
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.8.66:443?sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.180.71.69:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=t1s1.rittbo.kdns.fr&path=/#@v2rayconfigamir 9757
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?encryption=none&type=ws&security=tls&path=/&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@freenettir
