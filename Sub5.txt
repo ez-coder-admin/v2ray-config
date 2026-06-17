@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.102:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁵
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.105:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴75936 | ⚡️Telegram = t.me/SOSkeyNET
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.105:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆²
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.105:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇷🇴RO-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?host=sni.jpmj.d
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?host=sni.jpmj.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#🔵@chillguy_vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?path=/&security=&encryption=none&host=vms.lifetime55.workers.dev&type=ws#🇬🇧 @rayhub_ir 0617-7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.50:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=vms.lifetime39.workers.dev&path=/#@Netzone_ir
-vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?type=tcp&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
