@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ffc33c26-e5bb-42f5-a04a-b4e939cf3c72@cf9c002bdc7c5373.RaVeNlO.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2raybaaz ¹
+vless://ffc33c26-e5bb-42f5-a04a-b4e939cf3c72@enns1.vErTateCH.iR:7005?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=yuhrNGOXd061lVl8AfE9wc7ctTApk-K6XAVnArJpWF8&sid=dd9da58e3c5c641c#@NewsDarya
+vless://ffc33c26-e5bb-42f5-a04a-b4e939cf3c72@enns1.vErTateCH.iR:7005?security=reality&encryption=none&pbk=yuhrNGOXd061lVl8AfE9wc7ctTApk-K6XAVnArJpWF8&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=dd9da58e3c5c641c#@v2raybaaz ⁴
+vless://ffc33c26-e5bb-42f5-a04a-b4e939cf3c72@psf-1.zdshop.ir:80?encryption=none&type=ws&path=/&host=machinemag.ir#@NewsDarya
+vless://ffc33c26-e5bb-42f5-a04a-b4e939cf3c72@psf-1.zdshop.ir:80?path=/&security=none&encryption=none&host=machinemag.ir&type=ws#@v2raybaaz ⁵
 vless://hqV2rayNG@104.26.6.0:8880?mode=auto&path=/HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG-HqV2RayNG?ed=1024&security=&encryption=none&host=belkharevaslshodim.fars-daxter.ir&type=xhttp#@HqV2rayNG-1
 vless://jina@20.218.137.249:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#Telegram : @V2ynpv
 vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#@v2rayngzendegimamad🕊️
@@ -497,9 +502,4 @@ vmess://eyJhZGQiOiJ1c2Jsb2cuMTE0NTE0NzgyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoi
 
 vmess://eyJhZGQiOiJ1c2Jsb2cuMTE0NTE0NzgyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWFlZmNiNjQtMjc3Ni0zNzA2LWI5NjMtYTE5YTI0MzM3NTVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL210cnlqaGlhb2dycyIsInBvcnQiOjIwNTIsInBzIjoi576O5Zu9MSB8IDF4XzIiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
 
-
-vmess://eyJhZGQiOiJhaXN1Z3ZkaXUuMTE0NTE0NzgyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWY5YzdiZGEtMzNmOS0zZGQwLWJjZjUtYWNhMzI0NDE4ZTMxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J1aWFlYmQiLCJwb3J0IjoyMDgyLCJwcyI6Iue+juWbvTIgfCAxeF8xIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
-
-vmess://eyJhZGQiOiJhaXN1Z3ZkaXUuMTE0NTE0NzgyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWFlZmNiNjQtMjc3Ni0zNzA2LWI5NjMtYTE5YTI0MzM3NTVlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2J1aWFlYmQiLCJwb3J0IjoyMDgyLCJwcyI6Iue+juWbvTIgfCAxeF8yIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 
