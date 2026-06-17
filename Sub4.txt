@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://11977e5a-798b-48bf-b3cf-4492c255dc84@snapp.ir:2087?encryption=none&security=tls&sni=dns.xelivo.ir&fp=chrome&alpn=h2,http/1.1,h3&insecure=0&allowInsecure=0&type=ws&host=dns.xelivo.ir&path=/BetForward#@meliproxyy
-vless://11977e5a-798b-48bf-b3cf-4492c255dc84@snapp.ir:2087?encryption=none&security=tls&sni=dns.xelivo.ir&fp=chrome&alpn=h2,http/1.1,h3&insecure=0&allowInsecure=0&type=ws&host=dns.xelivo.ir&path=/BetForward#Channel : @Daily_Configs
-vless://11977e5a-798b-48bf-b3cf-4492c255dc84@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#@V2dogs_n
-vless://11977e5a-798b-48bf-b3cf-4492c255dc84@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#@erfanandroid
-vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#کانفیگ متصل موجود🔥👇🏻@Outline_one_clickbot
-vless://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?security=reality&encryption=none&pbk=MvZRXOgSBhkQB88kC6CnjiKs7pveuPMWA_TFSOvyRQ0&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=cf12caecc0#🇳🇱@FreakConfig
-vless://12057eb0-5b11-47ed-b34b-0c8646b99864@104.24.38.200:8080?path=/?ed=2056&security=none&encryption=none&host=xcc.dl5movis.ir&type=httpupgrade#چنل عضو شو @v2ra_config
-vless://12057eb0-5b11-47ed-b34b-0c8646b99864@cf.parsdev.eu:2052?path=/?ed=2056&security=none&encryption=none&host=xc.dl5movis.ir&type=httpupgrade#چنل عضو شو @v2ra_config
-vless://1205caca-020f-4b79-a002-e344cc81fb2c@plt.starferi.ir:8460?security=none&encryption=none&headerType=none&type=tcp#حجم ۲۵۰ گیگ
 vless://122f8c58-f173-4f4a-acb8-86172ba5e10d@hostvds-nl-nl.kvnfreetest.uk:21443?security=reality&encryption=none&pbk=PEPivzCg5cBehVQUMVJLNPx3A9hy719Fq7HQsXMp4Ro&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#@Leecher56
 vless://122f8c58-f173-4f4a-acb8-86172ba5e10d@hostvds-nl-nl.kvnfreetest.uk:21443?security=reality&encryption=none&pbk=PEPivzCg5cBehVQUMVJLNPx3A9hy719Fq7HQsXMp4Ro&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#@bored_vpn
 vless://122f8c58-f173-4f4a-acb8-86172ba5e10d@hostvds-nl-nl.kvnfreetest.uk:21443?security=reality&encryption=none&pbk=PEPivzCg5cBehVQUMVJLNPx3A9hy719Fq7HQsXMp4Ro&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#@confiig_hub
@@ -503,3 +493,13 @@ vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:4043?encryption=none&
 vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:41050?encryption=none&security=none&type=tcp#🇩🇪74673 | ⚡️Telegram = t.me/SOSkeyNET
 vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:41050?encryption=none&security=none&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:41050?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
+vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Hwe7g18fPOB7YoeqGLarigYkna0GsXcTC8-ounz25AQ&security=reality&sid=16&sni=arvancloud.ir&spx=/YbViBLhfIi6u3Nl&type=tcp#🇩🇪74677 | ⚡️Telegram = t.me/SOSkeyNET
+vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Hwe7g18fPOB7YoeqGLarigYkna0GsXcTC8-ounz25AQ&security=reality&sid=16&sni=arvancloud.ir&spx=/YbViBLhfIi6u3Nl&type=tcp#🇩🇪DE-🚀@VPNine1
+vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Hwe7g18fPOB7YoeqGLarigYkna0GsXcTC8-ounz25AQ&security=reality&sid=16&sni=arvancloud.ir&spx=/YbViBLhfIi6u3Nl&type=tcp#🔵@chillguy_vpn
+vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:8080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zpB9nr7BiMTUIAf7yzNC8PK5xmrMu_obV0XQ5NY031U&security=reality&sid=d934&sni=aws.amazon.com&spx=/Qp8zeHA25C0ayK7&type=tcp#🇩🇪74678 | ⚡️Telegram = t.me/SOSkeyNET
+vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:8080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zpB9nr7BiMTUIAf7yzNC8PK5xmrMu_obV0XQ5NY031U&security=reality&sid=d934&sni=aws.amazon.com&spx=/Qp8zeHA25C0ayK7&type=tcp#🇩🇪DE-🚀@VPNine1
+vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:8080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zpB9nr7BiMTUIAf7yzNC8PK5xmrMu_obV0XQ5NY031U&security=reality&sid=d934&sni=aws.amazon.com&spx=/Qp8zeHA25C0ayK7&type=tcp#🔵@chillguy_vpn
+vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:8880?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&security=reality&sid=07346a4f90009333&sni=www.intel.com&spx=/RQzfXGt8elXI4Jh&type=tcp#🇩🇪74670 | ⚡️Telegram = t.me/SOSkeyNET
+vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:8880?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&security=reality&sid=07346a4f90009333&sni=www.intel.com&spx=/RQzfXGt8elXI4Jh&type=tcp#🇩🇪DE-🚀@VPNine1
+vless://3a9f4b6d-f9e2-48e2-9eef-4e67607380fb@91.107.190.49:8880?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1P6G12_CsCrgTmgSw92S3XMU-bukSAWVWdAqMiiChVU&security=reality&sid=07346a4f90009333&sni=www.intel.com&spx=/RQzfXGt8elXI4Jh&type=tcp#🔵@chillguy_vpn
+vless://3b0d0482-187d-4f9d-a448-f99c41eec1ea@91.107.166.66:4043?security=reality&encryption=none&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&headerType=none&fp=chrome&spx=/rkUO2l8YDWFCnk3&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=9aca3d#@v2rayNplus |Germany
