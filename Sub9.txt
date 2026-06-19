@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a8b4af61-2363-4233-b0e2-2118cc61e92b@89.105.217.98:7443?security=reality&encryption=none&pbk=SRx_6rZZrRgWuFz_U7NWxm_INn2kcfYlwC299jk_9nA&headerType=none&fp=chrome&spx=/CzBhHYbm3LnYC6t&type=tcp&sni=yahoo.com&sid=32b8319bd4635fa6#🔵@chillguy_vpn
+vless://a937a82e-593a-49a3-8585-cc3422e040b3@104.194.148.116:23821?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
+vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?security=none&encryption=none&headerType=none&type=tcp#https://t.me/v2raynplus |🇩🇪
 vless://a9fc4031-27ac-42f8-81db-59fd2b367f7a@2.27.22.238:110?security=none&encryption=none&headerType=none&type=tcp#@Ap_Ir6
 vless://a9fc4031-27ac-42f8-81db-59fd2b367f7a@2.27.22.238:110?security=none&encryption=none&headerType=none&type=tcp&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در
 vless://aa0c05aa-78c5-4e5e-9544-0a9a9bc9aa2c@91.107.242.112:2050?mode=stream-one&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true}&pbk=eCFUTR6gYdS2LqTS9WPQTY9il2xXJkzXeYoaR3NMbVI&host=tgju.org&fp=chrome&type=xhttp&sni=play.google.com&sid=88c77347d928006d#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️398🌐🆕️
@@ -500,6 +503,3 @@ vless://d442feba-e6bc-47cd-9cc8-b0a5cabdbfd4@104.16.5.58:443?encryption=none&sec
 vless://d442feba-e6bc-47cd-9cc8-b0a5cabdbfd4@104.24.8.242:443?encryption=none&security=tls&sni=Ko3NaneArzeshi.nivoxa.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=Ko3NaneArzeshi.nivoxa.ir&path=/DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=443&mode=packet-up&extra={"xPaddingBytes":"100-1000"}#از ما فرزندان خود دلشاد باشی ای ایران
 vless://d442feba-e6bc-47cd-9cc8-b0a5cabdbfd4@138.124.92.186:2087?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=s0n3EVFv2S_xmN8LchkGU9LfZ05fitgRW2NJzFDtI0I&sid=104fc6fd3bba&spx=/y84cqJoKj0Z23sQ&type=grpc&authority=&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=1020&mode=multi#آباد باشی ای ایران
 vless://d4e314e3-49ae-4207-8d59-12d7f51aac4c@news.microsoft.com:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=fl.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=fl.gamelistak.com&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
-vless://d531c1ee-62a2-49d6-9f94-b6005f8b2dac@162.55.98.167:8080?mode=auto&path=/mediaprocessing&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=EuZnNlT9zkzoHD04YffK0HpKnjPVpEGuEOXrNJPiQWs&fp=chrome&spx=/favicon.ico&type=xhttp&sni=www.yahoo.com&sid=79efe4#@FarazV2ray
-vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=/&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#@ReleaseNet
-vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=/&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#@meliproxyy
