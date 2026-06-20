@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTkiLCJhZGQiOiIxNzIuNjcuNzEuMTYwIiwicG9ydCI6IjQ0MyIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoib2JkaWkuY2ZkIiwicGF0aCI6Ii9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvYmRpaS5jZmQiLCJ0ZXN0X25hbWUiOiI1OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjAiLCJhZGQiOiIxMDQuMTcuMTIxLjQzIiwicG9ydCI6IjQ0MyIsImlkIjoiZTk5NDdiNDItMjdlZC00MDFlLWI3NWUtYzllYmQzNTdjMGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0Ijoib21rdXp5Z2l2LmNvbSIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoib21rdXp5Z2l2LmNvbSIsInRlc3RfbmFtZSI6IjYwIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjEiLCJhZGQiOiI0Ny44My4xOC4xMCIsInBvcnQiOiIzNjk2OCIsImlkIjoiMTc2YmYxZGQtNjQ3Zi00YzA5LTg5MmUtNWY5MjIzZGM4NjE3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2MSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjIiLCJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsInBvcnQiOiIxMDAwMCIsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjIifQ==
 trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:37973?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
@@ -48,14 +46,9 @@ trojan://humanity@104.18.12.149:443?security=tls&type=ws&sni=www.calmlunch.com&p
 trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:2008?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODYiLCJhZGQiOiJmYXBlbmcub3JnIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZmFwZW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoiZmFwZW5nLm9yZyIsInRlc3RfbmFtZSI6Ijg2In0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODciLCJhZGQiOiI0NS4xNS4xNzAuMjM3IiwicG9ydCI6IjgwIiwiaWQiOiI4MjBkNGI0Zi0zMzU3LTRkYzctOTM4MS02ZTVmZDUyYjVmMzkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJwZWxhbmcub3JnIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI4NyJ9
-O{Úal$°^ÏõGð¡?çÕD¨-LJóUÞ@ÜÏÏIH"YØUj¥]g"DQë¬8ø8îípì@®"Nº~ÓVF÷T&,ãK½âhÄ	ïÏºEÞ¿¡iÁ~Ø¾Àá·õ ÖÝ+L=þ'&U(n­n©¦éjô¯jyRé¾éÿÆf±½"Ñì%Òé`jáb Àd@ùW¼Oµ3Qüâ~ÓËø TÂÛX_À älüÁ?j¥¹_Ñ[	J{ñÓBDOü³öY±p²}_zØîËÉüûÉo5êÝë±=Ýäâe:Ë¥Ë[ô	Rmää¶mxg2¬ÿøÊßHï»^Ùá¢ÍgOSJþn²ffÐ
-îÿ)<³EtÅéxW{õqL0ÞÏhÈE7ë|aÎî*këWî¶%×öcÓàÛMføB¯ÐòNHÌo9·mc
-ù§ï}¹½y·2mTáN_ôÂ³:á*ö[óEL^ªÁ	ôÒ#år«X1?þíÆÜ°òºùÒÓÙô´ÔÉØvÕè;g¿::xcJ«NÑ~ÀVÔ4ÀÊqs¥tÃ¨éiBìõA>	ä½Aue8ú¦Àéèka¨åúyXhÕì¯"®'°im¸(ùC¸lª?h²|"4ÆèG%sÔ	Î$ºX x%Ájp>ðiMo1p×¶] ]aÙ`ÁNE¡»%®kv¨øª/©Q?goú<ë:±£¢Òº6Xël;}{¶2t3ÈùôÖßèå9º+sstl y¼nÙYªS;ø~SI_ïÙå'´Nÿ²Ø¥ªß¦Ì)éZÓÕâVuiØÄqëJ,r	0Eh¦ö+âõ%Bo:Þ[ê»´âèªûYØÛæ6shTyeì.ebfq?¿´'sä:àxL¤Fr9_Ôá¬ð "ÚfblèBªQn,:*h¥Dö£@ïòRèQWê¥
-M \ÞÎäs.6ÎFµîËÿ+ò%Æ@b¤gëö¦é¶ þ¡59[®"vgÞo±©®Qs7·8\êØ¾4ÏJücO)?ü))ê¹ÁÝqí¦8|ì2§)êôYd±çí6©#~Tu	,}ùwÔë@ÿL(·¶ÔE 'YN
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?encryption=none&fp=qq&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%F0%9F%AB%9019@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#%F0%9F%87%B3%F0%9F%87%B1%5B@V2raysCollector%5D%20ss-NL
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&fp=firefox&security=reality&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&sid=dd#0040-NetFreedom0
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?encryption=none&security=none&type=grpc#%F0%9F%9A%9826@oneclickvpnkeys
 vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&security=reality&sid=a120&sni=cdn.cdnjst.org&type=tcp#%F0%9F%8C%BB71@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?type=tcp#%40V2raysCollector%20%E2%98%83%EF%B8%8F
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi05NyIsICJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogIm8ubWV0dWppLmNvbSIsICJwYXRoIjogIi9saW5rdndzIn0=
@@ -503,3 +496,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcjZFQ0ZyQ0dCR0M3dWdPS2FVNVpB@5.253.59.156:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcjZFQ0ZyQ0dCR0M3dWdPS2FVNVpB@5.253.59.156:32140#✈️1@NetFlowTools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ2dtcTY1OHZjMmVqM1NF@20.223.176.12:443#@V2dogs_n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ2dtcTY1OHZjMmVqM1NF@20.223.176.12:443#@erfanandroid
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ2dtcTY1OHZjMmVqM1NF@20.223.176.12:443#@routel1 🖤
+ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446?note=@FreeOnlineVPN#🇮🇷 - IR - @FreeOnlineVPN
+ss://Y2hhY2hhMjAtcG9seTEzMDU6bEZESHRhWGhYa0FpaUE5Q1ZvRVh1ay8vTDVuODF3QkhoakVwM25PRWNUST0=@tel.moyanri.org:47377#@outline_ir
+ss://Y2hhY2hhMjAtcG9seTEzMDU6bEZESHRhWGhYa0FpaUE5Q1ZvRVh1ay8vTDVuODF3QkhoakVwM25PRWNUST0=@tel.moyanri.org:47377#@vmess_ir
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dUV1M3hRTXhCVEwwUFNNYk9tMERSOUVsRXVSY3ZWM3JhQzlsVmpXUDVuND0@net12.shaygan.site:2095#https://t.me/v2rayNplus |🇬🇧
+ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:11696#🇲🇾 马来西亚
+ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:22039#🇯🇵 日本
