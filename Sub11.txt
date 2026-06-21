@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cc0ce0ab-7286-4183-85f5-e855c052aef7@91.107.176.136:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
 vless://cc0ce0ab-7286-4183-85f5-e855c052aef7@91.107.176.136:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://cc2282b8-eceb-493b-9fd2-0c898840f6ee@45.197.134.30:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=445ab326fc7c90ac#telegram @mtmvpn
 vless://cc49ff13-bb0d-476e-ae08-41dfd79a9d37@188.114.98.0:80?encryption=none&type=ws&host=cdn2095.dgclix.ir&path=/&security=none#@Evay_vpn
@@ -503,3 +502,4 @@ vless://f07d5ce6-0de7-4be8-905b-de676c3138ae@2.27.59.62:42766?security=reality&e
 vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#25🐝Tel--@V2rayAlpha
 vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#برای اتصال دائمی جوین شو🎏 TelegramID ⌲Express_freevpn 🪩
 vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#@ReleaseNet
