@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#TEL;Father_vpn
+vless://1bb73678-ae3c-4bf2-bb16-74d4e132b099@31.210.52.42:443?security=reality&encryption=none&pbk=W58BNG-2mtSvQYg7Id1yuW2-XqtLj0zoutETNsQuWkA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tr-ist-3.blook.network&sid=45f9dc94#31🐝Tel--@V2rayAlpha
 vless://1c111ccf-bc41-4f4e-a641-ebefe04e6306@snapp.ir:80?path=/&security=none&encryption=none&host=veryfast2.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام
 vless://1c111ccf-bc41-4f4e-a641-ebefe04e6306@snapp.ir:80?type=ws&encryption=none&path=/&host=veryfast2.ir&security=none#@configprxy
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=fi.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#@V2dogs_n
@@ -501,5 +503,3 @@ vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2095?path=/&security=none&
 vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2095?path=/&security=none&encryption=none&host=lizardf1.fastshop11.ir&type=ws#🇮🇷IR-🚀@VPNine1
 vless://41dcf135-49a8-45ee-85ac-581731e0fa2c@185.226.93.160:1102?encryption=none&fp=chrome&pbk=pn91tsuZ1PlyIi2l80Ei28jXgvPrnuVsBseihnlpVxg&security=reality&sid=584a18e749209589&sni=yahoo.com&spx=/VJO40r0Tu05fVkG&type=tcp#TRY-FREE_1TR-1000.00GB📊
 vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#@tanhanet
-vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#IR-@V2rayAlpha-14
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (3)
