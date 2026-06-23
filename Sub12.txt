@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#@v2rayconfigamir 2960
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=r1.mizulina.top#@v2rayconfigamir 3047
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#⛵82@oneclickvpnkeys
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#⛵28@oneclickvpnkeys
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&host=/?BIA_TELEGRAM@ShadowProxy66&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=r1.mizulina.top#Channel id: @internet_azad_2026 🇷🇺
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#@icv2ray
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Proxy_Se7en
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#Proxy_Se7en
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#@internet_azad_2026:کانال ما
@@ -497,9 +503,3 @@ vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=realit
 vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&encryption=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=05fdaa8a05be46a9#@confiig_hub
 vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&encryption=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=05fdaa8a05be46a9#telegram @mtmvpn 18
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#
-vless://d67fae6d-65a9-4c28-adca-130ba9a91bc7@70.34.217.248:443?security=none&encryption=none&headerType=none&type=tcp#@iguanaVPN 1
-vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
-vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=ChromeAppleWebKit.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️409🌐🆕️
-vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?security=reality&encryption=none&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&headerType=none&fp=chrome&spx=/qEkmsqpbLOu9tps&type=tcp&sni=www.wechat.com&sid=a7#@IRANI13✨
-vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?security=reality&encryption=none&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&headerType=none&fp=chrome&spx=/qEkmsqpbLOu9tps&type=tcp&sni=www.wechat.com&sid=a7#@bored_vpn
-vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?security=reality&encryption=none&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&headerType=none&fp=chrome&spx=/qEkmsqpbLOu9tps&type=tcp&sni=www.wechat.com&sid=a7#@confiig_hub

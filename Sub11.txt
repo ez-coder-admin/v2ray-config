@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#TEL;Father_vpn
+vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&security=reality&sid=9d84de9d9f7b85e9&sni=&type=tcp#🇱🇹LT-🚀@VPNine1
+vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&security=reality&sid=9d84de9d9f7b85e9&sni=lt.edge-9d7c.com&type=tcp#🇱🇹LT-🚀@VPNine1
+vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&security=reality&sid=9d84de9d9f7b85e9&sni=lt.edge-9d7c.com&type=tcp#🐬17@oneclickvpnkeys
+vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&security=reality&sid=9d84de9d9f7b85e9&sni=lt.edge-9d7c.com&type=tcp#🔵@chillguy_vpn
+vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=lt.edge-9d7c.com&sid=9d84de9d9f7b85e9#🔵@chillguy_vpn
 vless://966db920-cb72-446c-9dd6-45ba53372275@lt.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lt.edge-9d7c.com&sid=9d84de9d9f7b85e9#@erfanandroid
 vless://9678a26b-d92f-4b62-8ca9-d02c4edf8e1a@ipadvpn.dpdns.org:80?security=&encryption=none&host=paly.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://9678a26b-d92f-4b62-8ca9-d02c4edf8e1a@ipadvpn.dpdns.org:80?security=&encryption=none&host=paly.google.com&headerType=http&type=tcp#🇫🇮 @rayhub_ir 0623-3
@@ -497,9 +503,3 @@ vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reali
 vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&encryption=none&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3b0b73e5#@V2raySup0 | 🚀
 vless://afc442ef-98da-47db-a0ed-a2152545cbb3@162.19.0.122:26181?security=none&encryption=none&headerType=none&type=tcp#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️421🌐🆕️
 vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?mode=gun&security=reality&encryption=none&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&fp=chrome&type=grpc&serviceName=GrpcFuckRKN&sni=www.microsoft.com&sid=deadbeef#@v2rayngzendegimamad🕊️
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#@v2rayconfigamir 2960
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=r1.mizulina.top#@v2rayconfigamir 3047
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#⛵82@oneclickvpnkeys
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#⛵28@oneclickvpnkeys
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&host=/?BIA_TELEGRAM@ShadowProxy66&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=r1.mizulina.top#Channel id: @internet_azad_2026 🇷🇺
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#@icv2ray
