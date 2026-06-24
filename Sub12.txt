@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b92ed761-7503-40fc-ab5d-b7d164cf9758@194.116.236.15:443?security=reality&encryption=none&pbk=k6u9NGgIiiz2k4N73VIwNu7BnNJUH9ub0NKxOGv40CI&headerType=none&fp=chrome&spx=/bzg87wrYin5v5lV&allowinsecure=0&type=tcp&sni=varzesh3.com&sid=8c7f585e7e7b243e#🇩🇪All⁹ | @NewsDarya
-vless://b92ed761-7503-40fc-ab5d-b7d164cf9758@194.116.236.15:443?security=reality&encryption=none&pbk=k6u9NGgIiiz2k4N73VIwNu7BnNJUH9ub0NKxOGv40CI&headerType=none&fp=chrome&spx=/bzg87wrYin5v5lV&allowinsecure=0&type=tcp&sni=varzesh3.com&sid=8c7f585e7e7b243e#🔵@chillguy_vpn
 vless://b92ed761-7503-40fc-ab5d-b7d164cf9758@194.116.236.15:443?security=reality&encryption=none&pbk=k6u9NGgIiiz2k4N73VIwNu7BnNJUH9ub0NKxOGv40CI&headerType=none&fp=chrome&spx=/bzg87wrYin5v5lV&type=tcp&sni=varzesh3.com&sid=8c7f585e7e7b243e#@FarazV2ray
 vless://b92ed761-7503-40fc-ab5d-b7d164cf9758@194.116.236.15:443?security=reality&encryption=none&pbk=k6u9NGgIiiz2k4N73VIwNu7BnNJUH9ub0NKxOGv40CI&headerType=none&fp=chrome&spx=/bzg87wrYin5v5lV&type=tcp&sni=varzesh3.com&sid=8c7f585e7e7b243e#@filembad
 vless://b92ed761-7503-40fc-ab5d-b7d164cf9758@194.116.236.15:443?security=reality&encryption=none&pbk=k6u9NGgIiiz2k4N73VIwNu7BnNJUH9ub0NKxOGv40CI&headerType=none&fp=chrome&spx=/bzg87wrYin5v5lV&type=tcp&sni=varzesh3.com&sid=8c7f585e7e7b243e#برای اتصال دائمی جوین شو🍭 TelegramID ⌲Express_freevpn 🪩
@@ -503,3 +501,5 @@ vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?encryption=none&
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#@Soul737
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#@V2VODKA_A🇫🇮
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#Proxy_Se7en
+vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@194.87.24.181:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#@V2VODKA_A🇩🇪
+vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@31.77.56.79:443?mode=gun&security=reality&encryption=none&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&fp=chrome&type=grpc&serviceName=vless-grpc&sni=yahoo.com#@V2VODKA_A🇵🇱
