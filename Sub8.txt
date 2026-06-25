@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4c7baf58-8ecb-44b0-9656-2b9247dd8290@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=Fijji.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#@hopev2ray❤️
-vless://4c7baf58-8ecb-44b0-9656-2b9247dd8290@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=Fijji.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#@hopev2ray💛
 vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?mode=auto&path=/mammadalifsx&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wizardali.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@flyv2ray
 vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?mode=auto&path=/mammadalifsx&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wizardali.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
 vless://4c9b304f-ec00-41af-be5b-aa3f22ed430e@fsxhh.fastshop1.com:443?mode=auto&path=/mammadalifsx&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=wizardali.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🇺🇸@FreakConfig
@@ -503,3 +501,5 @@ vless://74b1f2da-0e37-4795-b1df-a2896d5e7cde@172.64.149.54:443?encryption=none&t
 vless://7506af01-9326-4c2f-ab77-1f568435777a@admin.console.support.admin.iranvatanam.com:700?encryption=none&type=tcp&headerType=http&host=rubika.ir,igap.net,splus.ir,skyroom.online#@vpng3 [5]
 vless://7521b247-9b73-46ab-8bae-341ee17f2efc@185.143.235.201:80?path=/&security=none&encryption=none&host=t1i6.niropardaz.ir&type=ws#@Ap_Ir6
 vless://7535a03c-f38c-431c-9ca8-98ee653dcc49@mail.erwinhoda.shop:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=mail.erwinhoda.shop&fp=chrome&type=ws&allowInsecure=0&sni=mail.erwinhoda.shop#5324 | @WetConfig~FREE
+vless://7535a03c-f38c-431c-9ca8-98ee653dcc49@mail.erwinhoda.shop:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=mail.erwinhoda.shop&fp=chrome&type=ws&allowInsecure=0&sni=mail.erwinhoda.shop#5324 | @WetConfig~FREE-TUN🇫🇮
+vless://76420ede-08de-4869-abeb-ad2d11729386@DaSHBoard.mobileatlass.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@Soul737
