@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=/in-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#@V2raySup0 | 🚀
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?path=/&security=none&encryption=none&host=sRv79.hAMiIbaR.CoM&type=ws#🇸🇨 @GozargahVPN
 vless://233033dd-cb53-48c9-bd1a-5e50595f26fb@151.101.69.219:443?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nlqeshm.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@freenettir
 vless://233033dd-cb53-48c9-bd1a-5e50595f26fb@151.101.69.219:443?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nlqeshm.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@meliproxyy
 vless://233033dd-cb53-48c9-bd1a-5e50595f26fb@151.101.69.219:443?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nlqeshm.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
@@ -503,3 +501,5 @@ vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@90.156.254.168:443?mode=auto&securi
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.16.80.73:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.16.56:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
+vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.4.130:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
+vless://4b581293-af3a-4658-b9b2-06949626bf86@172.64.149.54:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
