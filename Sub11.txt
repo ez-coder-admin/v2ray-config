@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://SoonTeam@sexi.carderrr.com:443?encryption=none&host=anten.ir&type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI فروش کانفیگ اختصاصی ایوب رئیسی,&mode=multi&security=tls& encryption=none&path=/telegram@SoonTeam&security=none&type=ws#🇩🇪@V2RAYNGRAISI | All
 vless://SoonTeam@sexi.carderrr.com:443?path=/telegram@SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#@outline_ir
 vless://SoonTeam@sexi.carderrr.com:443?path=/telegram@SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#@vmess_ir
 vless://Te-HqV2rayNG-HqV2rayNG@vtodkcdisnc.fars-daxter.ir:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Vpn_jet7(100gig)
@@ -502,4 +503,3 @@ vless://c60fecb9-a768-464e-8eaf-2541c0ba018a@5.75.207.247:44004?security=reality
 vless://c60fecb9-a768-464e-8eaf-2541c0ba018a@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=/&flow=xtls-rprx-vision#@ReleaseNet
 vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?path=/data/list/out.php?ed&security=tls&encryption=none&insecure=0&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev#@vmesskhodam
 vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?security=tls&type=ws&ech=godotengine.org+udp://208.67.220.220:443&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&fp=chrome&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&path=/data/list/out.php?ed=2560&encryption=none#@v2rayconfigamir 5370
-vless://c61ac406-6661-4f55-a731-fd48f4c03079@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
