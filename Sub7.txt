@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=/CXHW9vl2PReWApP&allowinsecure=0&type=tcp&sni=www.yahoo.com&sid=f563cb8c#@meliproxyy
 vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=/CXHW9vl2PReWApP&type=tcp&sni=www.yahoo.com&sid=f563cb8c#@flyv2ray
 vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=/CXHW9vl2PReWApP&type=tcp&sni=www.yahoo.com&sid=f563cb8c#@icv2ray
 vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=/CXHW9vl2PReWApP&type=tcp&sni=www.yahoo.com&sid=f563cb8c#𝗝𝗢𝗜𝗡 ➣@best_internet_iran
@@ -503,3 +502,4 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.174.3:443?path=/poiuyws&secu
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?path=/poiuyws&security=tls&encryption=none&insecure=1&host=amoosamiii.net&type=ws&allowInsecure=1&sni=amoosamiii.net#@Soul737
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?encryption=none&security=tls&sni=amoosamiii.net&insecure=0&allowInsecure=0&type=ws&host=amoosamiii.net&path=/poiuyws#@Daily_Configs
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?encryption=none&security=tls&sni=amoosamiii.net&insecure=0&allowInsecure=0&type=ws&host=amoosamiii.net&path=/poiuyws#Tel:@Daily_Configs
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&host=amoosamiii.net&allowinsecure=0&type=ws&sni=amoosamiii.net#@meliproxyy
