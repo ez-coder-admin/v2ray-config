@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7e8158b0-449d-4350-b2b0-52b485aabc5e@151.101.69.219:443?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nlqeshm.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@prrofile_purple  ♥️👈 تلگرام
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.100:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#@Daily_Configs
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.113:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&securit=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c#🇸🇨SC-🚀@VPNine1
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.116:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#@NETMelliAnti
@@ -503,3 +502,4 @@ vless://8fb6e894-b929-491a-a25a-8e7d395dda8d@poom.hardvezoo.ir:5875?security=non
 vless://8fb6e894-b929-491a-a25a-8e7d395dda8d@poom.hardvezoo.ir:5875?security=none&encryption=none&type=ws#🇩🇪@FreakConfig
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#🇺🇸US-🚀@VPNine1
+vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#canfingV2rayNG-307

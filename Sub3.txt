@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443?security=tls#%F0%9F%87%AC%F0%9F%87%B7GR%E5%B8%8C%E8%85%8A3%201.5MB%2Fs
 trojan://MITIVPN@151.101.110.219:443?security=tls&type=ws&sni=global.fastly.com&path=/ed=mitivpn&host=mitivpn-6.global.ssl.fastly.net#%E6%9C%AA%E7%9F%A527
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgNDQuNU1CL3MiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUyJ9
@@ -503,3 +502,4 @@ trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&secu
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45553?security=tls&sni=ch.01.naiun.bilibili.com#[83496] - Telegram : @V2All
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45553?security=tls&sni=ch.01.naiun.bilibili.com#🇭🇰HK-🚀@VPNine1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45619?security=tls&sni=fr.01.naiun.bilibili.com#🇭🇰HK-🚀@VPNine1
