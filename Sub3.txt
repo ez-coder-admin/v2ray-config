@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vmess://eyJ2IjoiMiIsInBzIjoiSEsyIiwiYWRkIjoiMTMxLjE4Ni42My44OSIsInBvcnQiOiIxMTY1NSIsImlkIjoiNGJmMDc1ZjUtNGQ1ZS00ZDM5LWY1YWItYjMyYTg2MjUwZjBlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiaGsubmJlZS5wcC51YSIsInBhdGgiOiIvYWEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoay5uYmVlLnBwLnVhIiwidGVzdF9uYW1lIjoiSEsyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjUiLCJhZGQiOiIyMC4xOTMuMTUzLjE5IiwicG9ydCI6IjE1ODM0IiwiaWQiOiIzOWE4YzM3NC03NmIxLTRlOTAtYWI4NS04NWNkOWE0MmRlZDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IlRBQlJJWi5ORVQiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjUifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjYiLCJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjEwMDZhOTI4LTIwMjEtNGEzYi1iZWI1LWQ1ODUzYzYyODFjNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjYifQ==
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ2dtcTY1OHZjMmVqM1NF@20.223.176.12:443#@rou
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQzVOTko1a0Z5Z01HbWVUd01NSVBLQzViLWo4WUJmSA@p4.hoomankh.info:1080#telegram @mtmvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpycnlsOTRpbGYyZzdrejR0@31.57.158.48:1006#@Soul737
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpycnlsOTRpbGYyZzdrejR0@31.57.158.48:1006#@erfanandroid
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpycnlsOTRpbGYyZzdrejR0@31.57.158.48:1006#kurdconfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpycnlsOTRpbGYyZzdrejR0@31.57.158.48:1006#🇱🇻 @FreakConfig
