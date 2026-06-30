@@ -4,6 +4,10 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+vless://35f332d0-0b05-4cc6-91cb-ec0d4465055f@144.31.38.207:16750?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#EPODONIOS
+
+vless://35f332d0-0b05-4cc6-91cb-ec0d4465055f@96.47.230.5:38384?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=my.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#EPODONIOS
+
 vless://3786e67a-41eb-4b92-b31e-417e89493b93@144.31.38.207:27689?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#EPODONIOS
 
 vless://3b475934-cb2a-4d96-b260-5e50cca5d430@144.31.38.207:49119?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#EPODONIOS
@@ -499,7 +503,3 @@ vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv4.yunus.guru:443?type=tcp&sec
 vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?type=tcp&security=none&encryption=none&seq=you_are_beautiful3519#EPODONIOS
 vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?type=tcp&security=none&encryption=none&descriptions=люби_себяce3ebc#EPODONIOS
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv3.yunus.guru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Aiyev_-czR8WG7l15BQDsHL7VwJVQe3W7SEfxbRk0W4&sid=b28896ec1669a951&sni=rezerv3.yunus.guru#EPODONIOS
-vless://c897facf-2836-4538-be6e-25386fb49284@159.195.60.190:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=4wQjPB3VmJXy_VEecZl2vut6SAerBMPOldUrOV-Je0I&sid=87119a6de24e23ca&sni=free2.anotherboring.top#EPODONIOS
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com#EPODONIOS
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.94:8443?security=tls&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#EPODONIOS
-vless://ad73ff14-a0e3-46d1-adc0-02ca29a32485@18.153.81.34:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
