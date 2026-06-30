@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=client.imesaagetext.ir#EPODONIOS
 vless://887ad9d0-85bd-495f-b4af-10b066d32b9c@5.75.200.19:31742?authority=&encryption=none&fp=chrome&mode=multi&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&security=reality&serviceName=&sid=16&sni=play.google.com&spx=/EltGJv6ZnEV16NH&type=grpc#EPODONIOS
 vless://887ad9d0-85bd-495f-b4af-10b066d32b9c@65.109.177.195:5742?authority=&encryption=none&fp=chrome&mode=multi&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&security=reality&serviceName=&sid=8e354dc7dcee03fe&sni=play.google.com&spx=/PPidHlXz6pKOirC&type=grpc#EPODONIOS
 vless://88cf57c3-11cc-4496-b4cc-edcf21324bf9@all.lorqina.ir:8880?security=reality&encryption=none&pbk=dISkAZV3LXVBa9yM02MoyFqajSLFqXrTj74ywRzKjiY&headerType=none&fp=chrome&spx=/FwXbr8cHerXGG2N&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=2b32c8e270dce2#EPODONIOS
@@ -502,4 +503,3 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&s
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#EPODONIOS
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/LiL?ed=2560&sni=kingcloud.biack.ir&fp=chrome&alpn=h3#EPODONIOS
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#EPODONIOS
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#EPODONIOS
