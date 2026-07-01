@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@vpnbaz 🎩
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#Proxy_Se7en
-trojan://humanity@91.193.58.77:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@V2raySup0🚀
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2raySup0 | 🚀
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
@@ -503,3 +499,7 @@ vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:2048?path=/&securi
 vless://1524d56d-4cb5-41e3-8490-15a2611a816e@57.131.18.123:13355?encryption=none&security=none&type=tcp&headerType=none#🇮🇹IT_497_@Surfboardv2ray
 vless://15421ec9-f4bd-4f77-9f91-3718909f54bd@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=1&host=hormiz5.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.com#telegram @mtmvpn
 vless://15634a62-7add-473b-a76c-cf26d158850d@89.105.206.151:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=nl.quattro-tech.ru&type=tcp#⛳2@oneclickvpnkeys
+vless://159101fb-aa1d-9052-0f89-ba14cb8aee5f@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/159101fb-aa1d-9052-0f89-ba14cb8aee5f#98
+vless://15ce0fde-88e2-42b0-91e6-e4a1b4568f6e@104.16.72.41:8880?path=/pyip&security=&encryption=none&host=old-truth-de8a.110-187.workers.dev&type=ws#@meliproxyy
+vless://15ce0fde-88e2-42b0-91e6-e4a1b4568f6e@104.16.72.41:8880?path=/pyip&security=&encryption=none&host=old-truth-de8a.110-187.workers.dev&type=ws#🚀@VPNine1
+vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=/path&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#@NetZone_ir
