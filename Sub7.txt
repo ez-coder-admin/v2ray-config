@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2390502c-ceb9-420b-a4f4-a37aa4c1867d@nodejs.org:8443?path=/eyJqdW5rIjoiTWhyY2V4ZEc1MUIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.naderyakoza.workers.dev&fp=chrome&type=ws&sni=v2nGFast.nadERYaKoZA.Workers.dev#🇩🇪 @V2ngFast
+vless://23aa8047-09f3-4679-9ae9-c9de38ddfb39@fr1.coconutstrip.co:443?security=reality&encryption=none&pbk=MuFRWLhc6KtuUPHjhFTpnYvS8LTK2ypvJbf5O9kl2HY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr1.coconutstrip.co#🇫🇷FR-🚀@VPNine1
 vless://23aa8047-09f3-4679-9ae9-c9de38ddfb39@it1.coconutstrip.co:443?security=reality&encryption=none&pbk=QzZ91hlWiCRGnT3y6bn4hVEDuCg1ftBb6g-wI5Rl000&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it1.coconutstrip.co#[84923] - Telegram : @V2All
 vless://23aa8047-09f3-4679-9ae9-c9de38ddfb39@it1.coconutstrip.co:443?security=reality&encryption=none&pbk=QzZ91hlWiCRGnT3y6bn4hVEDuCg1ftBb6g-wI5Rl000&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it1.coconutstrip.co#🇮🇹IT-🚀@VPNine1
 vless://23aa8047-09f3-4679-9ae9-c9de38ddfb39@nl1.coconutstrip.co:443?security=reality&encryption=none&pbk=QzZ91hlWiCRGnT3y6bn4hVEDuCg1ftBb6g-wI5Rl000&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.coconutstrip.co#[84932] - Telegram : @V2All
@@ -501,5 +503,3 @@ vless://40b5d855-87d4-41a1-8fd4-e3b5761d58fc@209.250.255.14:8443?mode=auto&path=
 vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#⛳3@oneclickvpnkeys
 vless://40de6299-d792-4868-8a82-411ead0aa943@nl.go-vpn.club:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#💙74@NetFlowTools
 vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=/&security=none&encryption=none&host=mci.ir&type=httpupgrade#TEL;Father_vpn
-vless://40fee7bd-0bfd-448b-8813-27a6713cf9ef@65.109.218.60:1010?encryption=none&type=httpupgrade&path=/#@hi_proxy_iran :👈کانال تلگرام
-vless://40fee7bd-0bfd-448b-8813-27a6713cf9ef@65.109.218.60:1010?encryption=none&type=httpupgrade&path=/#@meliproxyy

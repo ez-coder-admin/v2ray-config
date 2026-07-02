@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://SoftNetConnect@83.228.228.243:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=/#@MoOon_proxy (2🇨🇭⚡)
+trojan://SoftNetConnect@83.228.228.243:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=c7#[84938] - Telegram : @V2All
 trojan://SoftNetConnect@83.228.228.243:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=c7#🇨🇭CH-🚀@VPNine1
 trojan://SoftNetConnect@83.228.228.243:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=/#@MoOon_proxy (🇨🇭⚡)
 trojan://SoftNetConnect@83.228.228.243:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=/#@MoOon_proxy (🇨🇭⚡)   trojan
@@ -501,5 +503,3 @@ vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:4227?encryption=none&f
 vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#@v2raybaaz ³
 vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#@v2raybaaz ⁴
 vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#CA 🇨🇦 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#FNL🇫🇮 | @v2raybaaz
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=/sw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#FR🇫🇷 | @v2raybaaz
