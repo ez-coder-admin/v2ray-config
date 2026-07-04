@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=/?ed=2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade&note=@FreeOnlineVPN#EPODONIOS
+vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#EPODONIOS
 vless://a2919d43-b36b-4c34-af88-36bdc6f8e01d@212.193.153.93:443?path=/v1/data/sync/&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=s58794.cdn.ngenix.net#EPODONIOS
 vless://a2a74dab-ffc3-8adc-385c-614c04ce7d5b@subgift-production-aeb1.up.railway.app:443?path=/ws/a2a74dab-ffc3-8adc-385c-614c04ce7d5b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift-production-aeb1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift-production-aeb1.up.railway.app#EPODONIOS
 vless://a36b1024-70b2-476e-9caf-0fd644d5b9ac@fanlandv3.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=chrome&type=grpc&sni=yahoo.com&sid=a7f1b353c9e43d98#EPODONIOS
@@ -501,5 +503,3 @@ vless://d2e67b91-1891-496f-a593-7e82583f4bc4@104.17.122.42:443?path=/In_Panel_Ra
 vless://d2e67b91-1891-496f-a593-7e82583f4bc4@172.67.105.91:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-9bnrhq.zeus-9hjofa.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-9bnrhq.zeus-9hjofa.workers.dev#EPODONIOS
 vless://d2e67b91-1891-496f-a593-7e82583f4bc4@172.67.147.237:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-9bnrhq.zeus-9hjofa.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-9bnrhq.zeus-9hjofa.workers.dev#EPODONIOS
 vless://d2e67b91-1891-496f-a593-7e82583f4bc4@199.181.197.172:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-9bnrhq.zeus-9hjofa.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-9bnrhq.zeus-9hjofa.workers.dev#EPODONIOS
-vless://d2e67b91-1891-496f-a593-7e82583f4bc4@199.181.197.215:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-9bnrhq.zeus-9hjofa.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-9bnrhq.zeus-9hjofa.workers.dev#EPODONIOS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?path=twitterfreecodessecurity&security=tls&encryption=none&type=ws&sni=a.ssll.gay#EPODONIOS

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#EPODONIOS
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#EPODONIOS
 vless://268796e5-9933-4342-a95e-246b21436c98@57.131.19.193:443?encryption=none&fp=chrome&pbk=AfivVtkqkVstEWkYEknp4j9ShFEbZC6GhyCXQ-VKqGg&security=reality&sid=aae1a7abe47db23f&sni=www.yahoo.com&spx=/t96P95TZesLmGVR&type=tcp#EPODONIOS
 vless://268796e5-9933-4342-a95e-246b21436c98@57.131.19.193:443?security=reality&encryption=none&pbk=AfivVtkqkVstEWkYEknp4j9ShFEbZC6GhyCXQ-VKqGg&headerType=&fp=chrome&spx=/t96P95TZesLmGVR&type=tcp&sni=www.yahoo.com&sid=aae1a7abe47db23f#EPODONIOS
 vless://268796e5-9933-4342-a95e-246b21436c98@57.131.19.193:443?security=reality&encryption=none&pbk=AfivVtkqkVstEWkYEknp4j9ShFEbZC6GhyCXQ-VKqGg&headerType=none&fp=chrome&spx=/t96P95TZesLmGVR&type=tcp&sni=www.yahoo.com&sid=aae1a7abe47db23f#EPODONIOS
@@ -501,5 +503,3 @@ vless://544129ad-a0bd-4af8-8887-5ff7c414217e@bernar.hardvezoo.ir:6764?security=n
 vless://544129ad-a0bd-4af8-8887-5ff7c414217e@bernar.hardvezoo.ir:6764?security=none&type=ws&headerType=&path=&host=#EPODONIOS
 vless://544129ad-a0bd-4af8-8887-5ff7c414217e@bernarg.hardvezoo.ir:6764?security=none&type=ws&headerType=&path=&host=#EPODONIOS
 vless://544129ad-a0bd-4af8-8887-5ff7c414217e@pishi.hardvezoo.ir:2820?security=none&type=ws&headerType=&path=&host=#EPODONIOS
-vless://544129ad-a0bd-4af8-8887-5ff7c414217e@pishi.hardvezoo.ir:3291?security=none&type=ws&headerType=&path=&host=#EPODONIOS
-vless://544129ad-a0bd-4af8-8887-5ff7c414217e@pishi.hardvezoo.ir:5875?security=none&type=ws&headerType=&path=&host=#EPODONIOS
