@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?Telegram🇨🇳@WangCai2=#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?telegram🇨🇳+@wangcai2=#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/#@GrizzlyVPN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=1&allowInsecure=1&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@APPXA#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram @v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@v2rayngzendegimamad🕊️
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?path=/&security=&encryption=none&host=vms.lifetime61.workers.dev&type=ws#🚀 t.me/iProxyChannel 16
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=/Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Telegram : @V2ynpv
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.109.30:8880?path=/&security=&encryption=none&host=vms.lifetime18.workers.dev&type=ws#🚀 t.me/iProxyChannel 2
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#IR-@V2rayAlpha-5
@@ -495,11 +503,3 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=/r
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@one_shop_official
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🚀 t.me/iProxyChannel 3
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&type=ws&sni=shegeftihaaa.net#@appsooner کانال تلگرام 🕊️
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@V2raySup0🚀
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@v2rayNplus |🇩🇪
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=&encryption=none&headerType=none&type=tcp#Proxy_Se7en
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=&encryption=none&headerType=none&type=tcp#🚀 t.me/iProxyChannel 1
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=&encryption=none&host=/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=none&type=tcp#🚀 t.me/iProxyChannel 8
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹⁴
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@SylphNet | 2026-06-27 02:12
-vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@SylphNet | 2026-06-27 04:17
