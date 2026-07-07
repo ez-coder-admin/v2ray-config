@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@www.speedtest.net:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=fl.gamelistak.com&mode=auto&path=/@MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
 vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?path=/&security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=httpupgrade#Proxy_Se7en
 vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?path=/&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#FREE_VPn02
 vless://a10dab76-0f3a-42bb-979f-2648085de252@104.24.170.78:443?alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=chrome&host=du1.gamelistak.com&mode=auto&path=/https://t.me/MrNexTV2RAY&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#@MrNexTV2RAY
@@ -502,4 +503,3 @@ vless://b8cd6ca4-57ad-b45c-db2f-c2c560e3cd3d@tmesubgift.up.railway.app:443?encry
 vless://b92b74e6-68b3-ab8d-ee22-6d2ff694bb50@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b92b74e6-68b3-ab8d-ee22-6d2ff694bb50#107
 vless://b96d18f1-eb38-47e9-ae79-42e78fcc0ff8@89.167.1.117:24329?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@NETMelliAnti
 vless://b96d18f1-eb38-47e9-ae79-42e78fcc0ff8@kia.ipsafe2.site:24329?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@Daily_Configs
-vless://b96d18f1-eb38-47e9-ae79-42e78fcc0ff8@kia.ipsafe2.site:24329?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray

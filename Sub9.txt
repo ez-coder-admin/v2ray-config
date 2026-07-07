@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://564397f8-4805-4433-ab5b-a24aa133bac2@104.167.24.21:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#@V2ray_confiig
 vless://564397f8-4805-4433-ab5b-a24aa133bac2@104.167.24.21:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
 vless://564397f8-4805-4433-ab5b-a24aa133bac2@104.167.24.21:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#🕊️Tel: @Proxy_Vpney (2)
 vless://564397f8-4805-4433-ab5b-a24aa133bac2@app.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=AmAdR0vhSJczokH8dMt81F-6BGFyKPtBwuxqbuPlyAk&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=app.oneoker.com&sid=1c63aa937542d3c0#@SPDNET-FAST3 🇩🇪
@@ -502,4 +503,3 @@ vless://766f6c65-0000-4000-8000-7870726f7379@jolly-grass-9f97.nahantest2w.worker
 vless://766f6c65-0000-4000-8000-7870726f7379@jolly-grass-9f97.nahantest2w.workers.dev:443?path=/volexprosy&security=tls&encryption=none&insecure=0&host=jolly-grass-9f97.nahantest2w.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jolly-grass-9f97.nahantest2w.workers.dev#@volexproxy نامحدود
 vless://766f6c65-0000-4000-8000-7870726f7379@jolly-grass-9f97.nahantest2w.workers.dev:8080?path=/volexprosy&security=&encryption=none&host=jolly-grass-9f97.nahantest2w.workers.dev&fp=chrome&type=ws&sni=jolly-grass-9f97.nahantest2w.workers.dev#@volexproxy نامحدود8
 vless://766f6c65-0000-4000-8000-7870726f7379@jolly-grass-9f97.nahantest2w.workers.dev:80?path=/volexprosy&security=&encryption=none&host=jolly-grass-9f97.nahantest2w.workers.dev&fp=chrome&type=ws&sni=jolly-grass-9f97.nahantest2w.workers.dev#@volexproxy نامحدود7
-vless://766f6c65-0000-4000-8000-7870726f7379@jolly-grass-9f97.nahantest2w.workers.dev:8443?path=/volexprosy&security=tls&encryption=none&insecure=0&host=jolly-grass-9f97.nahantest2w.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jolly-grass-9f97.nahantest2w.workers.dev#@volexproxy نامحدود6
