@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://SoftNetConnect@213.108.20.209:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=96a17085678b#EPODONIOS
+trojan://SoftNetConnect@213.108.20.209:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=141b14d8#EPODONIOS
+trojan://SoftNetConnect@213.108.20.209:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=c7#EPODONIOS
+trojan://SoftNetConnect@213.165.44.57:2087?mode=auto&path=/&security=reality&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=MDvbl1ruvtvzUK0dGetdw_5-T04ZyeTvS0qZ3SKmh0g&fp=chrome&spx=/TR0Ze7nnj1Hp7xF&type=xhttp&sni=s.yimg.com&sid=6693ba492b61f1#EPODONIOS
+trojan://SoftNetConnect@83.228.251.119:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#EPODONIOS
+trojan://SoftNetConnect@83.228.251.119:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=141b14d8#EPODONIOS
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#EPODONIOS
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#EPODONIOS
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none@NebulaVPNx#EPODONIOS
+trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#EPODONIOS
+trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=185.126.236.190#EPODONIOS
+trojan://ZJU29smXwp@172.67.191.189:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#EPODONIOS
+trojan://ZJU29smXwp@172.67.68.87:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#EPODONIOS
+trojan://ZJU29smXwp@45.85.118.0:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#EPODONIOS
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=38.60.202.163#EPODONIOS
+trojan://ZpUUBCgWT3k6PriIFDccEs5RVRclJb9CL1LvF+yJTjY=@94.139.179.9:52321?type=tcp&security=none#EPODONIOS
 trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?sni=cdn.qchwnd.moe#EPODONIOS
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.120:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
@@ -487,19 +503,3 @@ vless://0d3a1068-d74e-4d5c-a880-4aa4f1c9dd30@104.16.72.232:8443?encryption=none&
 vless://0d3a1068-d74e-4d5c-a880-4aa4f1c9dd30@104.17.160.94:8443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=sub4.kaliconnect.dpdns.org&sni=sub4.kaliconnect.dpdns.org&alpn=h3,h2,http/1.1#EPODONIOS
 vless://0d3a1068-d74e-4d5c-a880-4aa4f1c9dd30@104.18.153.130:8443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=sub4.kaliconnect.dpdns.org&sni=sub4.kaliconnect.dpdns.org&alpn=h3,h2,http/1.1#EPODONIOS
 vless://0d3a1068-d74e-4d5c-a880-4aa4f1c9dd30@49.13.220.86:8443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=sub4.kaliconnect.dpdns.org&sni=sub4.kaliconnect.dpdns.org&alpn=h3,h2,http/1.1#EPODONIOS
-vless://0d3a1068-d74e-4d5c-a880-4aa4f1c9dd30@www.chatgpt.com:8443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=sub4.kaliconnect.dpdns.org&sni=sub4.kaliconnect.dpdns.org&alpn=h3,h2,http/1.1#EPODONIOS
-vless://0d3a1068-d74e-4d5c-a880-4aa4f1c9dd30@www.speedtest.net:8443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=sub4.kaliconnect.dpdns.org&sni=sub4.kaliconnect.dpdns.org&alpn=h3,h2,http/1.1#EPODONIOS
-vless://0d8c2f71-325b-340f-13a6-d6a2f734f512@x4g-production-b36f.up.railway.app:443?path=/ws/0d8c2f71-325b-340f-13a6-d6a2f734f512&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-b36f.up.railway.app&fp=chrome&type=ws&sni=x4g-production-b36f.up.railway.app#EPODONIOS
-vless://0d9cc99b-d11a-43b8-8613-dc8ef04a326b@44.223.17.190:2053?encryption=none&security=reality&sni=www.inel.com&fp=chrome&pbk=-dvaet5vTdRvWpkf_1wY2HcWuHDMHK_A_19tUq3QQRQ&sid=a8434c33&spx=/f6jRSVG0fvHWE7y&type=tcp&headerType=none#EPODONIOS
-vless://0e79a7b6-8c72-4573-8688-101af4667bc5@api-hub-f15f35-edg.rtre7431.workers.dev:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=API-HuB-f15F35-EdG.RtRE7431.woRKERs.dEV&type=ws&allowInsecure=0&sni=ApI-HuB-F15f35-edG.rTre7431.wOrkERs.dev#EPODONIOS
-vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@vi-38322.webnama.com.tr:1535?type=tcp&headerType=none&security=reality&fp=chrome&sni=stackoverflow.com&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#EPODONIOS
-vless://0eb12a7a-b39e-4f7d-8bf6-7cb34b254564@147.90.13.19:443?encryption=none&type=xhttp&mode=auto&path=/&security=reality&fp=chrome&sni=yahoo.com&pbk=cqkIQAlIfDD_24qkjRgBD4qA7khDlUmTInGtZVSuzhM&sid=70885dd7&spx=/#EPODONIOS
-vless://0f92ef70-e4c0-4627-8c72-93c3e59b60cf@fast.motorbazan.com:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#EPODONIOS
-vless://1066d253-ee38-47d8-a599-a431c7f658ee@fast1.mrsf.ir:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=1&host=netUuuu.gLobAl.sSl.Fastly.nEt.&fp=chrome&type=xhttp&allowInsecure=1&sni=digikala.com.#EPODONIOS
-vless://10a6b1ed-a0e0-449a-ba54-ecda60bd5ddd@193.84.255.91:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?encryption=none&type=ws&security=tls&path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&host=sertraline.adaspoloandco.com&sni=sertraline.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#EPODONIOS
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?path=/download.php#TELEGRAM-v2ray_configs_pools?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#EPODONIOS
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#EPODONIOS
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.14.85:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#EPODONIOS
