@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Tel-@ProxyMtAlpha🏪 7
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Tel-@ProxyMtAlpha🦠 5
 trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@V2raySup0 | 🚀
 trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@Soul737
@@ -502,4 +503,3 @@ vless://1564b643-d64a-4e6c-9a6b-e69bd41aca8e@hayabusa.proxy.rlwy.net:42201?mode=
 vless://1564b643-d64a-4e6c-9a6b-e69bd41aca8e@soskeynets.proxy.rlwy.net:42201?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=aZyCVgorXh9GDDNk65s4yf_asv7GEEkdzCsNX9mfugM&fp=chrome&spx=/1rgCaqOk22TBrgj&type=xhttp&sni=is1-ssl.mzstatic.com&sid=afdd3df3bbb5edd6#🇺🇸110999 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1564b643-d64a-4e6c-9a6b-e69bd41aca8e@soskeynets.proxy.rlwy.net:42201?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=aZyCVgorXh9GDDNk65s4yf_asv7GEEkdzCsNX9mfugM&fp=chrome&spx=/1rgCaqOk22TBrgj&type=xhttp&sni=is1-ssl.mzstatic.com&sid=afdd3df3bbb5edd6#🔵@chillguy_vpn
 vless://15ce0fde-88e2-42b0-91e6-e4a1b4568f6e@104.16.72.41:8880?path=/pyip&security=&encryption=none&host=old-truth-de8a.110-187.workers.dev&type=ws#🇸🇬
-vless://15d05a66-e5cd-4173-8bac-185c74aa5267@snapp.ir:2082?path=/path&security=none&encryption=none&host=cdn.linoxa.ir&type=ws#@NetZone_ir

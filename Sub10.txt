@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#@one_shop_official
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#@v2raybaaz ²
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#Tel-@ProxyMtAlpha🥨 10
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#Telegram:@TEHRANARGO
@@ -502,4 +503,3 @@ vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@cf380c40b2993608.nimaghaffarzadeh.i
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@cf380c40b2993608.nimaghaffarzadeh.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#@outline_ir
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@cf380c40b2993608.nimaghaffarzadeh.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#@tootffarangi🍓-16
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@cf380c40b2993608.nimaghaffarzadeh.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#@tootffarangi🍓-4
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@cf380c40b2993608.nimaghaffarzadeh.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#@v2raybaaz [🌶]
