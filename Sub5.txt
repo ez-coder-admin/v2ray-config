@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@vpnbaz 🍭
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Ap_Ir6
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Net_Nab
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@vpnbaz 🍭
 trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
@@ -498,8 +503,3 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=/
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s1.nakosgol.com&path=/pabloping&security=none&note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s1.nakosgol.com&type=xhttp#@KAFING_2
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s2.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=s5.nakosgol.com&type=xhttp#@KAFING_2
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s4.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇨🇦 - CA - @FreeOnlineVPN
-vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=/in-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#@V2raySup0 | 🚀
-vless://229304a0-0cd8-41ac-8f73-d149a788e763@sut.sesssutacc.ir:443?mode=stream-up&path=/index.php&security=reality&encryption=none&extra={"headers":{"auth-key":"UM8fhd9S6fmvjh5S"},"mode":"stream-up","seqKey":"CdcHYcExv6qyM3HYtgTAksbpCAM7wBs0QTETxsagD45rQQ8aK5GCJ1mG3ChYm3rb","seqPlacement":"query","sessionIDLength":"8-12","sessionIDTable":"Base62","uplinkHTTPMethod":"POST","xPaddingBytes":"100-1000","xPaddingHeader":"qtjk13H4MDKtQkEXSySBBEEtA2rn9Ky97a17b2BnE6c1kK5fCddXhWmhGYR3M3NW","xPaddingKey":"cYvqEVUsKuYJfjKdz6DurNU8VJEUEVwE","xPaddingObfsMode":true}&pbk=ezGpPvn1Rvoid-QVp70I7lTc5B3tx7jYXc6_JoVeQWk&fp=chrome&spx=/d52dff0a7d2bc7b&type=xhttp&sni=www.samsung.com&sid=65#@icv2ray
-vless://229304a0-0cd8-41ac-8f73-d149a788e763@sut.sesssutacc.ir:80?mode=stream-up&path=/index.php&security=reality&encryption=none&extra={"headers":{"auth-key":"UM8fhd9S6fmvjh5S"},"mode":"stream-up","seqKey":"CdcHYcExv6qyM3HYtgTAksbpCAM7wBs0QTETxsagD45rQQ8aK5GCJ1mG3ChYm3rb","seqPlacement":"query","sessionIDLength":"8-12","sessionIDTable":"Base62","uplinkHTTPMethod":"POST","xPaddingBytes":"100-1000","xPaddingHeader":"qtjk13H4MDKtQkEXSySBBEEtA2rn9Ky97a17b2BnE6c1kK5fCddXhWmhGYR3M3NW","xPaddingKey":"cYvqEVUsKuYJfjKdz6DurNU8VJEUEVwE","xPaddingObfsMode":true}&pbk=ezGpPvn1Rvoid-QVp70I7lTc5B3tx7jYXc6_JoVeQWk&fp=chrome&spx=/d52dff0a7d2bc7b&type=xhttp&sni=www.samsung.com&sid=4f8a9f7214bf8f19#@icv2ray
