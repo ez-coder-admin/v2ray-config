@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@172.64.147.227:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#EPODONIOS
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#EPODONIOS
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#EPODONIOS
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#EPODONIOS
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#EPODONIOS
@@ -503,3 +501,5 @@ vless://361faea2-99b7-4d62-b11f-f2471f75ab12@england.lion-game.ir:443?path=/&sec
 vless://361faea2-99b7-4d62-b11f-f2471f75ab12@german2.tehran-game.ir:443?path=/&security=none&encryption=none&host=tehran-game.ir&type=ws#EPODONIOS
 vless://361faea2-99b7-4d62-b11f-f2471f75ab12@holand.tehran-game.ir:443?path=/&security=none&encryption=none&host=tehran-game.ir&type=ws#EPODONIOS
 vless://361faea2-99b7-4d62-b11f-f2471f75ab12@holand2.tehran-game.ir:443?path=/&security=none&encryption=none&host=tehran-game.ir&type=ws#EPODONIOS
+vless://361faea2-99b7-4d62-b11f-f2471f75ab12@lion.lion-game.ir:443?path=/&security=none&encryption=none&host=lion-game.ir&type=ws#EPODONIOS
+vless://361faea2-99b7-4d62-b11f-f2471f75ab12@soskeynets.lion-game.ir:443?path=/&security=none&encryption=none&host=lion-game.ir&type=ws#EPODONIOS
