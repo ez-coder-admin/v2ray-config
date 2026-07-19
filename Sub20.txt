@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://CF68213490@devoted-zebra.rooster465.autos:443?security=tls&sni=devoted-zebra.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.248.218-0239
+trojan://NQ26071394@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.214.138-0229
+trojan://NQ26071394@accurate-cat.rooster465.autos:443?security=tls&sni=accurate-cat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.176.217-0235
+trojan://CF68213490@diverse-thrush.rooster465.autos:443?security=tls&sni=diverse-thrush.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.228.205-0247
+trojan://NQ26071394@modest-amoeba.rooster465.autos:443?security=tls&sni=modest-amoeba.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.215.162-0249
+trojan://CF68213490@allowing-halibut.rooster465.autos:443?security=tls&sni=allowing-halibut.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.38.213.204-0233
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.57-0109
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.151-0106
+trojan://NQ26071394@thorough-foxhound.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.251.27-5887
+trojan://CF68213490@growing-ram.rooster465.autos:443?security=tls&sni=growing-ram.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.64.246-0237
+trojan://NQ26071394@merry-falcon.rooster465.autos:443?security=tls&sni=merry-falcon.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.124.57.203-0242
+trojan://NQ26071394@capable-jay.rooster465.autos:443?security=tls&sni=capable-jay.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.192.217-0225
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.205-0096
+trojan://CF68213490@aware-lionfish.rooster465.autos:443?security=tls&sni=aware-lionfish.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.52.205-0227
+trojan://CF68213490@eternal-horse.rooster465.autos:443?security=tls&sni=eternal-horse.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.235.223-0230
+trojan://CF68213490@enormous-whippet.rooster465.autos:443?security=tls&sni=enormous-whippet.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.139.180-0248
 trojan://NQ26071394@living-hagfish.rooster465.autos:443?security=tls&sni=living-hagfish.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.78.9-0218
 trojan://CF68213490@aware-puma.rooster465.autos:443?security=tls&sni=aware-puma.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.146.77-0234
 trojan://CF68213490@central-jawfish.rooster465.autos:443?security=tls&sni=central-jawfish.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.233.91-0243
@@ -487,19 +503,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.93.100:8009#EPODONIOS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:9090#EPODONIOS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5601#EPODONIOS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3306#EPODONIOS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#EPODONIOS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:8888#EPODONIOS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.203:5601#EPODONIOS
-ss://YWVzLTI1Ni1nY206WWlxTnhPc2czME1T@212.192.13.126:8388#EPODONIOS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.95:8118#EPODONIOS
-ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@46.17.40.13:20111#EPODONIOS
-ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@46.29.163.176:30888#EPODONIOS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#EPODONIOS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#EPODONIOS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#EPODONIOS
-ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.133.23.45:10125#EPODONIOS
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.222:5003#EPODONIOS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8882#EPODONIOS
-ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#EPODONIOS
-ss://YWVzLTI1Ni1nY206bXZ4TjE@sg-ss-2.sshstores.vip:1443#EPODONIOS
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.5:443#EPODONIOS
