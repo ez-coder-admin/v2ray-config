@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://NQ26071394@ace-liger.rooster465.autos:443?allowInsecure=0&sni=ace-liger.rooster465.autos#EPODONIOS
+trojan://NQ26071394@arriving-koala.rooster465.autos:443?allowInsecure=0&sni=arriving-koala.rooster465.autos#EPODONIOS
 trojan://NQ26071394@able-dane.rooster465.autos:443?allowInsecure=0&sni=able-dane.rooster465.autos#EPODONIOS
 trojan://NQ26071394@allowed-moose.rooster465.autos:443?allowInsecure=0&sni=allowed-moose.rooster465.autos#EPODONIOS
 trojan://NQ26071394@actual-pigeon.rooster465.autos:443?allowInsecure=0&sni=actual-pigeon.rooster465.autos#EPODONIOS
@@ -501,5 +503,3 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.25:443?encryption=none&f
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.45.218:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.44.172:2083?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.42.182:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#EPODONIOS
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#EPODONIOS
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.41.198:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#EPODONIOS
