@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@45.130.125.11:2087?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ch-de.sdcards.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=ch-de.sdcards.ir#🆔capoit%20🔒%20VL-XHTTP-N/A%20❔%20XX%202ms
-vless://1cbb57cd-47bb-4de5-9f1d-932fa81f8f96@pizzashop.dearhossein-taktaz.ir:443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=firefox&host=pizzashop.dearhossein-taktaz.ir&path=%2F&security=tls&sni=pizzashop.dearhossein-taktaz.ir&type=ws#🆔capoit%20🔒%20VL-WS-N/A%20❔%20XX%20down
-vless://e1bc0b88-6fa2-4dd7-a936-d5fff3ebfe6c@64.49.15.67:8080?security=reality&encryption=none&pbk=VhsxX3w5SvS-XTnHi_xg85bq9aoIU79NrmEg9Aig52w&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=79472fefa9c9f227#🆔capoit%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.19.109:2083?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=%2F%3Fu%3D3e3fff3b5b&security=tls&fp=random&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#🆔fr33c0nfig%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@87.120.219.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb-2.quillrook.com&fp=firefox&pbk=hjdnuzysFQh3YtJ2yWjh-gduVE3A2yHWqJ1QXvrZyHM&sid=81b5b012&type=tcp&headerType=none#🆔lrnbymaa%20🔒%20VL-TCP-%20❔%20XX%20133ms
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@87.120.219.225:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb-2.quillrook.com&fp=firefox&pbk=hjdnuzysFQh3YtJ2yWjh-gduVE3A2yHWqJ1QXvrZyHM&sid=595e5e04&type=tcp&headerType=none#🆔lrnbymaa%20🔒%20VL-TCP-%20❔%20XX%20137ms
@@ -503,3 +500,6 @@ hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=s
 hysteria2://fGc3qPlaQk@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#Telegram=V2RayyNGvpn🇩🇪
 hysteria2://gG5szcxrbt@51.15.110.119:19978?security=tls&obfs=salamander&obfs-password=Telegram=V2RayyNGvpn&insecure=1&pinSHA256=c9ab2d723ac19048abdbc53fbcff44b64436390c5c7a60b9b993588c190f263b&sni=www.amd.com#
 hysteria2://gG5szcxrbt@51.15.110.119:19978?security=tls&obfs=salamander&obfs-password=Telegram=V2RayyNGvpn&insecure=1&pinSHA256=c9ab2d723ac19048abdbc53fbcff44b64436390c5c7a60b9b993588c190f263b&sni=www.amd.com#🇳🇱 Telegram=V2RayyNGvpn 🇳🇱
+hysteria2://l6R1kundefinedu0Dm@51.159.137.79:55809?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=4d5c3200cd9a371684203fd8bfa29bba7e46777d4599cbc2130e78d9a7f197d2&sni=www.amd.com#Telegram=V2RayyNGvpn🇨🇵
+hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#@Selinc
+hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#@bored_vpn
