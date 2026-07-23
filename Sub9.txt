@@ -3,25 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.97:8880?mode=gun&security=none&encryption=none&type=grpc#@erfanandroid
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?encryption=none&type=grpc&mode=gun#🇮🇹 Join+Telegram:@Farah_VPN 🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@Ap_Ir6
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹119341 | ⚡️Telegram = t.me/SOSkeyNET
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo13.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🔵@chillguy_vpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=#@M4DVPN
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#برای اتصال دائمی جوین شو💤 TelegramID ⌲Express_freevpn
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo21.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Join+Telegram:@Farah_VPN 🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo23.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#🇮🇹 Join+Telegram:@Farah_VPN 🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#@Ap_Ir6
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo27.fordnsdirect.shop:8880?security=&encryption=none&type=grpc#🇮🇹 Join+Telegram:@Farah_VPN 🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.speedmeter.shop:8880?security=&encryption=none&type=grpc#Proxy_Se7en
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?mode=gun&security=&encryption=none&type=grpc#Proxy_Se7en
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#🔥 @free_conf_iran 🔥 14
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus-v2rayNplus-v2rayNplus&type=grpc#TEL;Father_vpn
@@ -503,3 +484,22 @@ vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/Join---
 vless://b10f90e3-0cf9-42e0-a9d4-7674c4d57c63@162.159.38.119:443?path=/-----MxGriD-----&security=tls&encryption=none&insecure=0&host=telegram.mxgrid.xyz&fp=chrome&type=ws&allowInsecure=0&sni=telegram.mxgrid.xyz#joinTelegram(@MxGriD).
 vless://b13610ef-57a3-bc52-fd0f-97733f90ba06@amirroker-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=packet-up&host=amirroker-production.up.railway.app&path=/xhttp-siz10/packet-up/b13610ef-57a3-bc52-fd0f-97733f90ba06&sni=amirroker-production.up.railway.app&fp=chrome&alpn=h2,http/1.1#X4G-rokervpn😈
 vless://b17e6a63-78f2-4f8f-aea4-0867405a096e@okla.dearhossein-taktaz.ir:443?encryption=none&sid=586c339944e8&pbk=3f4yGlt03YN98A2dTVXc-bm8c2gZBi09uQXODZE5lmE&security=reality&fp=chrome&spx=/182973acde35100&sni=google.com&type=tcp&headerType=none#@Capoit
+vless://b17e6a63-78f2-4f8f-aea4-0867405a096e@okla.dearhossein-taktaz.ir:443?security=reality&encryption=none&pbk=3f4yGlt03YN98A2dTVXc-bm8c2gZBi09uQXODZE5lmE&headerType=none&fp=chrome&spx=/182973acde35100&type=tcp&sni=google.com&sid=586c339944e8#@erfanandroid
+vless://b19b768d-bc57-4d03-9bea-61129ed5fef9@162.159.46.0:8880?encryption=none&security=none&type=ws&host=new.106-79e.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#t.me/ConfigFori  -  Config 88288
+vless://b1a0ca85-93ec-4bcb-a6cc-dad52fda897f@:80?encryption=none&security=none&type=xhttp&host=&path=/&mode=auto#@GRIZZLYVPN
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@141.227.160.73:6300?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none#Channel : @Daily_Configs
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@141.227.160.73:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@FarazV2ray
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@141.227.160.73:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@TEHRANARGO 👈🏻👈🏻سرورجدید داخل چنل
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@141.227.160.73:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@MARAMBASHI 🇫🇷
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@167.104.219.146:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@Daily_Configs : کانال تلگرام
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@167.104.219.146:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@FarazV2ray
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@britain.pelzimo.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️476🌐🆕️
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@istanbul.pelzimo.ir:6300?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#Channel : @Daily_Configs
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@istanbul.pelzimo.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@prrofile_purple  ♥️👈 تلگرام
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@italy.lorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🌐t.me/iProxyChannel 8
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#@prrofile_purple  ♥️👈 تلگرام
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#kurdconfig
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇫🇷@FreakConfig
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@sweden.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇫🇷@V2rayng_Fast
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@united.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#kurdconfig
+vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@united.oorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🇺🇸@FreakConfig
