@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&allowinsecure=0&type=ws&path=/#EPODONIOS
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#EPODONIOS
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#EPODONIOS
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.200:2053?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#EPODONIOS
@@ -502,4 +503,3 @@ vless://fa1494d1-d388-49fb-8977-3797f10082f2@65.109.186.115:8080?security=realit
 vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bulghari.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=bulghari.appleseraj.ir#EPODONIOS
 vless://fad43652-8214-4c8b-8076-b2737bcbee72@securitytrails.com:2083?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=cdn.memolmal.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.memolmal.dpdns.org#EPODONIOS
 vless://fad43652-8214-4c8b-8076-b2737bcbee72@securitytrails.com:2083?mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=cdn.memolmal.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.memolmal.dpdns.org#EPODONIOS
-vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&headerType=&type=tcp#EPODONIOS

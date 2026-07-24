@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://aea30a00-4cbb-4acc-b1c2-cb53a7522d09@tur.izzzyvpn.ru:443?security=reality&encryption=none&pbk=dQ1UuZtHmkxbOa0CuhzD8xx5l2oX3PTYvEWWE7C2Djk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru:443#EPODONIOS
 vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin1.panel11.ru&fp=chrome&security=reality&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#EPODONIOS
 vless://aebe1bef-2ab4-4727-be3b-31f704b047c4@191.40.4.88:500?encryption=mlkem768x25519plus.native.0rtt.swsMW_kMmHiPVGjj30BifBgm7BGZ3Y18UouzeGYh0jY&security=reality&sni=www.tesla.com&fp=chrome&pbk=x0NLtd30YSWLAnHOGxCz47SLXpN_153UPtmqNEQZE3Q&sid=79&spx=/&type=tcp&headerType=none#EPODONIOS
 vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.208.184:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#EPODONIOS
@@ -502,4 +503,3 @@ vless://e5afa6a0-a4a6-44e3-a3e0-e05b0c67cd02@2.26.90.105:443?security=reality&en
 vless://e5afa6a0-a4a6-44e3-a3e0-e05b0c67cd02@2.26.90.105:443?security=reality&encryption=none&sni=www.mozilla.org&flow=xtls-rprx-vision&headerType=none&pbk=5_iDO5DVg3wpde-2oVHu8vzJ3aMkojbjUQZXEZa-iCM&sid=1985e9cd6df90821&type=tcp#EPODONIOS
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=/fp&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#EPODONIOS
 vless://e74e8806-06b5-4fb0-a89e-cf79d88cfd02@one-for-all.levikogjgfdd.ir:8880?path=/pyip&security=none&encryption=none&host=wild-frog-54a9.170-dcc.workers.dev&type=ws#EPODONIOS
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&allowinsecure=0&type=ws&path=/#EPODONIOS

@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#1irconfiig::🇩🇪
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@hopev2ray🩵
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=/http#@Ap_Ir6
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#@icv2ray
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@FarazV2ray
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#Unblocked_ir
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@104.18.26.90:2087?security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@172.64.152.23:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
@@ -503,3 +498,8 @@ vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.212:448?encryption=none&
 vless://ed713345-61f4-4eca-8708-b3a1e9bfbb40@38.180.104.152:21077?path=/&security=none&encryption=none&host=www.google.com&type=ws#🇹🇷 @GozargahVPN
 vless://ed984f53-b003-4940-b6b2-db22362801e7@151.101.193.54:80?security=none&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#@filembad
 vless://ed984f53-b003-4940-b6b2-db22362801e7@151.101.193.54:80?security=none&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#🔵@chillguy_vpn
+vless://ed984f53-b003-4940-b6b2-db22362801e7@151.101.193.54:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#🇨🇦120999 | ⚡️Telegram = t.me/SOSkeyNET
+vless://ed984f53-b003-4940-b6b2-db22362801e7@151.101.193.54:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#🇺🇸US-🚀@VPNine1
+vless://ed984f53-b003-4940-b6b2-db22362801e7@151.101.56.7:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#🇺🇸121000 | ⚡️Telegram = t.me/SOSkeyNET
+vless://ed984f53-b003-4940-b6b2-db22362801e7@151.101.56.7:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#🇺🇸US-🚀@VPNine1
+vless://ed984f53-b003-4940-b6b2-db22362801e7@at.sv.temas-bor.ir:22000?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#🇩🇪120992 | ⚡️Telegram = t.me/SOSkeyNET

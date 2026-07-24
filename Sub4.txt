@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
-trojan://0A0kFGWA0t@83.228.235.99:19289?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=/&type=grpc&sni=yahoo.com#@confiig_hub
-trojan://0A0kFGWA0t@83.228.235.99:19289?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=/&type=grpc&sni=yahoo.com#@filembad
-trojan://0A0kFGWA0t@83.228.235.99:19289?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=/&type=grpc&sni=yahoo.com#@flyv2ray
-trojan://0A0kFGWA0t@83.228.235.99:19289?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=/&type=grpc&sni=yahoo.com#@tootffarangi🍓-1All
 trojan://0A0kFGWA0t@83.228.235.99:19289?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=chrome&spx=/&type=grpc&sni=yahoo.com#Tel-@ProxyMtAlpha🌻 8
 trojan://0A0kFGWA0t@83.228.235.99:19289?type=grpc&security=reality&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&spx=/#@M4Dvpn
 trojan://0A0kFGWA0t@83.228.235.99:19289?type=grpc&security=reality&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&spx=/#@meliproxyy
@@ -503,3 +498,8 @@ trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=htt
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=1&host=s-mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&allowInsecure=1&sni=sadszdx.global.ssl.fastly.net.b5r.ir#🔥 @free_conf_iran 🔥 1
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#TEL;Father_vpn
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
+trojan://tESQ-YX6FZvtpxcNW5NAxQ@WHITE-MT.jorzel.ir:19302?security=reality&type=xhttp&headerType=&path=/path&host=hostname&mode=stream-one&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=www.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#🇩🇪120977 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://tESQ-YX6FZvtpxcNW5NAxQ@WHITE-MT.jorzel.ir:19302?security=reality&type=xhttp&headerType=&path=/path&host=hostname&mode=stream-one&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=www.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#🇩🇪DE-🚀@VPNine1
+trojan://tESQ-YX6FZvtpxcNW5NAxQ@WHITE-MTP.jorzel.ir:19302?security=reality&type=xhttp&headerType=&path=/path&host=hostname&mode=stream-one&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=www.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#🇫🇮121001 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://tESQ-YX6FZvtpxcNW5NAxQ@WHITE-MTP.jorzel.ir:19302?security=reality&type=xhttp&headerType=&path=/path&host=hostname&mode=stream-one&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=www.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#🇫🇮FI-🚀@VPNine1
