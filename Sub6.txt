@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel9.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@TEHRANARGO
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel9.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@configprxy
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel9.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@M4Dvpn
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel9.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@meliproxyy
-vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel9.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#telegram @mtmvpn
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🟥اگه قطع شدی بیا اینجا: 💜Telegram: VEGAAS_VPN🚀💜🟥🟥
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#TEL;Father_vpn
@@ -503,3 +498,8 @@ vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@xn--b6gac.eu.org:443?encryption=non
 vless://4a83351c-3fae-4e45-a402-377f4dbb8f3d@45.159.249.42:42259?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=U_xgj8zdYzuGVJfJ7wAoSh7HGt4sBrUS08ttF0i6ABs&sid=7f1dd9a3#@v2ray_configs_pools-join-us-on-Telegram
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=play.google.com#Proxy_Se7en
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&sni=play.google.com#Proxy_Se7en
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=http&type=tcp#Proxy_Se7en
+vless://4ab4d988-dd67-6b70-90d3-3930132f8490@rokervpn-production-bbae.up.railway.app:443?encryption=none&security=tls&type=ws&host=rokervpn-production-bbae.up.railway.app&path=/ws/4ab4d988-dd67-6b70-90d3-3930132f8490&sni=rokervpn-production-bbae.up.railway.app&fp=chrome&alpn=http/1.1#X4G-کانال تلگرامی: rokervpn
+vless://4b11fef1-5e9c-4d91-bf5c-fb99a8e55f48@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮 AzadMarz [ Irancell / Rightel ]-JOIN  : @AzadMarz
+vless://4b1d39f2-42d4-4850-8b8a-fd4fa2f1ae55@151.101.193.54:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#🇺🇸US-🚀@VPNine1
+vless://4b1d39f2-42d4-4850-8b8a-fd4fa2f1ae55@bg.sv.temas-bor.ir:22002?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=chrome&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=/#🇩🇪DE-🚀@VPNine1
