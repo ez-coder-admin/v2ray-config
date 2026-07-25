@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://1------------------BanV2ray------------------1@37.156.45.60:37161?type=grpc&security=reality&mode=gun&sni=world.yahoo.com:443&fp=chrome&insecure=1&allowInsecure=1&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=1502957d103082b4&spx=/3a4e7061e937f69#filembad-67
+trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=4a76cd52#@filembad
+trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=4a76cd52#@tootffarangi🍓-2
+trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=4a76cd52#🇨🇭121286 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/3a4e7061e937f69&type=grpc&sni=world.yahoo.com:443&sid=a93d9b#@filembad
 trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=fc1849f57be0&spx=/3a4e7061e937f69&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#@M4Dvpn
 trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=fc1849f57be0&spx=/3a4e7061e937f69&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#@meliproxyy
 trojan://1------------------BanV2ray------------------1@37.156.45.60:3716?security=reality&sni=world.yahoo.com:443&fp=chrome&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=fc1849f57be0&spx=/3a4e7061e937f69&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇨🇭121433 | ⚡️Telegram = t.me/SOSkeyNET
@@ -498,8 +503,3 @@ trojan://telegram-id-privatevpns@52.19.173.143:22222?security=tls&sni=trojan.bur
 trojan://telegram-id-privatevpns@52.47.97.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇫🇷121316 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://tg-dns68@162.159.152.177:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.177:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦121460 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://tg-dns68@162.159.153.60:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.153.60:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[3348] - Telegram : @V2All
-trojan://tg-dns68@162.159.153.60:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦121456 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603/?type=tcp&security=tls&sni=103.106.228.187&allowInsecure=1#日本
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Proxy_Se7en

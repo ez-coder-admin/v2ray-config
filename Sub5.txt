@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://tg-dns68@162.159.153.60:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.60:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[3348] - Telegram : @V2All
+trojan://tg-dns68@162.159.153.60:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🇨🇦121456 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603/?type=tcp&security=tls&sni=103.106.228.187&allowInsecure=1#日本
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Proxy_Se7en
 trojan://v2TkL6FH3h@104.16.72.50:443?path=/da&security=tls&insecure=0&host=sm.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sm.farxmode.ir#@Selinc
 trojan://xITFB2PCsp@179.237.75.217:2095?security=reality&pbk=QBLMKuBYOXkWxaZbDDx_5SG_1UA88RMoyiX7wBavLy8&host=yahoo.com&headerType=http&fp=chrome&spx=/------@VEGAAS_VPN-------@VEGAAS_VPN&type=tcp#@VEGAAS_VPN🇨🇭
 trojan://xITFB2PCsp@179.237.75.217:2095?security=reality&pbk=QBLMKuBYOXkWxaZbDDx_5SG_1UA88RMoyiX7wBavLy8&host=yahoo.com&headerType=http&fp=chrome&spx=/------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network-------@sil3nt_network&type=tcp&sni=yahoo.com#kurdconfig
@@ -498,8 +503,3 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.5:443?security=tls&sni=
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.93:443?path=/?proxyip=proxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=chrome&type=ws&sni=pages.teasalo.cloudns.org#@Hope_Net-join-us-on-Telegram
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.93:443?path=/?proxyip=proxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=chrome&type=ws&sni=pages.teasalo.cloudns.org#🇨🇦121376 | ⚡️Telegram = t.me/SOSkeyNET
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.93:443?path=/?proxyip=proxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=chrome&type=ws&sni=pages.teasalo.cloudns.org#🚀@VPNine1
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.161:443?path=/?proxyip=proxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=chrome&type=ws&sni=pages.teasalo.cloudns.org#@Hope_Net-join-us-on-Telegram
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.34:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#🇺🇸121284 | ⚡️Telegram = t.me/SOSkeyNET
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@38.114.103.221:18888?type=ws&encryption=none&host=pages.teasalo.cloudns.org&path=/?ed=2560&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=chrome#@v2ray_configs_pools-join-us-on-Telegram
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@96110.cf.090227.xyz:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=chrome&type=ws&sni=pages.teasalo.cloudns.org#@v2ray_configs_pools-join-us-on-Telegram
-vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple  ♥️👈 تلگرام
