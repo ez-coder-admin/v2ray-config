@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#EPODONIOS
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=chrome&alpn=h3,h2&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=/#EPODONIOS
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?encryption=none&type=ws&security=tls&path=/&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&alpn=h3,h2&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#EPODONIOS
@@ -502,4 +503,3 @@ vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@SpeedTest.org:80?security=none&type
 vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@SpeedTest.org:80?security=none&type=ws&headerType=&path=&host=wWw.SpEedTeSt.nEt.ZuLa.Ir.IkCoSaLeS.Ir.D662599.v25.dIgIkAlAcOmIrDiVaRiR.CoM.#EPODONIOS
 vless://ff8e7195-0ff1-ee52-f67c-33e4c1e768cf@rokervpn-production-bbae.up.railway.app:443?encryption=none&security=tls&type=ws&host=rokervpn-production-bbae.up.railway.app&path=/ws/ff8e7195-0ff1-ee52-f67c-33e4c1e768cf&sni=rokervpn-production-bbae.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://ff8e7195-0ff1-ee52-f67c-33e4c1e768cf@rokervpn-production-bbae.up.railway.app:443?path=/ws/ff8e7195-0ff1-ee52-f67c-33e4c1e768cf&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rokervpn-production-bbae.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rokervpn-production-bbae.up.railway.app#EPODONIOS
-vless://ff9307e6-f04a-4905-8cd4-7e690bd63eb8@104.17.119.248:8080?path=/eyJqdW5rIjoiYUVJQnRNVEk1MlJKUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=none&encryption=none&host=green-flower-361d.iamxenor.workers.dev&type=ws#EPODONIOS
