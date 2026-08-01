@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#EPODONIOS
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#EPODONIOS
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?encryption=none&type=ws&security=tls&path=/sg-melbi#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?path=/sg-melbi#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
@@ -503,3 +501,5 @@ vless://8481cfbb-49a2-df3b-2af2-949631ef5848@104.20.6.134:2096?encryption=none&t
 vless://84c36cec-6ac4-449f-a9ef-dbed2e892195@marzban-node-production-9471.up.railway.app:443?path=/vless&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=marzban-node-production-9471.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=marzban-node-production-9471.up.railway.app#EPODONIOS
 vless://84dc79c7-e443-489d-bf07-b4bb825f57d9@ru-de.apruxdomain.xyz:80?&type=ws&headerType=none&host=ru-de.apruxdomain.xyz&path=/#EPODONIOS
 vless://84e919d1-efc6-48fc-8248-8c3cbfec9f17@tw04.kinomir.fun:40443?security=reality&encryption=none&pbk=IZn3ibz8K1yot2cj4ssmAQHVB--xrcQEc3RCFQUSRiE&headerType=none&fp=chrome&spx=/&type=tcp&sni=deepl.com&sid=2143#EPODONIOS
+vless://85288abd-f33b-4571-b2ea-106a8307731e@104.18.10.167:8443?path=/&security=tls&encryption=none&insecure=0&host=hitech.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitech.dearhossein-taktaz.ir#EPODONIOS
+vless://85329505-90c2-43d1-9c4a-689b1a0be884@45.131.212.22:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#EPODONIOS
