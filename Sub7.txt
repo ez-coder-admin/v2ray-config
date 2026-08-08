@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://11f62a8b-762d-4595-aa54-75ecb6977400@www.tgju.org:8880?encryption=none&security=none&type=httpupgrade&host=98.lorqino.ir&path=/250e#@Daily_Configs : کانال تلگرام
 vless://120326bb-0125-933f-ba2f-6a4a710a681d@rvg-production-e180.up.railway.app:443?path=/ws/120326bb-0125-933f-ba2f-6a4a710a681d&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-e180.up.railway.app&fp=chrome&type=ws&sni=rvg-production-e180.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://1205caca-020f-4b79-a002-e344cc81fb2c@plt.starferi.ir:8460?security=none&encryption=none&headerType=none&type=tcp#حجم ۲۵۰ گیگ
 vless://12748de1-d784-0261-1bdb-66c66556135a@rvg-production-07d8.up.railway.app:443?path=/ws/12748de1-d784-0261-1bdb-66c66556135a&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-07d8.up.railway.app&fp=chrome&type=ws&sni=rvg-production-07d8.up.railway.app#All Operators @MaSTeRSeRVeR1
@@ -503,3 +502,4 @@ vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-tr.emrata.top:443/?type=tcp&enc
 vless://2e622f08-444a-46d0-8dac-6f9709f4d172@check-host.net:8880?path=/&security=none&encryption=none&host=sni.abilim.info&type=httpupgrade#@V2rayng3
 vless://2e834c8c-2b4d-4cc5-9725-23ed738b4333@AzarakhshProxy.fast.hosting-ip.com:80?path=/?ed=2048&security=none&encryption=none&host=lookivpn3.ir&type=ws#🩵+@Azarakhsh_Proxy+🩷
 vless://2e8beadd-99bf-4fda-8692-8493886504bc@ad-007.cloud25075.info:8443?encryption=none&path=/&security=tls&type=ws#🛰️4@SHAHSERVER1
+vless://2e8beadd-99bf-4fda-8692-8493886504bc@ad-007.cloud25075.info:8443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ad-007.cloud25075.info#@MdvpnSec
