@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=f34818a561dfd1fe#EPODONIOS
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?mode=gun&security=reality&encryption=none&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&fp=chrome&type=grpc&serviceName=web.max.ru&sni=web.max.ru&sid=8321461729abcdef#EPODONIOS
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&sid=45ba18f429ad1f28&type=tcp&headerType=none#EPODONIOS
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&sid=45ba18f429ad1f28&type=tcp&headerType=none#EPODONIOS
@@ -503,3 +502,4 @@ vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@172.64.155.209:443?mode=auto&path=/
 vless://37182b68-6422-4414-9518-7df6776c0150@fn2-unlimited.pavilof.ir:1020/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&sid=3fa2fdb7dce16b8b#EPODONIOS
 vless://371dd7e4-c3ff-42de-aebc-0ab3bc62fb2d@188.114.97.6:2095?path=/?ed=2048&security=none&encryption=none&host=daRk-CHOICEzJa8lf7vEO.SPORTLANd.cOmPany.&type=ws#EPODONIOS
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?security=reality&encryption=none&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vruaz.mostserv.xyz&sid=226509f017e4c36d#EPODONIOS
+vless://3764c80e-0fd2-48bc-9072-25fccb9992bf@104.18.155.141:8443?path=/&security=tls&encryption=none&insecure=0&host=ftp.skylinknet.ir&fp=chrome&type=ws&allowInsecure=0&sni=ftp.skylinknet.ir#EPODONIOS

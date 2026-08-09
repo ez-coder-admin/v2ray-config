@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#EPODONIOS
 vless://5910d5d4-d670-4cf2-b875-72bfef693c56@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=aa.farxmode.ir&alpn=h2,http/1.1#EPODONIOS
 vless://59260bc4-8672-4573-b805-a372efc200b8@germany1.fastly80-2.hosting-ip.com:80?path=/?ed=1024&security=none&encryption=none&host=iranvpn.com.&type=ws#EPODONIOS
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.16.203.166:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#EPODONIOS
@@ -503,3 +502,4 @@ vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none&
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?encryption=none&type=tcp&security=reality&headerType=none&sni=4.oncloudnineservicestreang.com&insecure=1&allowInsecure=1&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&sid=04bc695105689674&flow=xtls-rprx-vision#EPODONIOS
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/TvPAJHXEXlFdLMqF?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@104.21.38.220:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Mlx6nGDhEkXEcBi5?ed=2560#EPODONIOS
+vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/8L8ji1ltYihf2SMX?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#EPODONIOS
