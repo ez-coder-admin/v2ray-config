@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.StreamService&sni=api.noneok.com&security=reality&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#EPODONIOS
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443?encryption=none&type=grpc&security=reality&serviceName=api.v1.StreamService&sni=api.noneok.com&fp=chrome&insecure=1&allowInsecure=1&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.87:443?mode=gun&security=reality&encryption=none&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=api.noneok.com&sid=1ea59febb8d4fc8e#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443/?type=grpc&encryption=none&flow=&serviceName=api.v1.StreamService&sni=files.noneok.com&security=reality&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sid=d3b394558cfe0266#EPODONIOS
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?encryption=none&security=reality&sni=files.noneok.com&fp=chrome&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&sid=d3b394558cfe0266&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=api.v1.StreamService#EPODONIOS
@@ -501,5 +503,3 @@ vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@millionaire.levikogjgfdd.ir:2053?en
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@millionaire.levikogjgfdd.ir:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#EPODONIOS
 vless://d36b40ec-5328-48e7-b8c1-ce9f1cfa0430@my2.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.setel.com&fp=chrome&security=reality&pbk=R6q8qhMxgq3ynJPUgudaRkcDXj0qgoc_UU1N0SWGLwM&sid=ed77ac35a310&packetEncoding=xudp#EPODONIOS
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.66.47.69:2053?path=/fast&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#EPODONIOS
-vless://d38fb586-bec2-4892-f774-7789068e32d5@191.101.130.131:38001?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#EPODONIOS
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#EPODONIOS
