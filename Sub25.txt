@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#EPODONIOS
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.252:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#EPODONIOS
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#EPODONIOS
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@188.114.97.6:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#EPODONIOS
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@66.81.247.155:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#EPODONIOS
 vless://176bfd2e-ae79-df1e-1068-061b8a130a47@69.46.46.1:443?path=/ws/176bfd2e-ae79-df1e-1068-061b8a130a47&security=tls&alpn=http/1.1&encryption=none&host=fgfssgf-bfbwfwfkw.up.railway.app&fp=chrome&type=ws&sni=fgfssgf-bfbwfwfkw.up.railway.app#EPODONIOS
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&encryption=none&host=188.40.210.8&headerType=none&type=tcp#EPODONIOS
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=/TELEGRAM_@vpnAndroid2/?ed=2048&fp=chrome#EPODONIOS
@@ -498,8 +503,3 @@ vless://415863f4-efd8-62fd-8364-36570ecb936f@69.46.46.30:443?path=/ws/415863f4-e
 vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#EPODONIOS
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=/#EPODONIOS
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:8080?security=none&type=ws&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&path=/#EPODONIOS
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:8880/?type=ws&encryption=none&host=IeRoCbHg8.PrZeNdEgI.NeT&path=/#EPODONIOS
-vless://41784775-8846-4579-9d9d-9ad6ea802e2e@188.119.123.112:49001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de-7.techprovide.icu&allowInsecure=1&fp=chrome&security=reality&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&sid=1a6b1f9d0e&packetEncoding=xudp#EPODONIOS
-vless://41784775-8846-4579-9d9d-9ad6ea802e2e@37.48.89.17:49001?flow=xtls-rprx-vision&encryption=none&security=reality&sni=de-7.techprovide.icu&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&sid=1a6b1f9d0e&allowinsecure=0&type=tcp&headerType=none#EPODONIOS
-vless://41784775-8846-4579-9d9d-9ad6ea802e2e@37.48.89.17:49001?security=reality&encryption=none&pbk=_LbLyj6OynSREglFpkhdrxVmh_bf9p60uTEWfQbtUWo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de-7.techprovide.icu&sid=1a6b1f9d0e#EPODONIOS
-vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#EPODONIOS
