@@ -5,21 +5,22 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Last Update: 2026-08-12 - 00:11 (IR-🇮🇷)
-# 📊 Total Configs: 1593
+# 📅 Last Update: 2026-08-12 - 00:37 (IR-🇮🇷)
+# 📊 Total Configs: 1594
 # 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @dailyv2rayCF
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA4LTEyIC0gMDA6MTEgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA4LTEyIC0gMDA6MzcgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 
 # ============ OTHER CONFIGS ============
 
 vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2Iiwic2N5IjoiYXV0byIsInBvcnQiOiIyMjMyNCIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJwcyI6IkBmcjMzYzBuZmlnIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AifQ==
 vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXlOcGx1cy0tdjJyYXlOcGx1cy0tdjJyYXlOcGx1cyIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxODAiLCJwcyI6IuKcqCBATmFtaXJhQ29uZmlncyB8IOKdpO+4jyDZiNi12YQg2LTYr9uMINis2YjbjNmGINi02YggfCDimqEgfCDwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MCIsInBzIjoi4pyoIEBOYW1pcmFDb25maWdzIHwg4p2k77iPINmI2LXZhCDYtNiv24wg2KzZiNuM2YYg2LTZiCB8IOKaoSB8IPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi83OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTgvP2VkXFw9MjU2MCIsICJob3N0IjogIjBiMGM2ZGI2LXQ3MGY0MC10YmU0NnktMWxhN3YuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInRscyI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8xNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWIvP2VkXFw9MjU2MCIsICJob3N0IjogImpmbHNqbGFmLnBhZ2VzLmRldiIsICJ0bHMiOiAiIn0=
@@ -1936,6 +1937,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMxOSIsImFkZCI6IjEwNy4xNjcuMzAuMTUxIiwicG9ydCI6IjMw
 trojan://humanity@104.18.152.204:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTQxIiwiYWRkIjoiNjYuMTYzLjExNy41OCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyBAUHJveHlWUE4xMSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE0MSJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#%40v2raybaaz%20%C2%B3
+èdþÄóâ­Ç·HÚå¿d§²#7ewÙJ_3sN)Ú³!&oÐYÛCÖÏÈ|I.f«bç9Ç¶kÙX¢°ÐßÄb×t¡øï+Zó·E['ÜobÚÉÕ®ü12hçït7g`%-£X×põJ=Ê\SÄ{lÂOÒ/KF£ªaó2ø³µgRBNÉFcCùíAûÁ«Õ¸«Z¯/á¢C¨f¯â8!biå,(uìËÐb#Ïøa³ÔTD£{"âKïXë*HwÌ+½è~g¯ µI;$¼ý¸Lq°Ñ@¬4j;~ 6(É*Àze÷÷­fÙÐ)çV-LXì£ßLj¦Û ¥qÆ¬=Sü²õåìêr³AÊDòcÝòíú8óÁ¬(8úë%*ÈÍÿz(º§õ jVSìÿzb¿Zð½Éx/Ùdì§óTç´&Úã¬,+Ë©OðüfÆ´A1aIFth¹0Unää¥Ûè6~¹Ì'f³<Áz6PC~¹àyÁ1È·yD´0àW¬È1ItÀiðLð¡ RÚózðA©é¤<{ÍÐ|Á+ømØ²µ~-E5eEF\ïaÖ	dssÚÏ;oÁ`Î1µ`ï<ò:[é%U¬Ëùöxv¼|7=73¹ÿÊr%ªFfxµFI.1BPA54{<»¡'ÔG¬ò¢å#`v5þPMV Í&m©ËÛEyó)rlÕåÄC3½
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375?type=tcp&headerType=none#@EVAY_VPN%2011
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#@V2raysCollector
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%BA

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://50414e45-4c5f-5a45-5553-7bac159e3b40@aslanbilit.ir:443?path=/api/ws&security=tls&encryption=none&insecure=0&host=web-app-ji3j1z.app-wuuhuw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=web-app-ji3j1z.app-wuuhuw.workers.dev&fragment=100-200,1-1#EPODONIOS
+vless://50414e45-4c5f-5a45-5553-7bac159e3b40@aslanbilit.ir:80?path=/api/ws&security=none&encryption=none&insecure=0&host=web-app-ji3j1z.app-wuuhuw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=web-app-ji3j1z.app-wuuhuw.workers.dev&fragment=100-200,1-1#EPODONIOS
+vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:1080?path=/stream/PANEL_ZEUS/7f7051730076&security=&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#EPODONIOS
+vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:2096?path=/stream/PANEL_ZEUS/7f7051730076&security=tls&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#EPODONIOS
 vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:443?path=/stream/PANEL_ZEUS/7f7051730076&security=tls&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#EPODONIOS
 vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:8080?path=/stream/PANEL_ZEUS/7f7051730076&security=&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#EPODONIOS
 vless://50414e45-4c5f-5a45-5553-7f7051730076@z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev:80?path=/stream/PANEL_ZEUS/7f7051730076&security=&encryption=none&host=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-ukmpgx.zeus-gh4hm9tv09f1.workers.dev#EPODONIOS
@@ -499,7 +503,3 @@ vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&security=none&serviceName=grpc&type=grpc#EPODONIOS
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?encryption=none&security=none&serviceName=grpc&type=grpc#EPODONIOS
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=grpc#EPODONIOS
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#EPODONIOS
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&serviceName=grpc&type=grpc&encryption=none#EPODONIOS
-vless://7eb212fd-8ec8-9b5b-de8a-da4debbe7233@69.46.46.64:443?path=/ws/7eb212fd-8ec8-9b5b-de8a-da4debbe7233&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-aa8e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-aa8e.up.railway.app#EPODONIOS
-vless://7ee07071-c7c4-4a41-851a-5ef7d6d00d1c@jdhdjdjdjm.belamona.ir:1323?security=&encryption=none&host=www.icloud.com&headerType=http&type=tcp#EPODONIOS
