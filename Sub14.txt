@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@icv2ray
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#⚡Telegram =@CUSTOMVPNSERVER
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
@@ -500,6 +503,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.209.231:22224?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.209.231:22224?encryption=none&security=none&type=tcp#🇫🇷FR-🚀@VPNine1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.221.117:22222?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.221.117:22223?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.221.117:22224?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.45.65:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.45.65:22222?security=none&encryption=none&headerType=none&type=tcp#kurdconfig

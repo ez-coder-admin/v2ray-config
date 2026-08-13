@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@188.114.97.6:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🚀@VPNine1
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@188.114.97.8:2087?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=da2.jakkkat.ir&fp=chrome&type=ws&allowInsecure=0&sni=da2.jakkkat.ir#[21298] - Telegram : @V2All
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@188.114.97.8:2087?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=da2.jakkkat.ir&fp=chrome&type=ws&allowInsecure=0&sni=da2.jakkkat.ir#🇫🇮 Join+Telegram:@Farah_VPN 🇫🇮
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:2087?&security=tls&fp=chrome&sni=d21kxk4wisidbjifybg3.redjilas.ir&type=ws&headerType=none&host=d21kxk4wisidbjifybg3.redjilas.ir&path=/#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http/1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=/#🇷🇴 Join+Telegram:@Farah_VPN 🇷🇴
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ro-3.ariyuz.org&type=ws&allowInsecure=0&sni=ro-3.ariyuz.org#@hex_proxy ⁶
@@ -500,6 +503,3 @@ vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?type=ws&securi
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?type=ws&security=none&path=/&encryption=none&host=parsi.parsi.sbs#@Alpha_v2rayIP
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@arc.montago-shop.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&type=tcp&headerType=none#@Daily_Configs
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@au-play.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#@Daily_Configs
-vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@crm.mobileemdad.top:3131?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=_TLSfMNLBxrgGXOP5fiTcnSxPtjIUTrDwq4VgWTlZDM&sid=16256ff0b20007&type=xhttp&path=/&mode=auto#@Daily_Configs
-vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@fna.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#@Daily_Configs
-vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@fr2.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#@Daily_Configs
