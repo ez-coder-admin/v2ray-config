@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@169.197.142.120:3389#@Hope_Net
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🏳️ Join+Telegram:@Farah_VPN 🏳️
@@ -503,3 +501,5 @@ vless://08fcff42-a045-4660-99b4-c9d20e5e3264@tra.montago-shop.ir:42538?encryptio
 vless://08fcff42-a045-4660-99b4-c9d20e5e3264@ugb.montago-shop.ir:443?encryption=none&type=tcp&security=reality&headerType=none&sni=diwork.com&fp=chrome&insecure=1&allowInsecure=1&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=9ed2fa#Rightel & Mobinet
 vless://08fcff42-a045-4660-99b4-c9d20e5e3264@uk-google.mobileemdad.top:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.googleapis.com&fp=chrome&insecure=1&allowInsecure=1&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#🇬🇧 United Kingdom
 vless://08fcff42-a045-4660-99b4-c9d20e5e3264@usi.montago-shop.ir:443?encryption=none&type=tcp&security=reality&headerType=none&sni=diwork.com&fp=chrome&insecure=1&allowInsecure=1&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=e8f4426268c05621#🇺🇸USA 2
+vless://08fcff42-a045-4660-99b4-c9d20e5e3264@usq.montago-shop.ir:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.googleapis.com&fp=chrome&insecure=1&allowInsecure=1&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#🇺🇸USA
+vless://090122da-ad6b-42a1-92d7-bab2630e2511@166.1.89.85:40056?security=reality&encryption=none&pbk=EYLZTm0VpViSmTLfehDg0DE57ZEp0P0hab5ME3pXrgs&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=9ccdca9f#@Begoo_VPN ²⁶⁰
