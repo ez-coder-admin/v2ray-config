@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52022?security=tls&obfs=salamander&alpn=h3&obfs-password=1wcfqg6gwoyxlplo&insecure=0&sni=assets.gateway-stream.com#TELEGRAM:@ConfigV2RayNG
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=assets.gateway-stream.com#ConfigV2RayNG 🇫🇮
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52043?security=tls&obfs=salamander&obfs-password=1n1g1xc7i50ga0v5&insecure=0&sni=assets.gateway-stream.com#🇮🇹 ConfigV2RayNG
 hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?security=tls&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&insecure=0&sni=a26738d5774ad803.devmrzero.ir#kurdconfig
@@ -502,4 +503,3 @@ ss://YWVzLTI1Ni1nY206QVlDNE1RNURTR0o0UU9LRw==@156.245.190.19:15010#[004463] - �
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg==@62.60.233.72:33155#[004464] - 🇹🇷 Türkiye | @freenettir
 ss://YWVzLTI1Ni1nY206QXhaUEtIYTc4THZoUEF0YQ==@62.106.66.133:8388#[004465] - 🇳🇱 Netherlands | @freenettir
 ss://YWVzLTI1Ni1nY206QjBVUEdMMklVU0IwVVY0Qg@23.185.248.16:17006#[004466] - 🇺🇸 United States | @freenettir
-ss://YWVzLTI1Ni1nY206QkdYOE9YRDZQMTBYNTNMWQ==@219.135.227.209:17001#[004467] - 🇨🇳 China | @freenettir
