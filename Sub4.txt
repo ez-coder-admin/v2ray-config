@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%202ms
+vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?path=%2Fv1&security=none&encryption=none&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20❔%20XX%20131ms
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%203ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.105:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#🆔v2ray1_ng%20🔒%20VL-XHTTP-N/A%20❔%20XX%20down
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.157:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20❔%20XX%20104ms
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@188.225.83.179:443?security=reality&encryption=none&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru.falsemirrov.com&sid=9c2378562188c3cb#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20122ms
@@ -449,8 +454,7 @@ trojan://AE62539071@wanted-marmoset.rooster465.autos:443?sni=wanted-marmoset.roo
 vmess://eyJ2IjoiMiIsInBzIjoiVVMzMiIsImFkZCI6IjE1NC4yMS44My43NyIsInBvcnQiOiI4ODgwIiwiaWQiOiIwNGJjY2ZhMS1hNmE4LTRhY2UtOTkxZi00NTQ2MjRhODc2NmYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3d3LmJpbmcuY29tIiwicGF0aCI6IjA0YmNjZmExLWE2YTgtNGFjZS05OTFmLTQ1NDYyNGE4NzY2Zi12bSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMzIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI0IiwiYWRkIjoiMjIxLjIwNC40MS44OCIsInBvcnQiOiI0NDMiLCJpZCI6IjFjNTAzYmViLTQ1ODktNDA5Yi1iZGRmLTUxOTA5MjVmNzJmMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InNwZWVjaGVzLW9ibGlnYXRpb25zLXZpZXctZXBpbmlvbnMudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiMWM1MDNiZWItNDU4OS00MDliLWJkZGYtNTE5MDkyNWY3MmYwLXZtIiwidGxzIjoidGxzIiwic25pIjoic3BlZWNoZXMtb2JsaWdhdGlvbnMtdmlldy1lcGluaW9ucy50cnljbG91ZGZsYXJlLmNvbSIsInRlc3RfbmFtZSI6IjEyNCJ9
 trojan://humanity@www.speedtest.org:443?sni=www.ignitelimit.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#Tel%3A%40Daily_Configs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22222?encryption=none&security=none&type=tcp#(S102)
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%BA
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#@v2ray_ccoonfigs_freee
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Telegram:@config_proxy
@@ -499,7 +503,3 @@ hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443/?sni=ang.leontun
 hy2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443/?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#🇫🇮FI
 hy2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443/?sni=gorbachev-th.kvnfreetest.uk#荷兰
 hy2://71cada65-d23e-418c-88e4-a06188d14689@144.31.166.91:443/?sni=de-two.quiet-rogue.site#德国
-hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443/?sni=j47lq.pleiades.codes#俄罗斯
-hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?sni=iq5ny.pleiades.codes#法国
-hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl9.unlockvpn.online:10808/?sni=nl9.unlockvpn.online#荷兰
-hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.217:8443/?insecure=1&sni=mercedes-grape.yyuyy.com#罗马尼亚
