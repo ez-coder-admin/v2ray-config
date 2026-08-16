@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f8fd2381-40ea-4b46-973b-f9dab2eed50b@146.103.26.96:37211?security=reality&encryption=none&pbk=2dpt8KZvY90iXmpdsCMkvK_00uHIhNbnz0VYrVFcJ3k&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=aa6f080efb8928f9#EPODONIOS
 vless://f8fd2381-40ea-4b46-973b-f9dab2eed50b@gtc.hekmatdarai.ir:37211?security=reality&encryption=none&pbk=2dpt8KZvY90iXmpdsCMkvK_00uHIhNbnz0VYrVFcJ3k&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=aa6f080efb8928f9#EPODONIOS
 vless://f93cffab-a048-4d60-85d7-e9dbfe0e2df8@hollowcon-c5lo.onrender.com:443?encryption=none&security=tls&sni=hollowcon-c5lo.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hollowcon-c5lo.onrender.com&path=/ws/f93cffab-a048-4d60-85d7-e9dbfe0e2df8#EPODONIOS
 vless://f9ab068c-c4ce-4d34-8bee-1d8304014665@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#EPODONIOS
@@ -502,4 +503,3 @@ vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?security=none&
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&security=none&type=tcp#EPODONIOS
 vless://432289de-8dec-46ef-9a3f-001a3af178a7@45.76.87.125:14750?encryption=none&fp=chrome&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws#EPODONIOS
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#EPODONIOS
