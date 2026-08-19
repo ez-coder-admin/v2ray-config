@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0a54534f-8a65-42f7-ae91-573ae0bf09b7@2.26.194.15:443?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=vqxKvKPwdM4NB1EnIAy90LSglZM9oTRx995mUQIW2Rg&sid=6bd15a&spx=/&type=tcp&headerType=none#@Daily_Configs
 vless://0a54534f-8a65-42f7-ae91-573ae0bf09b7@2.26.194.15:443?security=reality&encryption=none&pbk=vqxKvKPwdM4NB1EnIAy90LSglZM9oTRx995mUQIW2Rg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.intel.com&sid=6bd15a#@Begoo_VPN ²⁸⁰
 vless://0a54534f-8a65-42f7-ae91-573ae0bf09b7@2.26.194.15:443?security=reality&encryption=none&pbk=vqxKvKPwdM4NB1EnIAy90LSglZM9oTRx995mUQIW2Rg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.intel.com&sid=6bd15a#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://0a54534f-8a65-42f7-ae91-573ae0bf09b7@2.26.194.15:443?security=reality&encryption=none&pbk=vqxKvKPwdM4NB1EnIAy90LSglZM9oTRx995mUQIW2Rg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.intel.com&sid=6bd15a#✅  @vistav2ray  👈👈کانال ما ✅
@@ -502,4 +503,3 @@ vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?mode=gun&securit
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9002?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶🔷️521🌐🆕️
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=disagreedebut.net&type=raw#🇳🇱146556 | ⚡️Telegram = t.me/SOSkeyNET
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=disagreedebut.net&type=raw#🇷🇺RU-🚀@VPNine1
-vless://2cac35d7-ba99-4e26-a890-c138e17a8cf5@DE.nanvaiiisaeed.ir:443?mode=gun&security=reality&encryption=none&pbk=daWw9qkHpEQpAkzkfMB00XAax4ljuXShVm0GfHQwVG8&fp=chrome&type=grpc&sni=DE.nanvaiiisaeed.ir&sid=190d32b118caf07f#@V2rayi_net
