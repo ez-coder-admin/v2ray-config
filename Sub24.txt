@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.45:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#EPODONIOS
+vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.65:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#EPODONIOS
 vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?encryption=none&security=reality&sni=google.com&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&sid=4b&type=grpc&mode=gun&authority=&serviceName=#EPODONIOS
 vless://22448df3-17f8-40a6-9199-babaca108b46@95.85.251.116:59631?mode=gun&security=reality&encryption=none&pbk=bymilcd_vnDoof7qAq4QpFTm-hMeFPZwXPTMFXdasSg&type=grpc&sni=google.com&sid=4b#EPODONIOS
 vless://22696950-587f-42c0-af24-c1ffab17d0cd@91.197.3.43:52463?security=reality&encryption=none&pbk=zOv4BhJVbINHdcULln0vQ_6sxKiGjJPj4uyMttX9pWo&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=cdaed92e1d0c#EPODONIOS
@@ -501,5 +503,3 @@ vless://4c0f0f2d-1d59-4d10-b8bf-87b5ba6b2bcf@ipc6.l1i.xyz:8443?mode=auto&path=/_
 vless://4c41d237-630a-4d02-8ec0-c3b775190ee5@104.17.147.22:2053?encryption=none&security=tls&sni=digiac.riziro.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=digiac.riziro.ir&path=/HOLLWOCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON--HOLLOWCON&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#EPODONIOS
 vless://4c7480b2-d67b-4bb9-9f33-0700dfcbdee6@116.204.164.27:7443?path=/@Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#EPODONIOS
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=/?ed&security=&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#EPODONIOS
-vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=none&encryption=none&host=outlook.office365.com&headerType=http&type=tcp&note=@FreeOnlineVPN#EPODONIOS
-vless://4d0fb838-2dbe-4dff-ae36-da6ee02739ca@turkey.blueheartz.ir:27632?security=reality&encryption=none&pbk=tge1_umgZzzbe243U0RmtmHKF9LNp-Hg6xg0KV7Zv1c&headerType=none&fp=chrome&spx=/77cda84b6307aea&type=tcp&flow=xtls-rprx-vision&sni=play-fe.googleapis.com&sid=3892a7a76e8b#EPODONIOS
