@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh#TELEGRAM-TOOTFFARANGI?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh#TELEGRAM-TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh#TELEGRAM-bored_vpn?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh#TELEGRAM-mehrosaboran?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
@@ -501,5 +503,3 @@ vless://ec9e4d1a-46e1-4405-a559-7fda3501cf7b@31.57.228.166:42538?encryption=mlke
 vless://ec9e4d1a-46e1-4405-a559-7fda3501cf7b@cf2.coixconqwe1.ir:2086?encryption=none&type=xhttp&path=/?ed=2082&host=Sse.2.termius.ir&mode=auto#EPODONIOS
 vless://ec9e4d1a-46e1-4405-a559-7fda3501cf7b@forallpanel.srtongston.ir:80?encryption=mlkem768x25519plus.random.0rtt.HdYYG9FCDbmM-wWYng30EG_EqL3MRjCAFrjwTsv833o&type=httpupgrade&path=/&host=rubika.ir.Play.google.com.www.speedtest.net.chaTgpt.com.openai.com.icloud.com.OGXfeggx.Netherlands1.GoCrxtxh.francee1.postshup.ir.#EPODONIOS
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.88:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&fp=chrome&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#EPODONIOS
-vless://eccc1f9d-985f-4ab0-a15c-9f4df0ef4b6e@karandish.mahkocholo.com:58055?security=reality&encryption=none&pbk=eiDyRuMGa0Jyb2Ff4w1Pb7zTri5h38R2w0kZj0uksF4&headerType=none&fp=chrome&spx=/OzLl67MiAbKxcpj&type=tcp&sni=play.google.com&sid=374b32ed91f8f023#EPODONIOS
-vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/139.99.124.165=443&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#EPODONIOS
