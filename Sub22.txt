@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0301
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.154:800#%F0%9F%87%A8%F0%9F%87%A6CA-196.247.59.154-0302
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.39:5500#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-0303
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-0304
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.190.39:5003#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-0305
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@213.183.63.221:9001#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.221-0307
-vmess://ewogICAgImFkZCI6ICIxODUuMTYyLjIyOC4yMjkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi81UU5ST1NSViIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTg1LjE2Mi4yMjguMjI5LTAzMDgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJvcGxnMS56aHVqaWNuMi5jb20iCn0=
 vmess://ewogICAgImFkZCI6ICIyMDMuMzAuMTkwLjE5MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTZhMjE4OGItMmFiNy00MDJjLWI5YjgtMzQ4NDdmZGYwOTU4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLzVRTlJPU1JWIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0yMDMuMzAuMTkwLjE5MS0wMzEyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAib3BsZzEuemh1amljbjIuY29tIgp9
 vmess://ewogICAgImFkZCI6ICIyMDMuMzAuMTg5LjE5MSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0EyREpPUEZUIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0yMDMuMzAuMTg5LjE5MS0wMzEzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibGcxMC5jZmNkbjEueHl6Igp9
 ss://YWVzLTEyOC1nY206YzBiNGVmYjAtYWI4MS00NmY4LTg3YWYtODE1YjYyMzUxMDg5@120.233.24.238:7402#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.24.238-0034
@@ -503,3 +496,10 @@ trojan://EQ30679154@pretty-mollusk.rooster465.autos:443#EPODONIOS
 trojan://EQ30679154@thorough-foxhound.rooster465.autos:443/?type=tcp&security=tls&fp=chrome#EPODONIOS
 trojan://EQ30679154@true-coral.rooster465.autos:443#EPODONIOS
 trojan://EQ30679154@willing-eagle.rooster465.autos:443/?type=tcp&security=tls&fp=chrome#EPODONIOS
+trojan://Edk07MJ3Xqg5cl1j5519zqwX2f2EFjON@vip-sg-1.hkd4fwmg.vip:21802?allowInsecure=0&sni=vip-sg-1.hkd4fwmg.vip#EPODONIOS
+trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#EPODONIOS
+trojan://FH72359861@15.237.112.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=smiling-fowl.rooster465.autos#EPODONIOS
+trojan://FH72359861@3.120.70.66:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=renewed-porpoise.rooster465.autos#EPODONIOS
+trojan://FH72359861@3.253.78.205:443/?type=tcp&security=tls&sni=balanced-heron.rooster465.autos&fp=chrome#EPODONIOS
+trojan://FH72359861@3.253.78.205:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=balanced-heron.rooster465.autos#EPODONIOS
+trojan://FH72359861@3.64.117.92:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=epic-iguana.rooster465.autos#EPODONIOS
