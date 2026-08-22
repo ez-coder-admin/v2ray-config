@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@v2rayng3
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#چنل عضو شو @v2ra_config
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#@v2rayng3
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Ai_DueT🌐
@@ -502,4 +503,3 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@fairyloot.com:443?encryption=none&s
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/66.42.51.60#کانال تلگرام : Free_VPN_CH@
 vless://aac3348a-5adb-45b8-875a-305102c3bfa7@Hes.purplrose.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=meh.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=meh.purplrose.ir#@ai_duet
 vless://ab5a2531-acc1-4a54-b16c-e14665dc88a5@direct.freelauner.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@NETMelliAnti
-vless://ab704845-fa0a-444c-a45f-0c23be586bf4@104.21.9.48:8443?path=/eddd&security=tls&alpn=h2&encryption=none&insecure=0&host=ge.bllackray.ir&fp=chrome&type=ws&allowInsecure=0&sni=ge.bllackray.ir#کانال ما

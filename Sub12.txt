@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ab704845-fa0a-444c-a45f-0c23be586bf4@104.21.9.48:8443?path=/eddd&security=tls&alpn=h2&encryption=none&insecure=0&host=ge.bllackray.ir&fp=chrome&type=ws&allowInsecure=0&sni=ge.bllackray.ir#کانال ما
 vless://ab704845-fa0a-444c-a45f-0c23be586bf4@104.21.9.48:8443?path=/eddd&security=tls&alpn=h2&encryption=none&insecure=0&host=ge.bllackray.ir&fp=chrome&type=ws&allowInsecure=0&sni=ge.bllackray.ir#🇨🇦149789 | ⚡️Telegram = t.me/SOSkeyNET
 vless://ab704845-fa0a-444c-a45f-0c23be586bf4@45.131.6.67:8443?path=/eddd&security=tls&alpn=h2&encryption=none&insecure=0&host=ge.bllackray.ir&fp=chrome&type=ws&allowInsecure=0&sni=ge.bllackray.ir#کانال ما
 vless://ab704845-fa0a-444c-a45f-0c23be586bf4@45.131.6.67:8443?path=/eddd&security=tls&alpn=h2&encryption=none&insecure=0&host=ge.bllackray.ir&fp=chrome&type=ws&allowInsecure=0&sni=ge.bllackray.ir#🇧🇿149790 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=t
 vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol6.artarona.ir&type=ws&allowInsecure=0&sni=lol6.artarona.ir#TEL;Father_vpn
 vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.67.178.251:443?path=/vless&security=tls&encryption=none&insecure=0&host=admin.jikebet.com&fp=chrome&type=ws&allowInsecure=0&sni=admin.jikebet.com#@v2ray313 کانالمون 👥
 vless://c0f16ee2-a909-4890-ab1c-96489230658a@admin.jikebet.com:443?path=/vless&security=tls&encryption=none&insecure=0&host=admin.jikebet.com&type=ws&allowInsecure=0&sni=admin.jikebet.com#bisto4_service
-vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺139913 | ⚡️Telegram = t.me/SOSkeyNET
