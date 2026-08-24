@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://207561ae-a447-4edf-9154-ac781ae5ed13@game-net1212.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.6sX65UGupCsfoa79w42JvLZkJfnDvacVv0m9bplzXiM&host=game-net1212.th3store.ir&type=httpupgrade#@V2ray_Alpha🐘 10
+vless://207561ae-a447-4edf-9154-ac781ae5ed13@game-net1212.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.6sX65UGupCsfoa79w42JvLZkJfnDvacVv0m9bplzXiM&host=game-net1212.th3store.ir&type=httpupgrade#@meliproxyy
 vless://207561ae-a447-4edf-9154-ac781ae5ed13@game-net1212.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.6sX65UGupCsfoa79w42JvLZkJfnDvacVv0m9bplzXiM&host=game-net1212.th3store.ir&type=httpupgrade#vpnsal
 vless://207561ae-a447-4edf-9154-ac781ae5ed13@game-net1212.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.6sX65UGupCsfoa79w42JvLZkJfnDvacVv0m9bplzXiM&host=game-net1212.th3store.ir&type=httpupgrade#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 vless://207561ae-a447-4edf-9154-ac781ae5ed13@game-net1212.th3store.ir:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.6sX65UGupCsfoa79w42JvLZkJfnDvacVv0m9bplzXiM&host=game-net1212.th3store.ir&type=httpupgrade#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
@@ -501,5 +503,3 @@ vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality
 vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@206.72.205.152:40296?security=none&encryption=none&headerType=none&type=tcp#@Net2ray 2
 vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?encryption=none&security=none&type=xhttp&host=qbank.ir&path=/-AzV2ry?ed=2056&mode=auto#کانال تلگرام : Free_VPN_CH@
 vless://3d44b674-1c52-44d5-99a7-c759dd9257cf@185.126.236.181:8080?encryption=none&type=tcp&headerType=http&host=www.icloud.com#@proxytmproxy🇦🇹@
-vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@CUSTOMVPNSERVER
-vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@KAFING_2
