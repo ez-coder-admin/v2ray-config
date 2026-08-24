@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://19a1e376-d05a-4af0-b7ef-c7d33133c2ff@Connect.0912.org:443?security=none&encryption=none&host=testspeed-foreign.tci.irir&headerType=http&type=tcp#🇩🇪 | Germany - @Salarvand_Cloud , @Hideng_App
 vless://19ac8928-fe6e-49af-a223-9ca127e4018f@45.150.66.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=CTduQ5Pvex1U2D1ojmFgSF4MQ1N7Yft7EfnEEBK1l1U&security=reality&sid=c571c801812c&sni=www.nvidia.com&type=tcp#🏓55@oneclickvpnkeys
 vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@154.83.246.2:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#🏓17@oneclickvpnkeys
 vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@45.195.2.133:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🏓56@oneclickvpnkeys
@@ -502,4 +503,3 @@ vless://33853c35-c901-4f4f-b3b7-ef2ce21235a6@www.speedtest.net:8080?path=/DAILYC
 vless://33853c35-c901-4f4f-b3b7-ef2ce21235a6@www.speedtest.net:8080?path=/DAILYCONFIGS?ed=8080&security=none&encryption=none&host=DAILYconfigs-dailyCONFIGS-DAILYconfigs.vigilantecollection.com.&type=ws#کانال ما
 vless://33853c35-c901-4f4f-b3b7-ef2ce21235a6@www.speedtest.net:8080?path=/DAILYCONFIGS?ed=8080&security=none&encryption=none&host=DAILYconfigs-dailyCONFIGS-DAILYconfigs.vigilantecollection.com.&type=ws#🇨🇦151446 | ⚡️Telegram = t.me/SOSkeyNET
 vless://33853c35-c901-4f4f-b3b7-ef2ce21235a6@www.speedtest.net:8080?path=/DAILYCONFIGS?ed=8080&security=none&encryption=none&host=DAILYconfigs-dailyCONFIGS-DAILYconfigs.vigilantecollection.com.&type=ws#🚀@VPNine1
-vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@xhttpru.enotvpn.net:443?encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&type=xhttp&path=/&mode=auto#@Daily_Configs
