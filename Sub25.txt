@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#EPODONIOS
-vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/fuyDxo1D1hIDYFH&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=14#EPODONIOS
 vless://3d0135ce-97f0-4b2f-90c3-e8aaa01be795@206.72.205.152:40296?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?encryption=none&security=none&type=xhttp&host=qbank.ir&path=/-AzV2ry?ed=2056&mode=auto#EPODONIOS
 vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#EPODONIOS
@@ -503,3 +501,5 @@ vless://64abd4e7-59ad-4a74-e3df-cd5d87cc105a@www.speedtest.net:8880?path=/@LOCKE
 vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565/?type=ws&encryption=none&flow=&path=/#EPODONIOS
 vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://658f7138-93c2-414d-a6c2-f332c94d4034@94.183.219.243:8443/?type=grpc&encryption=none&flow=&sni=cdn.shopify.com&fp=chrome&security=reality&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&sid=f747a7a5793b5714#EPODONIOS
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?encryption=none&security=tls&sni=nbhhh.mrcool.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=nbhhh.mrcool.kdns.fr&path=/@soskeynets#EPODONIOS
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?encryption=none&security=tls&sni=nbhhh.mrcool.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=nbhhh.mrcool.kdns.fr&path=/@soskeynets#EPODONIOS

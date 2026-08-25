@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://44b9c809-f7ca-13d8-e004-784b871de0bf@69.46.46.39:443?path=/ws/44b9c809-f7ca-13d8-e004-784b871de0bf&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tagh-production-kjdbd.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tagh-production-kjdbd.up.railway.app#@FarazV2ray
-vless://44b9c809-f7ca-13d8-e004-784b871de0bf@69.46.46.39:443?path=/ws/44b9c809-f7ca-13d8-e004-784b871de0bf&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tagh-production-kjdbd.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tagh-production-kjdbd.up.railway.app#@IRAN_V2RAY1
 vless://44b9c809-f7ca-13d8-e004-784b871de0bf@69.46.46.39:443?path=/ws/44b9c809-f7ca-13d8-e004-784b871de0bf&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tagh-production-kjdbd.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tagh-production-kjdbd.up.railway.app#@V2ray_Alpha🏠 7
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@KAFING_2
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:8443?path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@KAFING_2
@@ -503,3 +501,5 @@ vless://626c0789-16d1-4815-be8b-bd03959d7d12@194.26.192.76:443?security=reality&
 vless://627b1c2d-2905-470f-857a-da7589968fbc@2.26.135.193:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=smorodina.mycdn-me.ru&security=reality&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&sid=a1f9c0e21d7b6485#نتورلد تو تلگرام جستجو کنید
 vless://627b1c2d-2905-470f-857a-da7589968fbc@2.26.135.193:443?security=reality&encryption=none&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smorodina.mycdn-me.ru&sid=a1f9c0e21d7b6485#🇩🇪@FreakConfig
 vless://62a08ea5-0564-47b4-a92c-25be07ad6358@93.152.223.214:443?mode=gun&security=reality&encryption=none&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&fp=chrome&spx=/&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶🔷️522🌐🆕️
+vless://62a2e958-56ae-4f30-b98a-3b084622f9bc@176.65.151.52:44406?security=&encryption=none&headerType=none&type=tcp#@FarazV2ray
+vless://62a2e958-56ae-4f30-b98a-3b084622f9bc@176.65.151.52:44406?security=&encryption=none&headerType=none&type=tcp#@V2rayng_Fast

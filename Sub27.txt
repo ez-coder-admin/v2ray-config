@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@TOOTFFARANGI?ed=2560&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@TOOTFFARANGI_TOOTFFARANGI?ed=2048&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@bored_vpn?ed=2048&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@leviconfigs?ed=2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
@@ -503,3 +501,5 @@ vless://a7b22989-6c1f-4b59-b0f3-0605401813c4@45.131.4.115:80?encryption=none&hos
 vless://a7b8b48e-1000-46f5-a974-f6606d94f3b4@104.24.152.211:8880?encryption=none&host=misty-hill-4b94.146-c18.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#EPODONIOS
 vless://a80883ec-7e11-42bc-b319-8012e8b06a35@188.114.97.50:80?security=none&type=ws&host=6.V2ray.Р#EPODONIOS
 vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?path=/cdn/assets/stream&security=none&encryption=none&host=cnd.france2.gg.newwaycdn.com&type=ws#EPODONIOS
+vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#EPODONIOS
+vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&host=/?BIA_TELEGRAM@leviconfigs_leviconfigs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#EPODONIOS
