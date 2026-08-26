@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7b70f46e-2a6f-491b-92c7-3655635c0157@de.ehsanazizi-speed-server.com:2087?mode=stream-one&path=/speed&security=tls&alpn=h2,http/1.1&encryption=none&extra={  "mode" : "stream-one",  "xPaddingBytes" : "100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#TEHRANARGO
 vless://7b70f46e-2a6f-491b-92c7-3655635c0157@de.ehsanazizi-speed-server.com:2087?mode=stream-one&path=/speed&security=tls&alpn=h2,http/1.1&encryption=none&extra={  "mode" : "stream-one",  "xPaddingBytes" : "100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#configprxy
 vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#TEL;Father_vpn
 vless://7bb6d2aa-6238-48a6-abe2-c7deb083b08e@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=04bf0403f96e5b4b#TEL;Father_vpn
@@ -503,3 +502,4 @@ vless://8ce90db0-2b57-41eb-83f2-f65f68c6409b@5.75.207.94:7190?encryption=none&se
 vless://8d05cda5-c9ba-43cf-846e-b9521b872c71@42.200.230.97:26787/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.hk&fp=chrome&security=reality&pbk=Vqv9pBx8p87P0Kqa6m9z4YXXR5Tcy-v6VJl7efHLjSo&sid=45e41fe645b0a78d#香港
 vless://8d05cda5-c9ba-43cf-846e-b9521b872c71@bzgwleqqngnbdbwwybhmqqn.cfooov.xyz:26787/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.hk&fp=chrome&security=reality&pbk=Vqv9pBx8p87P0Kqa6m9z4YXXR5Tcy-v6VJl7efHLjSo&sid=45e41fe645b0a78d#香港
 vless://8d05cda5-c9ba-43cf-846e-b9521b872c71@wwhgbmxaycrqwzxhfa.cfooov.xyz:32178/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&allowInsecure=1&fp=chrome&security=reality&pbk=MrBX-OPkFMp19rzgSbungdUFdoUSXAg7phFfeowkvxo&sid=9c01c7e98b93e683&packetEncoding=xudp#台湾
+vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚

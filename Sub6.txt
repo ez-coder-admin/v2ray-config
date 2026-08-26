@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@31.77.170.30:443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&pbk=qNCzfY_ga5_n3NCD0g1XoiBWcnofF4SHUM27jvoBAyw&fp=chrome&type=grpc&serviceName=grpc&sni=stackoverflow.com&sid=0ea83f18e6b2#@MARAMBASHI 💙
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@31.77.170.30:443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@TOOTFFARANGI&pbk=qNCzfY_ga5_n3NCD0g1XoiBWcnofF4SHUM27jvoBAyw&fp=chrome&type=grpc&serviceName=grpc&sni=stackoverflow.com&sid=0ea83f18e6b2#@tootffarangi🍓-6
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@31.77.170.30:443?mode=gun&security=reality&encryption=none&pbk=qNCzfY_ga5_n3NCD0g1XoiBWcnofF4SHUM27jvoBAyw&fp=chrome&type=grpc&serviceName=grpc&sni=stackoverflow.com&sid=0ea83f18e6b2#🇳🇱 V2RayyNGvpn
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@31.77.170.30:443?security=reality&encryption=none&pbk=qNCzfY_ga5_n3NCD0g1XoiBWcnofF4SHUM27jvoBAyw&fp=chrome&type=grpc&serviceName=grpc&sni=stackoverflow.com&sid=0ea83f18e6b2#Channel id: @ConfigV2RayNG 🇳🇱
@@ -503,3 +502,4 @@ vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?encryption=none&fl
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#@FarazV2ray
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#@V2raySaman
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#@V2rayng_Fast
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#@bored_vpn

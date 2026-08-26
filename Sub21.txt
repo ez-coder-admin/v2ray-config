@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
 ✅ مناسب وب گردیvmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSSVBfVlBOICDYqNix2KfbjCDYs9ix2YjYsSDZh9in24wg2KjbjNi02KrYsSDYrNmI24zZhiDYqNi024zYryIsDQogICJhZGQiOiAiMTMuNDguNDguNDQiLA0KICAicG9ydCI6ICIxMTExMSIsDQogICJpZCI6ICI3Y2I3Mjg4My05NjM1LTQ2ZWItODUzMS04ZDY5NzkyN2ZmMDQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImFlcy0xMjgtZ2NtIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=╭ CHANNEL: @VorTexIRN╰ GROUP: @VorTexIRN_Group
 
 
@@ -503,3 +502,4 @@ vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&secur
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.91.194:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3ADE
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.91.194:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3ADE
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#%3E%3E%40v2ray1_ng%3A%3AUS
+vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?encryption=none&host=cold-shadow-66a0.278.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

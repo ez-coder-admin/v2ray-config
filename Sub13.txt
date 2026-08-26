@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://XpnTeam-33@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#Telegram channel : @Daily_Configs
 vless://XpnTeam-33@199.232.78.160:443?encryption=none&type=ws&security=tls&path=/&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#vpnsal
 vless://XpnTeam-33@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://XpnTeam-33@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@B2Hub
@@ -503,3 +502,4 @@ vless://b7c0b208-8f36-4433-ac80-1737a49209b1@asia6.novahomedesigntips.com:6677?p
 vless://b7d9d47c-1378-4e1b-83d9-51c74bd5c036@130.185.123.32:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#MTMVPN 54
 vless://b7ee8185-a285-7f38-4e42-411da1656523@cf2.3pita.com:443?encryption=none&security=tls&sni=de.www.hitgram.ir&alpn=h2&fp=chrome&type=xhttp&host=de.www.hitgram.ir&path=/mitivpn&mode=packet-up&extra={"headers":{}}#کانال تلگرام : Free_VPN_CH@
 vless://b7f48f17-98db-4379-9b48-943ea54346b9@test.soundfiy.ir:31579?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@Nexus_Panell چنل تلگرام
+vless://b7f48f17-98db-4379-9b48-943ea54346b9@test.soundfiy.ir:31579?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷153040 | ⚡️Telegram = t.me/SOSkeyNET
