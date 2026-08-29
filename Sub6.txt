@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#@meliproxyy
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#🔥 @free_conf_iran 🔥 12
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@B2Hub
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Capoit
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@FarazV2ray
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2raySaman
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@bored_vpn
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@icv2ray
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti²🎧
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti³⏳
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti⁵🎧
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti⁷🪶
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@mehrosaboran
+trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@vmesskhodam
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[🇨🇦]t.me/ConfigV2RayNG
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Nexus_Panell چنل تلگرام
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
@@ -488,18 +503,3 @@ vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality
 vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#🇳🇴@FreakConfig
 vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#@V2rayng_Fast 🇸🇪
 vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&host=/?BIA_TELEGRAM@TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#@FarazV2ray
-vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&host=/?BIA_TELEGRAM@TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#@tootffarangi🍓-12
-vless://14f493a7-242a-4add-8413-cecc063b3ce3@130.185.123.32:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#@leviconfigs🪐-6
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@cp-gre.mikikoo.com:8880?encryption=mlkem768x25519plus.native.0rtt.Z230JFlxwTSnGiTF3TOX6GMk3ucKaIAlpAFyQmtnEhM&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/#کانال ما
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@cp-gre.mikikoo.com:8880?encryption=mlkem768x25519plus.native.0rtt.Z230JFlxwTSnGiTF3TOX6GMk3ucKaIAlpAFyQmtnEhM&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/#🇩🇪155315 | ⚡️Telegram = t.me/SOSkeyNET
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@cp-gre.mikikoo.com:8880?encryption=mlkem768x25519plus.native.0rtt.Z230JFlxwTSnGiTF3TOX6GMk3ucKaIAlpAFyQmtnEhM&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=/#🇩🇪DE-🚀@VPNine1
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@shadow.mikikoo.com:2087?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&sid=a89fcda873316426&spx=/&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=yourServiceName#@meliproxyy
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@shadow.mikikoo.com:2087?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&sid=a89fcda873316426&spx=/&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=yourServiceName#🇩🇪All⁷ | @BigSmoke_Config
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@shadow.mikikoo.com:2087?mode=gun&security=reality&encryption=none&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&fp=chrome&spx=/&type=grpc&serviceName=yourServiceName&sni=amp-api-edge.apps.apple.com&sid=a89fcda873316426#@confiig_hub
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@shadow.mikikoo.com:2087?mode=gun&security=reality&encryption=none&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&fp=chrome&spx=/&type=grpc&serviceName=yourServiceName&sni=amp-api-edge.apps.apple.com&sid=a89fcda873316426#@v2ray313 کانالمون 😈
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@shadow.mikikoo.com:2087?mode=gun&security=reality&encryption=none&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&fp=chrome&spx=/&type=grpc&serviceName=yourServiceName&sni=amp-api-edge.apps.apple.com&sid=a89fcda873316426#[31479] - Telegram : @V2All
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@shadow.mikikoo.com:2087?mode=gun&security=reality&encryption=none&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&fp=chrome&spx=/&type=grpc&serviceName=yourServiceName&sni=amp-api-edge.apps.apple.com&sid=a89fcda873316426#https://t.me/mtmvpn
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@svr-lanei.mikikoo.com:2087?mode=gun&security=reality&encryption=none&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&fp=chrome&spx=/&type=grpc&serviceName=yourServiceName&sni=amp-api-edge.apps.apple.com&sid=a89fcda873316426#@meliproxyy
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@svr-lanei.mikikoo.com:2087?mode=gun&security=reality&encryption=none&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&fp=chrome&spx=/&type=grpc&serviceName=yourServiceName&sni=amp-api-edge.apps.apple.com&sid=a89fcda873316426#[31496] - Telegram : @V2All
-vless://15150c26-7e7f-42a7-8e7a-d0b9ab359214@svr-lanei.mikikoo.com:2087?mode=gun&security=reality&encryption=none&pbk=4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U&fp=chrome&spx=/&type=grpc&serviceName=yourServiceName&sni=amp-api-edge.apps.apple.com&sid=a89fcda873316426#کانال تلگرام-MTMVPN
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#@hopev2ray❤️
