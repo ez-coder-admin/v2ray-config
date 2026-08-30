@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bbde90cd-b6a9-49ba-cab0-71ae12738502@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ansooyefilter 💫❤️
 vless://bbde90cd-b6a9-49ba-cab0-71ae12738502@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://bbff0604-8fdb-43fc-a3ab-bcb46c4e4807@download.mehdi-cpp.ir:443?security=reality&encryption=none&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&headerType=none&fp=chrome&spx=/9e2ee6ae1bace80&type=tcp&sni=www-ams.samsung.com&sid=7730d24eb50a0124#@meliproxyy
 vless://bbff0604-8fdb-43fc-a3ab-bcb46c4e4807@download.mehdi-cpp.ir:8086?security=reality&encryption=none&pbk=nnq5J3zXFDHUGvCza7e5CMa34oexEcXUqAfqz_YY7yo&headerType=none&fp=chrome&spx=/3561fc211c07f9d&type=tcp&sni=www.gpuopen.com&sid=85cb75e572#@meliproxyy
@@ -502,4 +503,3 @@ vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?security=realit
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?security=reality&encryption=none&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&headerType=none&type=tcp&sni=palworld.mega-play.app&sid=ae47480fa46b76b0#کانال ما
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.147:8443?security=reality&encryption=none&pbk=ADsgS2NlS_Mi16n8h1beCVgWL4KvNj5tnRg9qYzFG14&headerType=none&type=tcp&sni=palworld.mega-play.app&sid=ae47480fa46b76b0#🔵@chillguy_vpn
 vless://d53f098c-c146-4c16-b8fc-263743fdb6b3@203.23.179.222:8443?encryption=none&fp=&pbk=y9dQYV_XNHvZeVhXfUVjTDATXpqPSw9HHOtqiobp0io&security=reality&sid=038d56046630fc9a&sni=minecraft.mega-play.app&type=tcp#🚘8@oneclickvpnkeys
-vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#@FarazV2ray

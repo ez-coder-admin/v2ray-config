@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjgiLCJhZGQiOiIzMS4xNS4xNi4zNyIsInBvcnQiOiI0NDMiLCJpZCI6IjJlNTQ3NzUzLTdmMTktNDgwZS1iMjc2LTFkMjZhZjQyOWI5NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjY4In0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjkiLCJhZGQiOiI2NS4xMDkuMTc4LjEwIiwicG9ydCI6IjIwODYiLCJpZCI6ImY2MzYxYWY4LWJiOGYtNDYwOS1iZjVkLTNmYzBmNjg4ZjQ3YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjY5In0=
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzAiLCJhZGQiOiIyMy4xMzcuMjQ5LjExMCIsInBvcnQiOiIzMDAxMSIsImlkIjoiYTdhZWU2OWUtNmUwMi00N2QxLTgxNzItNzAxODY2YmJiMjhjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoiMjMuMTM3LjI0OS4xMTAiLCJ0ZXN0X25hbWUiOiI3MCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzEiLCJhZGQiOiIxNjkuNDAuMzIuNDgiLCJwb3J0IjoiNTA2MSIsImlkIjoiZjU0ZTkzZDEtY2Q4ZS00MzRmLTgxMjItNDg4N2U2MmM5N2Y1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiItLS0iLCJob3N0IjoiMTY5LjQwLjMyLjQ4IiwicGF0aCI6Ii9uZGl3bndpZGllODJJc21zaU9wIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzEifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzIiLCJhZGQiOiI5MS4xMDcuMTUzLjIzMiIsInBvcnQiOiI0NTAwMiIsImlkIjoiNTE4ODE0ZmItNzlhNy00ZTZmLWFlOGEtYWI1YmYwZTc3MzgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzIifQ==
@@ -110,7 +112,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTQ4IiwiYWRkIjoiNDYuMjI0LjE3MS4yMjAiLCJwb3J0
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTQ5IiwiYWRkIjoiMTA5LjI0OC4xNjIuMTk0IiwicG9ydCI6IjU1Njk5IiwiaWQiOiIyYzJmYzZhOC02YTNjLTQxMGMtODY4Yi02MjBmNTZhMWQxMGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNDkifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#[
-#§t?ð {´+âÆgYYþ±ÙùTLdïõ2¹a-ä²"ß«¯ Û¬åzÊo:éÇc>úæé­÷Ú
 vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&fp=&headerType=http&path=%2Fnaranv2ray&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&security=reality&sid=9e0fac51cc19d2&sni=play.google.com&type=tcp#%F0%9F%A6%8174@oneclickvpnkeys
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?encryption=none&fp=&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&security=reality&sid=5b8a942318178e7b&sni=www.apple.com&type=tcp#%E2%9A%9B%EF%B8%8F51@oneclickvpnkeys
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%E2%9A%99%EF%B8%8F8@oneclickvpnkeys
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#@FarazV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#@V2ray_Alpha🏨 10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#MTMVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@B2Hub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#@ghand_sheken

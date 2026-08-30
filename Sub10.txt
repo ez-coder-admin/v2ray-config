@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://50414e45-4c5f-5a45-5553-92b68c3eae48@104.21.60.98:443?path=/stream/PANEL_ZEUS/92b68c3eae48&security=tls&encryption=none&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
 vless://50414e45-4c5f-5a45-5553-bf9469ad4a75@104.16.174.226:443?path=/stream/PANEL_ZEUS/bf9469ad4a75&security=tls&encryption=none&insecure=0&host=lyzsruenutws.38539572.workers.dev&type=ws&allowInsecure=0&sni=lyzsruenutws.38539572.workers.dev#@meliproxyy
 vless://505094ea-297c-496a-af29-ed33db58f820@172.66.47.19:80?security=none&type=ws&host=speedtest.net.ir.com.site.Р#@Hope_Net-join-us-on-Telegram
 vless://505826d0-10c7-4bb9-a405-e151ea515935@us01hk.lockdwn.com:443?path=/&security=none&encryption=none&type=ws&sni=us01hk.lockdwn.com#☑➜چنلمون: Express_freevpn@
@@ -502,4 +503,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?ed=2560&eh=Sec-W
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.30:8880?encryption=none&host=vms.lifetime35.workers.dev&path=/&security=none&type=ws#🚘21@oneclickvpnkeys
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.30:8880?path=/&security=&encryption=none&host=vms.lifetime35.workers.dev&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.23.106.39:2053?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#کانال تلگرام : Free_VPN_CH@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed#کانال تلگرام : Free_VPN_CH@

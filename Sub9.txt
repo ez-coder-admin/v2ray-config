@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.133:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#Channel : @Daily_Configs
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=getsavesafe.net&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#@Ap_Ir6
 vless://3a619f5e-af27-968b-e42a-39fa07424821@inetchnl-production-af9e.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-af9e.up.railway.app&path=/ws/3a619f5e-af27-968b-e42a-39fa07424821&sni=inetchnl-production-af9e.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#🇳🇱@iNetChnl
@@ -502,4 +503,3 @@ vless://50414e45-4c5f-5a45-5553-865be6c6aed4@104.16.29.250:443?path=/stream/PANE
 vless://50414e45-4c5f-5a45-5553-865be6c6aed4@104.17.100.104:443?path=/stream/PANEL_ZEUS/865be6c6aed4/loc-0&security=tls&encryption=none&host=yvzagcelunqs.73927482.workers.dev&type=ws&sni=yvzagcelunqs.73927482.workers.dev#@v2ray_phoenix
 vless://50414e45-4c5f-5a45-5553-865be6c6aed4@104.21.37.109:443?path=/stream/PANEL_ZEUS/865be6c6aed4/loc-0&security=tls&encryption=none&host=yvzagcelunqs.73927482.workers.dev&type=ws&sni=yvzagcelunqs.73927482.workers.dev#@v2ray_phoenix
 vless://50414e45-4c5f-5a45-5553-865be6c6aed4@162.159.229.25:443?path=/stream/PANEL_ZEUS/865be6c6aed4/loc-1&security=tls&encryption=none&host=yvzagcelunqs.73927482.workers.dev&type=ws&sni=yvzagcelunqs.73927482.workers.dev#@v2ray_phoenix
-vless://50414e45-4c5f-5a45-5553-92b68c3eae48@104.21.60.98:443?path=/stream/PANEL_ZEUS/92b68c3eae48&security=tls&encryption=none&insecure=0&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&type=ws&allowInsecure=0&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev#🇮🇹⇝ @GpConnectSho کانکت شو! 💠
