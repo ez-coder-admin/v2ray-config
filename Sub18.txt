@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cf0fc061-f38e-48b3-9ed2-c34458d08abf@146.75.119.82:80?type=ws&encryption=none&path=ws/?ed=2048/@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz@AzadMarz/?2048&host=rb24.ir&security=none#🇫🇮 AzadMarz [ Irancell / Rightel ]-JOIN  : @AzadMarz
 vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech
 vless://cf2f7b94-f5a8-4782-8ad7-e70097e12d1c@ssl.hostirann.xyz:443?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@ASinTech   ⚠️ * آموزش اتصال به کانفیگ
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=/GOrbEh#TELEGRAM-Cnetvpn?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#Telegram 🆔@cnetvpn
@@ -503,3 +502,4 @@ vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&e
 vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#@V2ray_Alpha🫘 7
 vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#@VConfing
 vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#@vmesskhodam
+vless://e2088306-8c10-4100-b775-747011c39c65@31.76.27.32:8443?security=reality&encryption=none&pbk=Pxqqq-cbFslG1Wla5VAcqPBCpNJbwH1O3IyKQ45uD0M&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=99115a#Tel-@ProxyMtAlpha🪅 6

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f1c63399-f3b9-9a7b-4ec4-2e2d1b9e09fc@69.46.46.34:443?mode=stream-up&path=/xhttp-siz10/stream-up/f1c63399-f3b9-9a7b-4ec4-2e2d1b9e09fc&security=tls&alpn=h2&encryption=none&host=sunny-reef-cd7f-production.up.railway.app&fp=chrome&type=xhttp&sni=sunny-reef-cd7f-production.up.railway.app#2 🇺🇸 @V2ngNet
 vless://f1dcdda0-b2d2-4e18-88e2-c87c9257128e@38.244.21.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=5iZBmQ9iLLxvEHo_XilfjC7OM2-EmYTPQp-bzxlTqUU&sid=4568f3e435322cc8#嘎
 vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@1.spotify24.ir:8080?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#Free x231 @Outline_Vpn
 vless://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@1.spotify24.ir:8080?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#[ 🇩🇪 ] | @Cfox_SerVer
@@ -502,4 +501,5 @@ vmess://eyJhZGQiOiJiYXdmZXdid2Fnci43Njg5ODEwMi54eXoiLCJhaWQiOjAsImhvc3QiOiIiLCJp
 
 
 vmess://eyJhZGQiOiJkZWFybWEuNzY4OTgxMDIueHl6IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1ZjljN2JkYS0zM2Y5LTNkZDAtYmNmNS1hY2EzMjQ0MThlMzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWJ1Y2l3eWciLCJwb3J0IjoyMDUyLCJwcyI6IuW+t+WbvTEgfCAwLjV4XzEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
+
 

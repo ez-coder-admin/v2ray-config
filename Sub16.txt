@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://XpnTeam-15@199.232.78.170:443?&security=tls&fp=chrome&alpn=http/1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=/#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://XpnTeam-15@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://XpnTeam-15@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-15@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
@@ -503,3 +502,4 @@ vless://b89196b1-7b72-4b81-83d0-e4d4df79f678@31.77.144.220:443?security=reality&
 vless://b89196b1-7b72-4b81-83d0-e4d4df79f678@89.125.100.29:443?encryption=none&security=reality&sni=nl2.yabloko.top&fp=chrome&pbk=-bdfPh42n5vMnPsrknIDPOzEOMsI1TlY9AjDPSggaR0&sid=1c10c8c03e2f0484&allowinsecure=0&type=tcp&headerType=none#🇩🇪All³ | @BigSmoke_Config
 vless://b89196b1-7b72-4b81-83d0-e4d4df79f678@89.125.100.29:443?encryption=none&security=reality&sni=nl2.yabloko.top&fp=chrome&pbk=-bdfPh42n5vMnPsrknIDPOzEOMsI1TlY9AjDPSggaR0&sid=1c10c8c03e2f0484&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁸ | @BigSmoke_Config
 vless://b89196b1-7b72-4b81-83d0-e4d4df79f678@89.125.100.29:443?encryption=none&security=reality&sni=nl2.yabloko.top&fp=chrome&pbk=-bdfPh42n5vMnPsrknIDPOzEOMsI1TlY9AjDPSggaR0&sid=1c10c8c03e2f0484&type=tcp&headerType=none#🇳🇱NL_2904_@Surfboardv2ray
+vless://b89196b1-7b72-4b81-83d0-e4d4df79f678@89.125.100.29:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=-bdfPh42n5vMnPsrknIDPOzEOMsI1TlY9AjDPSggaR0&headerType=none&fp=chrome&type=tcp&sni=nl2.yabloko.top&sid=1c10c8c03e2f0484#@meliproxyy

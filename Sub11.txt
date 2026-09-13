@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&authority=/?BIA_TELEGRAMI–@V2rayNG_SPDNet&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sid=861ac7d66953e55f#🔥 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: 𝐕𝟐𝐫𝐚𝐲𝐍𝐆_𝐒𝐏𝐃𝐍𝐞𝐭
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&authority=/t.me/V2rayBaaz&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f# MTMVPN 6
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#@V2raySaman
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#[🇷🇸]t.me/ConfigV2RayNG
@@ -503,3 +502,4 @@ vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?path=/&securi
 vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#@vmess_ir
 vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#@ICV2RAY
 vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#@NETMelliAnti
+vless://464bc502-f963-45b6-81e3-e33d18427506@shop.neexbyte.ir:8443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#@tootffarangi🍓-1
