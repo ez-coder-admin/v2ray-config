@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e36b8830-85d2-4e7b-9a44-477a363e90e1@itv2.taziyanebz.ir:443?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9e3f5e25c17d2615#@confing_v2rayy کانفینگ بیشتر در چنل 👈
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@1.cdnconn.com:23335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=chrome&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=chrome&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
 vless://e3a83021-da3d-4bb6-b274-b566ea928001@digi.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digi.riziro.ir&mode=auto&path=/&pbk=MOZqLg8CjhFY4cjCnITJNqo4IxlqCqedn9fJtM1bPlw&security=reality&sid=3b9fc820&sni=eu-images.shop.samsung.com&spx=/9zrYD4XMZFmYi3U&type=xhttp&x_padding_bytes=100-1000#🇩🇪hollowcon-7@hollowcon
@@ -503,3 +502,4 @@ vless://f1632cd2-3dd7-41c3-9755-6fea5f85a8db@lit6.litiran.ir:2053?mode=auto&path
 vless://f1632cd2-3dd7-41c3-9755-6fea5f85a8db@lit6.litiran.ir:2053?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=image-us.vipfast6.shop&type=xhttp&allowInsecure=0&sni=image-us.vipfast6.shop#@configprxy 🇺🇸
 vless://f1632cd2-3dd7-41c3-9755-6fea5f85a8db@lit7.litiran.ir:2053?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=image-du.storelit.ir&type=xhttp&allowInsecure=0&sni=image-du.storelit.ir#@configprxy 🇦🇪
 vless://f1c63399-f3b9-9a7b-4ec4-2e2d1b9e09fc@69.46.46.34:443?mode=stream-up&path=/xhttp-siz10/stream-up/f1c63399-f3b9-9a7b-4ec4-2e2d1b9e09fc&security=tls&alpn=h2&encryption=none&host=sunny-reef-cd7f-production.up.railway.app&fp=chrome&type=xhttp&sni=sunny-reef-cd7f-production.up.railway.app#2 🇺🇸 @V2ngNet
+vless://f1dcdda0-b2d2-4e18-88e2-c87c9257128e@38.244.21.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=5iZBmQ9iLLxvEHo_XilfjC7OM2-EmYTPQp-bzxlTqUU&sid=4568f3e435322cc8#嘎
