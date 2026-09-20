@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ff6e1028-b337-4062-a4db-86c784a9cdb4@ivox7.nevcore.ru:443?mode=packet-up&path=/content/media/stream/&security=tls&alpn=h2&encryption=none&extra={"xmux":{"cMaxReuseTimes":"0","maxConnections":"1","hKeepAlivePeriod":0,"hMaxRequestTimes":"300-600","hMaxReusableSecs":"900-1800"},"noSSEHeader":false,"xPaddingKey":"_token","xPaddingBytes":"16-64","xPaddingHeader":"X-Signature","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"query","scMaxEachPostBytes":"500000-1000000","uplinkDataPlacement":"body","scMinPostsIntervalMs":"50-150","scStreamUpServerSecs":"60-180"}&insecure=0&host=ivox7.nevcore.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=ivox7.nevcore.ru#🇷🇺 @V2_MOD_SHOP
+vless://ff6e1028-b337-4062-a4db-86c784a9cdb4@nl1.nevcore.ru:8443?security=reality&encryption=none&pbk=8d--Q-ukEleKlt5yMPF50BK_76VhZ9jiBvZzGONX0yw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=83a1c3d1295348be#⚡ @V2_MOD_SHOP
+vless://ff6e1028-b337-4062-a4db-86c784a9cdb4@nl1.nevcore.ru:8443?security=reality&encryption=none&pbk=8d--Q-ukEleKlt5yMPF50BK_76VhZ9jiBvZzGONX0yw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=83a1c3d1295348be#🇳🇱 @V2_MOD_SHOP
 vless://ff9307e6-f04a-4905-8cd4-7e690bd63eb8@104.17.119.248:8080?path=/eyJqdW5rIjoiYUVJQnRNVEk1MlJKUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=none&encryption=none&host=green-flower-361d.iamxenor.workers.dev&type=ws#@KAFING_2
 vless://iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI
 vless://iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
@@ -499,7 +502,4 @@ vmess://eyJhZGQiOiJ2aW4xLjBiYWQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidmlu
 
 
 همراه اولvmess://eyJhZGQiOiJ1cy0xLmZyZWUueXVqaTIwMjIuZ3EiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsIm5ldCI6IndzIiwicGF0aCI6Ii92QWFtYmo0RGdYcnM1c2ZDRnB0TWsiLCJwb3J0IjoiODg4MCIsInBzIjoi2KLZhdix24zaqdinIEB2MnJheU5HX1ZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==@v2rayNG_VPN
-
-
-همراه اولvmess://eyJhZGQiOiJoYWxlc2hvYmViYXIuZHJlYW15ZGF5c2FyZWNvbWluZy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjY5MmVmM2RlLTY1Y2MtNDMxZC1mZGIzLTg0ZGI0ZmI0NDdjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIxNTIyIiwicHMiOiJjb21lYmFja1hW8J+RkVJheWVnYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9@v2rayNG_VPN
 
