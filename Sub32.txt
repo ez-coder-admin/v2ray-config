@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://XpnTeam-26@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://XpnTeam-2@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+vless://XpnTeam-2@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XpnTeam-3@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XpnTeam-4@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
 vless://XpnTeam-4@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
@@ -500,6 +503,3 @@ vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?security=&a
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.167.234.26:443?allowInsecure=1&encryption=none&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#EPODONIOS
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.167.234.26:443?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#EPODONIOS
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.167.234.26:443?encryption=none&host=shuma.ccwu.cc&path=/fp=chrome&security=tls&sni=shuma.ccwu.cc&type=ws#EPODONIOS
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@109.120.138.192:443?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#EPODONIOS
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@138.124.58.31:8443?encryption=none&fp=chrome&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#EPODONIOS
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.188.153:443?allowInsecure=1&encryption=none&host=shuma.ccwu.cc&path=/&security=tls&sni=shuma.ccwu.cc&type=ws#EPODONIOS
