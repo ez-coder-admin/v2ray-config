@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4c910f7d-a04a-434d-9f33-974dd21446a8@iran-1.veraspeed.ir:1001?security=reality&encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.lYw6Kuqg5fkqZ2MBZoEGPXHTfMNfJpfAOePzhgio2wA&pbk=HbCS-g9So3i4HAaDxAxCSCtOovG6ZVqhHyHHrM8rTHw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.arvancloud.ir&sid=09f6db81ad984bc6#Free x422 @Outline_Vpn
 vless://4c910f7d-a04a-434d-9f33-974dd21446a8@us-1.veraspeed.ir:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.HqAJDapKVNOb1sf4hJJ9Bj_TFbuhclVZ185D0-R022o&pbk=aOfiTGCPr4ZjytCZrTL5zcMe-azl_FuG2Ywc1ZxH538&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=thestraightpath.ca&sid=fe9d69f0913cef88#@Tarkshodeh 🇳🇬
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=/?ed&security=&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#channel : @freedomofinfor
 vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=none&encryption=none&host=outlook.office365.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -502,4 +503,3 @@ vless://61e688aa-3e6f-4b74-bf6e-22362a2edb26@fin3.flotaw.ir:8443?path=/api&secur
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.64.30:8880?path=/&security=&encryption=none&host=vms.lifetime36.workers.dev&type=ws#@Tarkshodeh 🇺🇲
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?security=&encryption=none&host=vms.lifetime37.workers.dev&type=ws#@Tarkshodeh 🇺🇲
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.70.30:8880?encryption=none&host=vms.lifetime09.workers.dev&path=/&security=none&type=ws#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
