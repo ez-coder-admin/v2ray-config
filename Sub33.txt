@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://Telegramjoin:TurboConfigs @82.22.40.18:9090?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#EPODONIOS
-vless://Telegramjoin:TurboConfigs @82.22.40.48:443?encryption=mlkem768x25519plus.native.0rtt.fVOhMV6aPWtR-rFIegHlELTwltS4KGaRn0_GD2Aj6Gg&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#EPODONIOS
-vless://Telegramjoin:TurboConfigs @82.22.40.73:2091?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#EPODONIOS
-vless://V2XNET-V2XNET@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeeprd.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://V2XNET-V2XNET@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://V2XNET@188.114.98.0:443?path=/xvpnws/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=or.mirikhan.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=or.mirikhan.dpdns.org#EPODONIOS
-vless://V2XNET@199.232.78.105:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprddde43e.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XlnTeam-36@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=Appxdn.global.ssl.fastly.net&path=/#EPODONIOS
 vless://XlnTeam-36@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XpnFree-5@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
@@ -503,3 +496,10 @@ vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?encryption=none&
 vless://bf8c34f4-3c93-4428-8042-8834662d75e6@5.149.248.227:443?security=reality&encryption=none&pbk=RmsCt_VXBwBC8WF3TqprhXMbu7xZl18dVDwq0kDfqzE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=9d3372aebdef5228#EPODONIOS
 vless://bf9f28f2-e4cd-da2c-7c4a-7da78cdb337f@69.46.46.31:443?path=/ws/bf9f28f2-e4cd-da2c-7c4a-7da78cdb337f&security=tls&alpn=http/1.1&encryption=none&host=golden-harbor-6f04-production.up.railway.app&fp=chrome&type=ws&sni=golden-harbor-6f04-production.up.railway.app#EPODONIOS
 vless://bfa65651-8308-4517-96c0-bac568509f96@89.125.100.29:443?security=reality&encryption=none&pbk=-bdfPh42n5vMnPsrknIDPOzEOMsI1TlY9AjDPSggaR0&headerType=none&fp=chrome&type=tcp&sni=nl2.yabloko.top&sid=1c10c8c03e2f0484#EPODONIOS
+vless://bfa65651-8308-4517-96c0-bac568509f96@nl2.yabloko.top:443?security=reality&encryption=none&pbk=-bdfPh42n5vMnPsrknIDPOzEOMsI1TlY9AjDPSggaR0&headerType=none&fp=chrome&type=tcp&sni=nl2.yabloko.top&sid=1c10c8c03e2f0484#EPODONIOS
+vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://bfb8547f-2789-4446-a3e8-fb353b66bea0@zoi.zelmuro.ir:44443?encryption=none&security=tls&sni=zoi.zelmuro.ir&type=ws&path=/#EPODONIOS
+vless://bfba8d8f-da4d-efe2-56c2-fe1e726c9d5f@faultpass-panel-production-800a.up.railway.app:443?path=/ws/bfba8d8f-da4d-efe2-56c2-fe1e726c9d5f&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=faultpass-panel-production-800a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=faultpass-panel-production-800a.up.railway.app#EPODONIOS
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:39070?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://bff43cfe-8222-4b33-a13d-8e759caefa8a@188.137.235.28:56413?security=reality&encryption=none&pbk=dBK1Uu9s-8Ke6NcE3vQnv_RMMczuMGbGIVFbIA_oIig&headerType=none&fp=chrome&spx=/31d632363f77d02&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=0a809cfd4605f7b9#EPODONIOS
