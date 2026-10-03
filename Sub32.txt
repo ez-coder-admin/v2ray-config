@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7451454d-a345-45b5-d6ed-c35cf38c53dc@s2.zynetraq.ir:2087?mode=auto&pcs=0258c1ff5f1251a516a8ac42c354d3f757e43355dce7ac49e870acf3973ab711&path=/BetForward&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=s2.zynetraq.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=s2.zynetraq.ir#EPODONIOS
+vless://74a025dd-c287-4acf-a5fb-e573e10feef9@cdn-cloudflare455.korvexe.ir:2095?path=/&security=none&encryption=none&host=cdn-cloudflare455.korvexe.ir&type=httpupgrade#EPODONIOS
+vless://74a0d4f2-8eaa-4a4f-8b63-48880a8522ad@104.17.108.69:443/?type=ws&encryption=none&flow=&host=gamingss.xorilo.ir&path=/ws-vlees&security=tls&sni=gamingss.xorilo.ir&alpn=h2http/1.1#EPODONIOS
 vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=/&security=reality&encryption=none&extra={  "scMaxEachPostBytes" : "4194304-8388608",  "seqPlacement" : "query",  "uplinkChunkSize" : "32768-65536",  "uplinkHTTPMethod" : "POST"}&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=chrome&spx=/&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#EPODONIOS
 vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=/&security=reality&encryption=none&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=chrome&spx=/&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#EPODONIOS
 vless://74ef2b23-9f0b-4f8b-a817-9ec544e5d13d@fs.koomeh.net:443?mode=auto&path=/rmnwv&security=tls&encryption=none&insecure=0&host=Ajbbwuvmiiiiiiir0097.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
@@ -500,6 +503,3 @@ vless://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&e
 vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#EPODONIOS
 vless://966990b5-5868-4af1-add6-011c72b4a443@45.207.157.8:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&sid=b390142456517acc#EPODONIOS
 vless://969a990d-5289-7ae1-5e71-90476928f93a@209.38.53.131:1161?encryption=none&security=none&type=tcp&headerType=http&host=www.tno.nl#EPODONIOS
-vless://969a990d-5289-7ae1-5e71-90476928f93a@209.38.53.131:1161?encryption=none&type=tcp&headerType=http&host=www.tno.nl#EPODONIOS
-vless://969a990d-5289-7ae1-5e71-90476928f93a@209.38.53.131:1161?security=none&encryption=none&host=www.tno.nl&headerType=http&type=tcp#EPODONIOS
-vless://96be5da6-5a25-4c96-b790-08fb39f69f07@65.109.218.12:5050?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
