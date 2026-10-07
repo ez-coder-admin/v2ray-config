@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9f5762c0-2fbb-4609-be8a-f3cf4f22fd38@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@VEGAAS_VPN🇳🇱
+vless://9f5762c0-2fbb-4609-be8a-f3cf4f22fd38@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=ukvman.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Nexus_Panell چنل تلگرام
+vless://9f5762c0-2fbb-4609-be8a-f3cf4f22fd38@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=ukvman.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Tel-@ProxyMtAlpha♟️ 8
+vless://9f5762c0-2fbb-4609-be8a-f3cf4f22fd38@fast.jkerm.com:443?path=/&security=tls&encryption=none&insecure=0&host=italyji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@VEGAAS_VPN🇮🇹
 vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@94.228.160.245:443?security=reality&encryption=none&pbk=BPV8HJ-kqcYDM4o7BDXDv3M9VAMWStDfXkkXmyPICWQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-03-10.zetnik.site&sid=88e13e67db3f1a32#@IRAN_V2RAY1 🌟
 vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@94.228.160.245:443?security=reality&encryption=none&pbk=BPV8HJ-kqcYDM4o7BDXDv3M9VAMWStDfXkkXmyPICWQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-03-10.zetnik.site&sid=88e13e67db3f1a32#@outline_ir
 vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@nl-03-10.zetnik.site:443?security=reality&encryption=none&pbk=BPV8HJ-kqcYDM4o7BDXDv3M9VAMWStDfXkkXmyPICWQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl-03-10.zetnik.site&sid=88e13e67db3f1a32#@IRAN_V2RAY1 🌟
@@ -499,7 +503,3 @@ vless://b10e8a5b-82bd-4040-935d-6462eaf4f78e@web.trostshield.online:443?flow=xtl
 vless://b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@138.124.126.158:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Lxs8Ruv2zHH0XW5EiQmuCaScfkGPCxWjW02YDWH8pyU&security=reality&sid=eb0cca7312345678&sni=eh.vk.com&type=tcp#🇩🇪139843 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b1813cbd-831f-4cb3-baf8-5bc0cc8298bc@83.168.107.220:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=c56d4f1c&type=tcp&headerType=none#🇵🇱PL-🚀@VPNine1
 vless://b1813cbd-831f-4cb3-baf8-5bc0cc8298bc@83.168.107.220:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#@ICV2RAY
-vless://b1813cbd-831f-4cb3-baf8-5bc0cc8298bc@83.168.107.220:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#@meliproxyy
-vless://b1813cbd-831f-4cb3-baf8-5bc0cc8298bc@83.168.107.220:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#@v2ray313 کانالمون ❤️
-vless://b1813cbd-831f-4cb3-baf8-5bc0cc8298bc@83.168.107.220:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#@v2ray_phoenix
-vless://b1813cbd-831f-4cb3-baf8-5bc0cc8298bc@83.168.107.220:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#@vmess_ir
